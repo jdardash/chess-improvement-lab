@@ -1,0 +1,13 @@
+# Large binaries — re-download from https://stockfishchess.org/download/
+tools/stockfish/
+
+# Dependencies (vendored bundle is tracked; node_modules is not)
+tools/webapp/node_modules/
+
+# Python
+__pycache__/
+*.pyc
+
+# Session tooling artifacts
+.playwright-mcp/
+.remember/

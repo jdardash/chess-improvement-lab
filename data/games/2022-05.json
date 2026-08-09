@@ -1,0 +1,32 @@
+{
+ "games": [
+  {
+   "url": "https://www.chess.com/game/live/46312779355",
+   "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2022.05.15\"]\n[Round \"-\"]\n[White \"joshuadardashti\"]\n[Black \"Alectsis\"]\n[Result \"0-1\"]\n[CurrentPosition \"r2qkb1r/ppp1pp2/3p2p1/7B/1n1PP3/2N5/PPP2PP1/R1BQK1NR w KQkq -\"]\n[Timezone \"UTC\"]\n[ECO \"B07\"]\n[ECOUrl \"https://www.chess.com/openings/Pirc-Defense-2.d4-Nf6-3.Nc3\"]\n[UTCDate \"2022.05.15\"]\n[UTCTime \"00:19:12\"]\n[WhiteElo \"830\"]\n[BlackElo \"874\"]\n[TimeControl \"600\"]\n[Termination \"Alectsis won - game abandoned\"]\n[StartTime \"00:19:12\"]\n[EndDate \"2022.05.15\"]\n[EndTime \"00:22:54\"]\n[Link \"https://www.chess.com/game/live/46312779355\"]\n\n1. e4 {[%clk 0:10:00]} 1... d6 {[%clk 0:09:57.4]} 2. d4 {[%clk 0:09:58.2]} 2... Nf6 {[%clk 0:09:55.6]} 3. Nc3 {[%clk 0:09:29.8]} 3... Bg4 {[%clk 0:09:50.8]} 4. Be2 {[%clk 0:09:25.1]} 4... h5 {[%clk 0:09:40.8]} 5. h3 {[%clk 0:09:21.4]} 5... Nc6 {[%clk 0:09:30.9]} 6. hxg4 {[%clk 0:09:18.1]} 6... Nxg4 {[%clk 0:09:28.9]} 7. Bxg4 {[%clk 0:09:15.9]} 7... Nb4 {[%clk 0:09:23.3]} 8. Bxh5 {[%clk 0:08:57.3]} 8... g6 {[%clk 0:09:20.9]} 0-1\n",
+   "time_control": "600",
+   "end_time": 1652574174,
+   "rated": true,
+   "tcn": "mCZRlB!Tbs6Efm3Npx5QxETEmEQzEN2U",
+   "uuid": "a2ecb9d8-d3e4-11ec-b6c6-78ac4409ff3c",
+   "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+   "fen": "r2qkb1r/ppp1pp2/3p2p1/7B/1n1PP3/2N5/PPP2PP1/R1BQK1NR w KQkq -",
+   "time_class": "rapid",
+   "rules": "chess",
+   "white": {
+    "rating": 830,
+    "result": "abandoned",
+    "@id": "https://api.chess.com/pub/player/joshuadardashti",
+    "username": "joshuadardashti",
+    "uuid": "a77783a8-a866-11ea-afec-4dbad125e4ac"
+   },
+   "black": {
+    "rating": 874,
+    "result": "win",
+    "@id": "https://api.chess.com/pub/player/alectsis",
+    "username": "Alectsis",
+    "uuid": "bd77d91e-964e-11ec-813e-d98281dc77ed"
+   },
+   "eco": "https://www.chess.com/openings/Pirc-Defense-2.d4-Nf6-3.Nc3"
+  }
+ ]
+}

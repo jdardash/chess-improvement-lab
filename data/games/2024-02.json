@@ -1,0 +1,32 @@
+{
+ "games": [
+  {
+   "url": "https://www.chess.com/game/live/102898221605",
+   "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2024.02.28\"]\n[Round \"-\"]\n[White \"joshuadardashti\"]\n[Black \"Maggot0000\"]\n[Result \"0-1\"]\n[CurrentPosition \"2k1r3/ppqn2pp/2pb4/6P1/5B1P/3N4/PPP5/R3K2R w KQ -\"]\n[Timezone \"UTC\"]\n[ECO \"D02\"]\n[ECOUrl \"https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...Bf5\"]\n[UTCDate \"2024.02.28\"]\n[UTCTime \"22:26:11\"]\n[WhiteElo \"1152\"]\n[BlackElo \"1169\"]\n[TimeControl \"600\"]\n[Termination \"Maggot0000 won - game abandoned\"]\n[StartTime \"22:26:11\"]\n[EndDate \"2024.02.28\"]\n[EndTime \"22:31:00\"]\n[Link \"https://www.chess.com/game/live/102898221605\"]\n\n1. d4 {[%clk 0:10:00]} 1... d5 {[%clk 0:09:59.1]} 2. Nf3 {[%clk 0:09:55]} 2... Bf5 {[%clk 0:09:58.2]} 3. Nbd2 {[%clk 0:09:51.6]} 3... Nf6 {[%clk 0:09:57.2]} 4. h3 {[%clk 0:09:45.4]} 4... e6 {[%clk 0:09:56]} 5. g4 {[%clk 0:09:42.4]} 5... Bg6 {[%clk 0:09:55.6]} 6. g5 {[%clk 0:09:37.3]} 6... Ne4 {[%clk 0:09:50.3]} 7. Ne5 {[%clk 0:09:33.2]} 7... Nxd2 {[%clk 0:09:42.4]} 8. Bxd2 {[%clk 0:09:31.7]} 8... Bf5 {[%clk 0:09:39.4]} 9. f3 {[%clk 0:09:27.4]} 9... Bd6 {[%clk 0:09:34.9]} 10. h4 {[%clk 0:09:06]} 10... Nd7 {[%clk 0:09:32.5]} 11. f4 {[%clk 0:08:52.5]} 11... f6 {[%clk 0:09:18.6]} 12. Nd3 {[%clk 0:08:46.7]} 12... c6 {[%clk 0:09:09.4]} 13. Bg2 {[%clk 0:08:45.2]} 13... Qc7 {[%clk 0:09:04.5]} 14. e3 {[%clk 0:08:33]} 14... O-O-O {[%clk 0:08:57.7]} 15. Qe2 {[%clk 0:08:27.6]} 15... e5 {[%clk 0:08:55.5]} 16. dxe5 {[%clk 0:08:23.3]} 16... fxe5 {[%clk 0:08:54.3]} 17. e4 {[%clk 0:08:14.7]} 17... dxe4 {[%clk 0:08:50.1]} 18. Bxe4 {[%clk 0:08:12.5]} 18... Bxe4 {[%clk 0:08:42.7]} 19. Qxe4 {[%clk 0:08:09.4]} 19... exf4 {[%clk 0:08:38.2]} 20. Bxf4 {[%clk 0:08:07.1]} 20... Rde8 {[%clk 0:08:36.1]} 21. Qxe8+ {[%clk 0:07:19.5]} 21... Rxe8+ {[%clk 0:08:34.2]} 0-1\n",
+   "time_control": "600",
+   "end_time": 1709159460,
+   "rated": true,
+   "tcn": "lBZJgv6Lbl!Tpx0SoELUEMTCvKClclULnv9RxF5ZvD1TKtYQfo7Ymu86dmSKBKTKuCJCoCLCmCKDlD78C8?8",
+   "uuid": "5cc191fd-d688-11ee-9ba3-6cfe544c0428",
+   "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+   "fen": "2k1r3/ppqn2pp/2pb4/6P1/5B1P/3N4/PPP5/R3K2R w KQ -",
+   "time_class": "rapid",
+   "rules": "chess",
+   "white": {
+    "rating": 1152,
+    "result": "abandoned",
+    "@id": "https://api.chess.com/pub/player/joshuadardashti",
+    "username": "joshuadardashti",
+    "uuid": "a77783a8-a866-11ea-afec-4dbad125e4ac"
+   },
+   "black": {
+    "rating": 1169,
+    "result": "win",
+    "@id": "https://api.chess.com/pub/player/maggot0000",
+    "username": "Maggot0000",
+    "uuid": "257f6df2-d0b2-11ee-9812-99a2ed3cc130"
+   },
+   "eco": "https://www.chess.com/openings/Queens-Pawn-Opening-Zukertort-Variation-2...Bf5"
+  }
+ ]
+}

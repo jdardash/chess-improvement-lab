@@ -1,0 +1,11723 @@
+{
+ "recent": {
+  "rapid": {
+   "n": 83,
+   "w": 36,
+   "l": 45,
+   "d": 2,
+   "loss_term": {
+    "resigned": 20,
+    "timeout": 6,
+    "checkmated": 15,
+    "abandoned": 4
+   },
+   "win_term": {
+    "resigned": 17,
+    "checkmated": 8,
+    "timeout": 7,
+    "abandoned": 4
+   },
+   "loss_len": [
+    27,
+    42,
+    10,
+    29,
+    17,
+    63,
+    55,
+    13,
+    37,
+    29,
+    41,
+    15,
+    28,
+    12,
+    24,
+    8,
+    12,
+    25,
+    42,
+    24,
+    32,
+    35,
+    26,
+    35,
+    49,
+    63,
+    20,
+    19,
+    97,
+    54,
+    47,
+    20,
+    18,
+    34,
+    47,
+    48,
+    47,
+    42,
+    20,
+    52,
+    24,
+    38,
+    23,
+    22,
+    10
+   ],
+   "openings": {
+    "white|Pirc Defense Nf6": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Nyezhmetdinov Rossolimo": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Old Sicilian": [
+     3,
+     2,
+     0
+    ],
+    "black|Alapin Sicilian Defense Barmen": [
+     0,
+     1,
+     0
+    ],
+    "white|Pirc Defense Modern Defense": [
+     0,
+     1,
+     1
+    ],
+    "black|Van t Kruijs Opening": [
+     0,
+     1,
+     0
+    ],
+    "white|Birds Opening Swiss Gambit": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Indian Defense Normal": [
+     0,
+     1,
+     0
+    ],
+    "white|Vienna Game Max Lange": [
+     1,
+     0,
+     0
+    ],
+    "black|Alapin Sicilian Defense Nc6": [
+     0,
+     1,
+     0
+    ],
+    "black|London System...4.e3 e6 Bxd3": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Pawn Opening Chigorin": [
+     1,
+     0,
+     0
+    ],
+    "white|Old Benoni Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|Undefined": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening": [
+     0,
+     1,
+     1
+    ],
+    "white|Pirc Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Classical": [
+     1,
+     0,
+     0
+    ],
+    "black|Slav Defense Modern Quiet": [
+     0,
+     2,
+     0
+    ],
+    "white|French Defense La Bourdonnais": [
+     1,
+     1,
+     0
+    ],
+    "black|Sicilian Defense": [
+     1,
+     2,
+     0
+    ],
+    "black|Queens Pawn Opening c5": [
+     1,
+     0,
+     0
+    ],
+    "white|Englund Gambit": [
+     0,
+     1,
+     0
+    ],
+    "white|Trompowsky Attack": [
+     0,
+     1,
+     0
+    ],
+    "black|Scotch Game": [
+     0,
+     1,
+     0
+    ],
+    "white|Scandinavian Defense Mieses Kotrc": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Bowdler Attack": [
+     3,
+     0,
+     0
+    ],
+    "white|Four Knights Game Spanish": [
+     2,
+     0,
+     0
+    ],
+    "white|Ruy Lopez Opening Cozio": [
+     1,
+     0,
+     0
+    ],
+    "black|Indian Game": [
+     1,
+     1,
+     0
+    ],
+    "black|Indian Game Tartakower Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|Alapin Sicilian Defense...3.Nf3 Nc6": [
+     1,
+     0,
+     0
+    ],
+    "white|French Defense Normal Variation": [
+     1,
+     1,
+     0
+    ],
+    "black|Sicilian Defense French Variation": [
+     1,
+     1,
+     0
+    ],
+    "white|Kings Pawn Opening Kings": [
+     0,
+     2,
+     0
+    ],
+    "white|Ruy Lopez Opening Classical": [
+     0,
+     1,
+     0
+    ],
+    "white|Van t Kruijs Opening": [
+     0,
+     1,
+     0
+    ],
+    "white|Scandinavian Defense": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Staunton Cochrane": [
+     0,
+     1,
+     0
+    ],
+    "white|Vienna Game": [
+     1,
+     0,
+     0
+    ],
+    "black|Closed Sicilian Defense Traditional": [
+     0,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense d6": [
+     1,
+     0,
+     0
+    ],
+    "white|Caro Kann Defense Tartakower": [
+     1,
+     0,
+     0
+    ],
+    "black|Scandinavian Defense Mieses Kotrc": [
+     0,
+     1,
+     0
+    ],
+    "white|London System": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Zukertort": [
+     0,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Advance": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Cowboy Attack...4.Bb2": [
+     0,
+     1,
+     0
+    ],
+    "white|Italian Game Hungarian Defense": [
+     1,
+     0,
+     0
+    ],
+    "white|Sicilian Defense Hyperaccelerated Dragon": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Gambit Accepted Central": [
+     0,
+     1,
+     0
+    ],
+    "white|Ruy Lopez Opening Berlin": [
+     0,
+     2,
+     0
+    ],
+    "black|Queens Pawn Opening Accelerated": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Fianchetto Opening...2.Bg2 e5": [
+     1,
+     0,
+     0
+    ],
+    "white|Philidor Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Slav Defense Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Pirc Defense Classical Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|Giuoco Piano Game Four": [
+     1,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game Giuoco": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Open Lowenthal": [
+     1,
+     0,
+     0
+    ],
+    "black|Mieses Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|French Defense Advance Nimzowitsch": [
+     0,
+     1,
+     0
+    ],
+    "white|Modern Defense Standard Two": [
+     1,
+     0,
+     0
+    ],
+    "white|Nimzowitsch Defense Scandinavian Advance": [
+     1,
+     0,
+     0
+    ],
+    "black|Three Knights Opening": [
+     0,
+     1,
+     0
+    ]
+   },
+   "fast_losses": 19,
+   "clocked_losses": 45,
+   "loss_time_left_frac": [
+    0.3631666666666667,
+    0.0015,
+    0.87,
+    0.44949999999999996,
+    0.6723333333333333,
+    0.002,
+    0.0008333333333333334,
+    0.814,
+    0.32966666666666666,
+    0.5336666666666666,
+    0.09033333333333333,
+    0.5956666666666667,
+    0.129,
+    0.9339999999999999,
+    0.6601666666666667,
+    0.9218333333333334,
+    0.83,
+    0.42633333333333334,
+    0.06766666666666667,
+    0.5263333333333333,
+    0.2975,
+    0.3998333333333333,
+    0.32666666666666666,
+    0.13099999999999998,
+    0.04883333333333333,
+    0.4355,
+    0.4573333333333333,
+    0.8035,
+    0.2006666666666667,
+    0.043333333333333335,
+    0.1875,
+    0.8411666666666666,
+    0.426,
+    0.5973333333333333,
+    0.0005,
+    0.49649999999999994,
+    0.0013333333333333335,
+    0.26166666666666666,
+    0.7063333333333334,
+    0.296,
+    0.5435,
+    0.5153333333333333,
+    0.7698333333333333,
+    0.8055,
+    0.9328333333333334
+   ],
+   "snap_moves": 800,
+   "timed_moves": 2680,
+   "accuracy": [
+    77.9,
+    67.43,
+    71.99,
+    81.29,
+    76.57,
+    64.55,
+    41.87,
+    51.34,
+    80.1,
+    72.34,
+    77.91,
+    70.71,
+    72.04,
+    73.23
+   ]
+  }
+ },
+ "all": {
+  "blitz": {
+   "n": 1746,
+   "w": 846,
+   "l": 826,
+   "d": 74,
+   "loss_term": {
+    "resigned": 429,
+    "checkmated": 235,
+    "timeout": 116,
+    "abandoned": 46
+   },
+   "win_term": {
+    "checkmated": 323,
+    "resigned": 297,
+    "timeout": 183,
+    "abandoned": 43
+   },
+   "loss_len": [
+    56,
+    26,
+    23,
+    22,
+    18,
+    54,
+    61,
+    28,
+    42,
+    35,
+    16,
+    8,
+    35,
+    40,
+    46,
+    18,
+    21,
+    30,
+    23,
+    27,
+    35,
+    29,
+    28,
+    15,
+    16,
+    38,
+    11,
+    21,
+    10,
+    16,
+    6,
+    36,
+    37,
+    22,
+    3,
+    34,
+    12,
+    21,
+    24,
+    2,
+    7,
+    38,
+    32,
+    10,
+    43,
+    12,
+    31,
+    25,
+    38,
+    5,
+    8,
+    46,
+    22,
+    7,
+    49,
+    29,
+    14,
+    14,
+    4,
+    20,
+    24,
+    46,
+    4,
+    14,
+    21,
+    14,
+    24,
+    24,
+    19,
+    34,
+    28,
+    38,
+    32,
+    13,
+    23,
+    27,
+    28,
+    40,
+    21,
+    25,
+    19,
+    23,
+    13,
+    6,
+    14,
+    38,
+    21,
+    42,
+    12,
+    25,
+    29,
+    12,
+    22,
+    34,
+    41,
+    24,
+    19,
+    33,
+    35,
+    20,
+    12,
+    12,
+    41,
+    17,
+    14,
+    17,
+    30,
+    48,
+    8,
+    26,
+    16,
+    34,
+    9,
+    26,
+    39,
+    6,
+    12,
+    15,
+    38,
+    13,
+    15,
+    20,
+    18,
+    10,
+    16,
+    9,
+    23,
+    30,
+    40,
+    6,
+    33,
+    37,
+    7,
+    30,
+    14,
+    31,
+    13,
+    5,
+    9,
+    7,
+    35,
+    28,
+    16,
+    15,
+    20,
+    25,
+    8,
+    9,
+    39,
+    8,
+    23,
+    15,
+    7,
+    32,
+    12,
+    6,
+    30,
+    3,
+    25,
+    7,
+    3,
+    5,
+    7,
+    4,
+    7,
+    27,
+    31,
+    6,
+    10,
+    34,
+    31,
+    12,
+    2,
+    41,
+    39,
+    3,
+    34,
+    27,
+    6,
+    41,
+    5,
+    16,
+    29,
+    24,
+    35,
+    27,
+    35,
+    22,
+    26,
+    5,
+    19,
+    33,
+    29,
+    17,
+    21,
+    4,
+    14,
+    30,
+    4,
+    38,
+    36,
+    38,
+    3,
+    35,
+    28,
+    8,
+    5,
+    47,
+    24,
+    13,
+    16,
+    32,
+    8,
+    20,
+    36,
+    16,
+    47,
+    13,
+    10,
+    12,
+    14,
+    15,
+    32,
+    31,
+    19,
+    12,
+    15,
+    16,
+    29,
+    34,
+    34,
+    26,
+    15,
+    6,
+    35,
+    23,
+    30,
+    20,
+    34,
+    17,
+    17,
+    39,
+    20,
+    21,
+    6,
+    11,
+    12,
+    11,
+    28,
+    25,
+    44,
+    24,
+    39,
+    18,
+    22,
+    19,
+    4,
+    30,
+    42,
+    23,
+    17,
+    24,
+    30,
+    12,
+    31,
+    23,
+    11,
+    20,
+    5,
+    4,
+    12,
+    26,
+    11,
+    16,
+    24,
+    27,
+    34,
+    37,
+    37,
+    10,
+    28,
+    30,
+    23,
+    7,
+    33,
+    24,
+    37,
+    29,
+    26,
+    9,
+    40,
+    57,
+    24,
+    29,
+    24,
+    15,
+    44,
+    35,
+    31,
+    13,
+    15,
+    35,
+    29,
+    15,
+    18,
+    7,
+    4,
+    12,
+    26,
+    27,
+    29,
+    16,
+    10,
+    40,
+    31,
+    13,
+    11,
+    61,
+    43,
+    8,
+    47,
+    23,
+    32,
+    5,
+    12,
+    15,
+    35,
+    42,
+    25,
+    8,
+    13,
+    20,
+    19,
+    38,
+    9,
+    19,
+    6,
+    27,
+    8,
+    18,
+    28,
+    29,
+    57,
+    8,
+    63,
+    12,
+    25,
+    41,
+    41,
+    13,
+    14,
+    50,
+    23,
+    34,
+    6,
+    13,
+    12,
+    3,
+    11,
+    21,
+    9,
+    11,
+    15,
+    26,
+    15,
+    11,
+    9,
+    7,
+    14,
+    9,
+    9,
+    43,
+    17,
+    15,
+    14,
+    6,
+    40,
+    10,
+    16,
+    12,
+    32,
+    12,
+    23,
+    11,
+    17,
+    17,
+    19,
+    16,
+    43,
+    27,
+    15,
+    27,
+    26,
+    8,
+    32,
+    25,
+    16,
+    23,
+    10,
+    33,
+    12,
+    44,
+    32,
+    36,
+    19,
+    23,
+    29,
+    25,
+    59,
+    23,
+    30,
+    44,
+    10,
+    19,
+    9,
+    42,
+    13,
+    20,
+    42,
+    18,
+    46,
+    28,
+    13,
+    34,
+    29,
+    12,
+    15,
+    30,
+    14,
+    6,
+    7,
+    17,
+    25,
+    7,
+    29,
+    11,
+    33,
+    11,
+    8,
+    28,
+    21,
+    44,
+    7,
+    25,
+    13,
+    29,
+    6,
+    16,
+    6,
+    27,
+    12,
+    49,
+    31,
+    37,
+    3,
+    10,
+    32,
+    21,
+    30,
+    22,
+    4,
+    21,
+    3,
+    41,
+    13,
+    47,
+    29,
+    56,
+    2,
+    14,
+    18,
+    40,
+    2,
+    13,
+    13,
+    35,
+    47,
+    29,
+    80,
+    25,
+    8,
+    51,
+    42,
+    37,
+    16,
+    22,
+    22,
+    41,
+    36,
+    63,
+    45,
+    45,
+    16,
+    27,
+    36,
+    26,
+    20,
+    26,
+    39,
+    5,
+    27,
+    11,
+    22,
+    8,
+    4,
+    13,
+    28,
+    23,
+    12,
+    38,
+    42,
+    9,
+    18,
+    16,
+    16,
+    8,
+    18,
+    33,
+    14,
+    33,
+    33,
+    58,
+    10,
+    24,
+    12,
+    25,
+    55,
+    24,
+    20,
+    7,
+    18,
+    26,
+    23,
+    12,
+    28,
+    15,
+    12,
+    12,
+    37,
+    9,
+    52,
+    16,
+    10,
+    4,
+    9,
+    52,
+    14,
+    31,
+    44,
+    32,
+    50,
+    15,
+    13,
+    34,
+    22,
+    47,
+    19,
+    13,
+    17,
+    37,
+    42,
+    34,
+    13,
+    18,
+    6,
+    15,
+    33,
+    20,
+    35,
+    15,
+    16,
+    17,
+    25,
+    11,
+    23,
+    5,
+    32,
+    55,
+    25,
+    31,
+    24,
+    5,
+    6,
+    14,
+    29,
+    17,
+    42,
+    12,
+    18,
+    17,
+    21,
+    33,
+    12,
+    10,
+    17,
+    50,
+    49,
+    32,
+    33,
+    32,
+    30,
+    14,
+    37,
+    19,
+    19,
+    60,
+    37,
+    14,
+    32,
+    28,
+    21,
+    35,
+    39,
+    28,
+    59,
+    8,
+    33,
+    4,
+    24,
+    26,
+    19,
+    32,
+    26,
+    11,
+    37,
+    16,
+    50,
+    20,
+    33,
+    19,
+    3,
+    30,
+    19,
+    37,
+    39,
+    1,
+    19,
+    36,
+    30,
+    23,
+    7,
+    32,
+    49,
+    33,
+    46,
+    34,
+    47,
+    26,
+    17,
+    36,
+    15,
+    14,
+    24,
+    21,
+    28,
+    26,
+    30,
+    14,
+    9,
+    23,
+    19,
+    64,
+    21,
+    21,
+    35,
+    23,
+    36,
+    14,
+    31,
+    29,
+    9,
+    34,
+    30,
+    62,
+    28,
+    16,
+    23,
+    23,
+    29,
+    15,
+    30,
+    40,
+    29,
+    36,
+    41,
+    21,
+    26,
+    45,
+    21,
+    27,
+    28,
+    23,
+    7,
+    10,
+    22,
+    20,
+    15,
+    21,
+    21,
+    26,
+    19,
+    26,
+    88,
+    70,
+    15,
+    10,
+    26,
+    35,
+    9,
+    63,
+    16,
+    39,
+    32,
+    42,
+    15,
+    28,
+    87,
+    30,
+    26,
+    23,
+    10,
+    24,
+    68,
+    7,
+    25,
+    29,
+    25,
+    34,
+    14,
+    39,
+    32,
+    38,
+    36,
+    11,
+    20,
+    9,
+    74,
+    59,
+    20,
+    30,
+    56,
+    13,
+    26,
+    15,
+    14,
+    30,
+    40,
+    18,
+    19,
+    39,
+    43,
+    26,
+    25,
+    28,
+    1,
+    41,
+    39,
+    18,
+    22,
+    53,
+    29,
+    41,
+    34,
+    16,
+    8,
+    42,
+    47,
+    47,
+    28,
+    17,
+    25,
+    12,
+    30,
+    44,
+    35,
+    29,
+    16,
+    29,
+    36,
+    31,
+    38,
+    33,
+    38,
+    30,
+    37,
+    59,
+    45,
+    22,
+    39,
+    9,
+    16,
+    29,
+    31,
+    10,
+    20,
+    20,
+    13,
+    24,
+    24,
+    43,
+    26,
+    24,
+    33,
+    30,
+    34,
+    68,
+    37,
+    21,
+    18,
+    27,
+    35,
+    43,
+    11,
+    7,
+    21,
+    28,
+    22,
+    30,
+    23,
+    14,
+    21,
+    48,
+    2,
+    9,
+    35,
+    35
+   ],
+   "openings": {
+    "white|Vienna Game Falkbeer Variation": [
+     3,
+     4,
+     0
+    ],
+    "black|Kings Pawn Opening Kings": [
+     8,
+     13,
+     2
+    ],
+    "white|Birds Opening": [
+     1,
+     1,
+     0
+    ],
+    "black|Mieses Opening Reversed Rat": [
+     2,
+     2,
+     1
+    ],
+    "black|Reti Opening": [
+     4,
+     5,
+     0
+    ],
+    "white|Nimzowitsch Defense Nf6": [
+     0,
+     3,
+     0
+    ],
+    "black|Grob Opening": [
+     0,
+     4,
+     0
+    ],
+    "white|Kings Pawn Opening Leonardis": [
+     3,
+     0,
+     0
+    ],
+    "white|Alekhines Defense Maroczy Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|French Defense Classical Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Philidor Defense": [
+     1,
+     0,
+     1
+    ],
+    "white|Vienna Game Max Lange": [
+     8,
+     2,
+     0
+    ],
+    "white|Van t Kruijs Opening": [
+     3,
+     3,
+     1
+    ],
+    "black|Kings Pawn Opening": [
+     41,
+     41,
+     1
+    ],
+    "white|Kings Pawn Opening Kings": [
+     25,
+     16,
+     1
+    ],
+    "black|Nimzowitsch Larsen Attack Modern": [
+     2,
+     5,
+     0
+    ],
+    "white|Scotch Game Nxd4": [
+     1,
+     0,
+     1
+    ],
+    "black|Vienna Game Falkbeer Vienna": [
+     0,
+     3,
+     0
+    ],
+    "white|Alekhines Defense": [
+     8,
+     2,
+     1
+    ],
+    "white|Scandinavian Defense": [
+     5,
+     6,
+     0
+    ],
+    "black|Queens Pawn Opening Chigorin": [
+     8,
+     14,
+     0
+    ],
+    "white|Kings Pawn Opening": [
+     11,
+     10,
+     1
+    ],
+    "black|Nimzowitsch Defense Kennedy Linksspringer": [
+     0,
+     2,
+     0
+    ],
+    "white|Petrovs Defense Three Knights": [
+     8,
+     6,
+     1
+    ],
+    "black|Kings Gambit": [
+     3,
+     2,
+     0
+    ],
+    "white|Scandinavian Defense Mieses Kotrc": [
+     34,
+     21,
+     3
+    ],
+    "white|Closed Sicilian Defense Portland": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Pawn Opening Leonardis": [
+     11,
+     9,
+     3
+    ],
+    "black|Kings Fianchetto Opening": [
+     4,
+     1,
+     1
+    ],
+    "black|Queens Pawn Opening Accelerated": [
+     2,
+     7,
+     1
+    ],
+    "white|Four Knights Game Scotch": [
+     1,
+     4,
+     0
+    ],
+    "black|Four Knights Game Scotch": [
+     5,
+     5,
+     0
+    ],
+    "white|Sicilian Defense Staunton Cochrane": [
+     2,
+     3,
+     0
+    ],
+    "white|Three Knights Opening": [
+     2,
+     3,
+     0
+    ],
+    "black|Indian Game Deferred Blackmar": [
+     1,
+     0,
+     0
+    ],
+    "black|Petrovs Defense Classical Variation": [
+     14,
+     11,
+     1
+    ],
+    "white|Petrovs Defense Steinitz Attack": [
+     1,
+     0,
+     0
+    ],
+    "black|Vienna Game Falkbeer Variation": [
+     3,
+     2,
+     0
+    ],
+    "black|Center Game": [
+     3,
+     7,
+     1
+    ],
+    "white|Scandinavian Defense Closed": [
+     3,
+     3,
+     0
+    ],
+    "white|Philidor Defense": [
+     22,
+     12,
+     0
+    ],
+    "black|Englund Gambit": [
+     7,
+     8,
+     0
+    ],
+    "black|Petrovs Defense": [
+     9,
+     10,
+     0
+    ],
+    "white|French Defense St George": [
+     0,
+     1,
+     0
+    ],
+    "white|French Defense Knight Variation": [
+     0,
+     2,
+     0
+    ],
+    "black|Four Knights Game Italian": [
+     1,
+     2,
+     0
+    ],
+    "black|French Defense Steinitz Attack": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Pawn Opening": [
+     11,
+     9,
+     1
+    ],
+    "black|English Opening Four Knights": [
+     2,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense d5": [
+     4,
+     4,
+     0
+    ],
+    "black|Petrovs Defense Steinitz Attack": [
+     4,
+     2,
+     0
+    ],
+    "black|Queens Gambit Declined Marshall": [
+     0,
+     4,
+     0
+    ],
+    "white|Vienna Game": [
+     4,
+     2,
+     2
+    ],
+    "black|Petrovs Defense Three Knights": [
+     14,
+     9,
+     2
+    ],
+    "white|Center Game": [
+     7,
+     2,
+     1
+    ],
+    "white|Sicilian Defense OKelly Yerevan": [
+     0,
+     2,
+     0
+    ],
+    "white|Sicilian Defense Nimzowitsch Closed": [
+     0,
+     1,
+     0
+    ],
+    "white|Petrovs Defense Classical Variation": [
+     1,
+     2,
+     1
+    ],
+    "black|Van t Kruijs Opening": [
+     15,
+     13,
+     0
+    ],
+    "black|Italian Game Two Knights": [
+     0,
+     10,
+     0
+    ],
+    "white|Undefined": [
+     11,
+     9,
+     1
+    ],
+    "black|Reti Opening Kingside Fianchetto": [
+     1,
+     0,
+     0
+    ],
+    "white|Saragossa Opening": [
+     3,
+     0,
+     0
+    ],
+    "white|Modern Defense with e4": [
+     5,
+     2,
+     0
+    ],
+    "white|Clemenz Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|Nimzowitsch Defense French Connection": [
+     1,
+     0,
+     0
+    ],
+    "white|Sicilian Defense French Variation": [
+     1,
+     0,
+     1
+    ],
+    "black|Scotch Game Nxd4": [
+     2,
+     1,
+     0
+    ],
+    "black|Bishops Opening Berlin Defense": [
+     7,
+     3,
+     0
+    ],
+    "white|Alekhines Defense Brooklyn Variation": [
+     2,
+     0,
+     0
+    ],
+    "white|Ruy Lopez Opening Old": [
+     2,
+     2,
+     0
+    ],
+    "black|Italian Game Knight Attack": [
+     4,
+     0,
+     0
+    ],
+    "white|Four Knights Game Spanish": [
+     4,
+     3,
+     0
+    ],
+    "white|Old Benoni Defense cxd4": [
+     1,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening e6": [
+     1,
+     1,
+     0
+    ],
+    "white|Scotch Game": [
+     2,
+     0,
+     0
+    ],
+    "white|Sicilian Defense...4.e5 dxe5 Nbd7": [
+     1,
+     0,
+     0
+    ],
+    "black|English Opening Kings English": [
+     5,
+     2,
+     0
+    ],
+    "black|Four Knights Game Spanish": [
+     1,
+     2,
+     0
+    ],
+    "black|Scandinavian Defense": [
+     3,
+     1,
+     0
+    ],
+    "white|Vienna Game Anderssen Defense": [
+     3,
+     1,
+     0
+    ],
+    "white|Four Knights Game Double": [
+     0,
+     1,
+     0
+    ],
+    "black|Undefined": [
+     5,
+     1,
+     1
+    ],
+    "white|Indian Game Knights Variation": [
+     1,
+     1,
+     0
+    ],
+    "white|Four Knights Game": [
+     1,
+     1,
+     0
+    ],
+    "black|Petrovs Defense Nc6": [
+     3,
+     1,
+     0
+    ],
+    "black|Ponziani Opening Jaenisch Counterattack": [
+     0,
+     1,
+     0
+    ],
+    "white|Philidor Defense Exchange Variation": [
+     0,
+     0,
+     1
+    ],
+    "black|Queens Gambit Accepted Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Closed Sicilian Defense Traditional": [
+     4,
+     0,
+     0
+    ],
+    "white|Pirc Defense Modern Defense": [
+     1,
+     7,
+     0
+    ],
+    "white|English Opening Mikenas Carls": [
+     1,
+     1,
+     0
+    ],
+    "black|English Opening Symmetrical Variation": [
+     1,
+     2,
+     0
+    ],
+    "black|Italian Game Bg4": [
+     1,
+     0,
+     0
+    ],
+    "black|Philidor Defense Nimzowitsch Variation": [
+     2,
+     1,
+     0
+    ],
+    "white|Scandinavian Defense Closed Bf5": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Fianchetto Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|Vienna Game Falkbeer Mieses": [
+     1,
+     0,
+     0
+    ],
+    "black|Scotch Game": [
+     3,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening Zukertort": [
+     9,
+     7,
+     0
+    ],
+    "white|Caro Kann Defense g6": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening Nf6": [
+     1,
+     1,
+     0
+    ],
+    "black|Queens Gambit Declined Chigorin": [
+     1,
+     2,
+     0
+    ],
+    "white|Pirc Defense": [
+     1,
+     2,
+     0
+    ],
+    "black|Three Knights Opening": [
+     7,
+     4,
+     3
+    ],
+    "white|French Defense Normal Variation": [
+     7,
+     3,
+     0
+    ],
+    "black|Queens Pawn Opening Levitsky": [
+     2,
+     0,
+     1
+    ],
+    "white|Pirc Defense...4.dxe5 dxe5 Kxd8": [
+     1,
+     0,
+     0
+    ],
+    "white|Center Game Accepted Normal": [
+     5,
+     5,
+     0
+    ],
+    "white|Center Game Accepted": [
+     2,
+     1,
+     0
+    ],
+    "white|Pirc Defense Nf6": [
+     1,
+     1,
+     0
+    ],
+    "white|Scotch Game Malaniuk Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Blackmar": [
+     0,
+     3,
+     0
+    ],
+    "white|Owens Defense": [
+     0,
+     4,
+     1
+    ],
+    "black|Queens Pawn Opening Blackmar": [
+     3,
+     0,
+     1
+    ],
+    "black|Scandinavian Defense Mieses Kotrc": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Fianchetto Opening d5": [
+     1,
+     0,
+     0
+    ],
+    "white|French Defense Normal Variation...4.Nf3": [
+     0,
+     1,
+     0
+    ],
+    "black|Vienna Game": [
+     3,
+     5,
+     0
+    ],
+    "black|Colle System": [
+     1,
+     0,
+     0
+    ],
+    "black|Four Knights Game Double": [
+     0,
+     1,
+     0
+    ],
+    "white|French Defense Queens Knight": [
+     1,
+     1,
+     0
+    ],
+    "white|Nimzowitsch Defense Scandinavian Bogoljubov": [
+     0,
+     0,
+     1
+    ],
+    "white|Nimzowitsch Defense": [
+     3,
+     1,
+     0
+    ],
+    "black|Kings Pawn Opening Adams": [
+     6,
+     5,
+     2
+    ],
+    "white|Nimzowitsch Defense Kennedy Linksspringer": [
+     1,
+     1,
+     0
+    ],
+    "black|French Defense Knight Variation": [
+     0,
+     0,
+     2
+    ],
+    "white|Indian Game": [
+     1,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Smith Morra": [
+     2,
+     1,
+     0
+    ],
+    "black|Italian Game": [
+     3,
+     5,
+     0
+    ],
+    "white|English Opening Two Knights": [
+     0,
+     1,
+     0
+    ],
+    "black|Vienna Game Anderssen Defense": [
+     2,
+     4,
+     1
+    ],
+    "black|Kings Fianchetto Opening Indian": [
+     0,
+     0,
+     1
+    ],
+    "white|French Defense Normal Variation...3.Nc3": [
+     1,
+     0,
+     0
+    ],
+    "white|Giuoco Piano Game O": [
+     3,
+     1,
+     1
+    ],
+    "black|Kings Fianchetto Opening Nf6": [
+     1,
+     1,
+     0
+    ],
+    "black|Van Geet Opening Reversed": [
+     0,
+     3,
+     0
+    ],
+    "white|Italian Game": [
+     15,
+     14,
+     2
+    ],
+    "black|English Opening Symmetrical Two": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Fianchetto Opening Reversed": [
+     0,
+     1,
+     0
+    ],
+    "black|Indian Game East Indian": [
+     0,
+     1,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack": [
+     1,
+     1,
+     0
+    ],
+    "black|Indian Game Knights Variation": [
+     0,
+     2,
+     0
+    ],
+    "white|Reti Opening Black Mustang": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Indian Attack Yugoslav": [
+     1,
+     0,
+     0
+    ],
+    "white|Reti Opening Queens Gambit": [
+     0,
+     1,
+     0
+    ],
+    "white|Indian Game Yusupov Rubinstein": [
+     0,
+     1,
+     0
+    ],
+    "white|Colle System": [
+     2,
+     0,
+     0
+    ],
+    "white|Sicilian Defense": [
+     2,
+     0,
+     0
+    ],
+    "white|Italian Game Two Knights": [
+     4,
+     4,
+     1
+    ],
+    "black|Saragossa Opening": [
+     1,
+     1,
+     0
+    ],
+    "black|English Opening Symmetrical Four": [
+     0,
+     1,
+     0
+    ],
+    "white|Bishops Opening": [
+     5,
+     8,
+     1
+    ],
+    "white|Alekhines Defense Scandinavian Variation": [
+     2,
+     2,
+     0
+    ],
+    "black|Bishops Opening Boi Variation": [
+     2,
+     4,
+     0
+    ],
+    "black|English Opening Reversed Sicilian": [
+     0,
+     1,
+     0
+    ],
+    "white|French Defense": [
+     2,
+     5,
+     0
+    ],
+    "white|Bishops Opening Berlin Defense": [
+     1,
+     5,
+     0
+    ],
+    "black|Richter Veresov Attack Classical": [
+     0,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game Evans": [
+     0,
+     2,
+     0
+    ],
+    "white|Bishops Opening Boi Variation": [
+     4,
+     1,
+     0
+    ],
+    "white|Petrovs Defense": [
+     6,
+     8,
+     0
+    ],
+    "white|Giuoco Piano Game Four": [
+     0,
+     4,
+     0
+    ],
+    "black|Polish Opening": [
+     1,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense": [
+     1,
+     2,
+     0
+    ],
+    "white|Reti Opening Queenside Fianchetto": [
+     0,
+     4,
+     0
+    ],
+    "black|Giuoco Piano Game": [
+     1,
+     1,
+     0
+    ],
+    "black|Four Knights Game": [
+     1,
+     0,
+     0
+    ],
+    "white|French Defense Steinitz Attack": [
+     6,
+     8,
+     0
+    ],
+    "white|Kings Pawn Opening Latvian": [
+     1,
+     0,
+     0
+    ],
+    "black|Giuoco Piano Game Giuoco": [
+     4,
+     2,
+     1
+    ],
+    "white|Reti Opening Dutch Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Reti Opening Reti Gambit": [
+     1,
+     0,
+     0
+    ],
+    "black|French Defense Normal Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|Italian Game O": [
+     1,
+     1,
+     0
+    ],
+    "black|Philidor Defense Exchange Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Gambit Declined Queens": [
+     0,
+     1,
+     0
+    ],
+    "black|Scotch Game Schmidt Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|Four Knights Game Italian": [
+     4,
+     3,
+     0
+    ],
+    "black|Queens Gambit Declined Ragozin": [
+     0,
+     1,
+     0
+    ],
+    "white|Reti Opening Kingside Fianchetto": [
+     1,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game Four": [
+     1,
+     4,
+     0
+    ],
+    "white|Philidor Defense Nf6": [
+     5,
+     1,
+     0
+    ],
+    "black|Center Game Accepted Normal": [
+     1,
+     3,
+     0
+    ],
+    "white|French Defense Exchange Variation": [
+     2,
+     1,
+     0
+    ],
+    "white|Philidor Defense Exchange Variation...5.Nc3": [
+     0,
+     1,
+     0
+    ],
+    "white|Ruy Lopez Opening Morphy": [
+     3,
+     4,
+     0
+    ],
+    "black|Kings Gambit Declined Queens": [
+     2,
+     0,
+     0
+    ],
+    "black|Ruy Lopez Opening Berlin": [
+     1,
+     1,
+     0
+    ],
+    "white|Queens Pawn Opening Chigorin": [
+     2,
+     1,
+     0
+    ],
+    "white|Sicilian Defense OKelly Normal": [
+     2,
+     0,
+     0
+    ],
+    "white|Ruy Lopez Opening Birds": [
+     1,
+     1,
+     0
+    ],
+    "white|Italian Game Knight Attack": [
+     7,
+     8,
+     2
+    ],
+    "black|Giuoco Piano Game O": [
+     1,
+     1,
+     0
+    ],
+    "black|Ruy Lopez Opening Spanish": [
+     0,
+     1,
+     0
+    ],
+    "black|English Opening Anglo Indian": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense Nf6": [
+     0,
+     0,
+     1
+    ],
+    "black|Queens Pawn Opening Symmetrical": [
+     1,
+     1,
+     0
+    ],
+    "white|Indian Game Knights Variation...3.c3": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Gambit Declined Nf6": [
+     0,
+     2,
+     0
+    ],
+    "black|Kings Gambit Accepted": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense OKelly Venice": [
+     0,
+     1,
+     0
+    ],
+    "white|Italian Game Traxler Knight": [
+     3,
+     2,
+     0
+    ],
+    "white|Sicilian Defense Old Sicilian": [
+     0,
+     5,
+     1
+    ],
+    "black|Indian Game...3.e3 d5 Bd6": [
+     0,
+     1,
+     0
+    ],
+    "black|London System": [
+     1,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Two": [
+     1,
+     0,
+     0
+    ],
+    "black|Slav Defense Modern Three": [
+     0,
+     1,
+     0
+    ],
+    "black|Indian Game": [
+     2,
+     1,
+     0
+    ],
+    "white|Pirc Defense Classical Variation": [
+     0,
+     0,
+     1
+    ],
+    "white|Queens Gambit Accepted Old": [
+     0,
+     2,
+     0
+    ],
+    "black|Queens Pawn Opening Krause": [
+     1,
+     3,
+     0
+    ],
+    "white|Sicilian Defense Kramnik Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|Alekhines Defense Two Pawns": [
+     1,
+     0,
+     1
+    ],
+    "white|Petrovs Defense Classical Nimzowitsch": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Gambit": [
+     2,
+     4,
+     0
+    ],
+    "white|Queens Pawn Opening Tartakower": [
+     2,
+     0,
+     0
+    ],
+    "black|Bishops Opening Berlin Spielmann": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense Modern Line": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening Tartakower": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Pawn Opening Tortoise": [
+     1,
+     0,
+     0
+    ],
+    "black|Center Game Accepted Paulsen": [
+     0,
+     1,
+     0
+    ],
+    "white|Pirc Defense Maroczy Defense": [
+     1,
+     1,
+     0
+    ],
+    "white|Queens Pawn Opening Mikenas": [
+     4,
+     4,
+     0
+    ],
+    "black|Englund Gambit Nc6": [
+     0,
+     3,
+     1
+    ],
+    "black|Reti Opening Old Indian": [
+     1,
+     0,
+     0
+    ],
+    "white|Sicilian Defense Bowdler Attack": [
+     2,
+     2,
+     0
+    ],
+    "white|Pirc Defense Main Line": [
+     0,
+     1,
+     0
+    ],
+    "white|Giuoco Piano Game d6": [
+     1,
+     0,
+     0
+    ],
+    "black|Pirc Defense Maroczy Defense": [
+     1,
+     3,
+     0
+    ],
+    "white|Ruy Lopez Opening": [
+     2,
+     3,
+     0
+    ],
+    "black|English Opening": [
+     0,
+     2,
+     0
+    ],
+    "black|Kings Fianchetto Opening d5": [
+     1,
+     2,
+     0
+    ],
+    "black|Indian Game e6": [
+     1,
+     0,
+     0
+    ],
+    "black|Bishops Opening": [
+     4,
+     0,
+     0
+    ],
+    "white|Ruy Lopez Opening Berlin": [
+     2,
+     2,
+     1
+    ],
+    "black|Reti Opening Black Mustang": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Indian Attack...3.Bg2 e5": [
+     1,
+     0,
+     0
+    ],
+    "white|Ruy Lopez Opening Classical": [
+     1,
+     0,
+     0
+    ],
+    "black|French Defense Classical Burn": [
+     1,
+     0,
+     0
+    ],
+    "white|Old Benoni Defense d6": [
+     0,
+     1,
+     0
+    ],
+    "white|Owens Defense Bb7": [
+     2,
+     0,
+     0
+    ],
+    "white|Modern Defense Three Pawns": [
+     1,
+     1,
+     1
+    ],
+    "black|Englund Gambit Nc6 Qe7": [
+     0,
+     1,
+     0
+    ],
+    "black|Danish Gambit": [
+     0,
+     1,
+     0
+    ],
+    "black|Birds Opening Dutch Variation": [
+     2,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Semi": [
+     1,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Accelerated": [
+     0,
+     1,
+     0
+    ],
+    "white|Bishops Opening Berlin Ponziani": [
+     1,
+     1,
+     0
+    ],
+    "black|Ruy Lopez Opening Morphy": [
+     1,
+     2,
+     0
+    ],
+    "white|Giuoco Piano Game Main": [
+     2,
+     1,
+     0
+    ],
+    "black|French Defense Rubinstein Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense Nf6 e6": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Pawn Opening c5": [
+     1,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening Anti": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Torre": [
+     1,
+     0,
+     0
+    ],
+    "white|Philidor Defense Be7": [
+     0,
+     1,
+     0
+    ],
+    "black|Vienna Game Max Lange": [
+     2,
+     0,
+     0
+    ],
+    "white|Vienna Game Falkbeer Stanley": [
+     1,
+     1,
+     0
+    ],
+    "black|Queens Gambit Declined Modern": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Fianchetto Opening Reversed": [
+     0,
+     3,
+     0
+    ],
+    "black|Richter Veresov Attack": [
+     0,
+     1,
+     0
+    ],
+    "black|Indian Game e6 d5": [
+     0,
+     1,
+     0
+    ],
+    "white|English Opening Symmetrical Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Giuoco Piano Game": [
+     0,
+     2,
+     0
+    ],
+    "black|Indian Game Yusupov Rubinstein": [
+     0,
+     1,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack Classical": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Pawn Opening Latvian": [
+     1,
+     3,
+     0
+    ],
+    "white|Old Benoni Defense Franco": [
+     0,
+     0,
+     1
+    ],
+    "black|Caro Kann Defense": [
+     1,
+     1,
+     0
+    ],
+    "white|Englund Gambit": [
+     1,
+     8,
+     2
+    ],
+    "white|Mieses Opening Reversed Rat": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense McDonnell Attack": [
+     1,
+     0,
+     0
+    ],
+    "black|Mieses Opening": [
+     1,
+     2,
+     0
+    ],
+    "white|Nimzowitsch Defense Scandinavian Advance": [
+     0,
+     2,
+     0
+    ],
+    "white|Kings Gambit Accepted Bishops": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Gambit Accepted Schallopp": [
+     2,
+     2,
+     0
+    ],
+    "white|French Defense Advance Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|English Opening Agincourt Defense...5.cxd5": [
+     1,
+     0,
+     0
+    ],
+    "black|Reti Opening Quiet System": [
+     0,
+     1,
+     0
+    ],
+    "white|Scandinavian Defense e5": [
+     1,
+     0,
+     0
+    ],
+    "white|Bishops Opening Berlin Vienna": [
+     1,
+     0,
+     0
+    ],
+    "black|Scotch Game Scotch Gambit": [
+     0,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Advance": [
+     3,
+     2,
+     0
+    ],
+    "white|Kings Gambit Accepted Fischer": [
+     2,
+     2,
+     0
+    ],
+    "black|Ruy Lopez Opening Jaenisch": [
+     1,
+     0,
+     0
+    ],
+    "white|French Defense La Bourdonnais": [
+     0,
+     2,
+     0
+    ],
+    "white|Caro Kann Defense Classical": [
+     1,
+     0,
+     0
+    ],
+    "white|Vienna Game Falkbeer Vienna": [
+     3,
+     0,
+     0
+    ],
+    "white|Kings Gambit Accepted Kings": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Indian Attack e5": [
+     1,
+     0,
+     0
+    ],
+    "black|English Opening Two Knights": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Gambit Declined Classical": [
+     1,
+     0,
+     0
+    ],
+    "black|Center Game Accepted": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Gambit Accepted": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Gambit Accepted Old": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Pawn Opening St": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Pawn Opening Horwitz": [
+     3,
+     2,
+     0
+    ],
+    "black|Caro Kann Defense Advance": [
+     3,
+     1,
+     1
+    ],
+    "black|Caro Kann Defense d5": [
+     6,
+     3,
+     0
+    ],
+    "white|Queens Pawn Opening Accelerated": [
+     7,
+     12,
+     1
+    ],
+    "white|London System...5.Nbd2 e6 cxd4": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Zukertort": [
+     8,
+     4,
+     1
+    ],
+    "black|Queens Gambit Declined Baltic": [
+     4,
+     2,
+     0
+    ],
+    "white|Queens Pawn Opening": [
+     2,
+     3,
+     0
+    ],
+    "white|Old Benoni Defense": [
+     3,
+     1,
+     0
+    ],
+    "white|Englund Gambit Nc6": [
+     4,
+     1,
+     0
+    ],
+    "white|Kings Gambit Declined Classical": [
+     0,
+     2,
+     0
+    ],
+    "black|Clemenz Opening": [
+     0,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game Center": [
+     0,
+     1,
+     0
+    ],
+    "white|Reti Opening": [
+     1,
+     2,
+     0
+    ],
+    "black|English Opening Anglo Scandinavian": [
+     0,
+     1,
+     0
+    ],
+    "black|Nimzowitsch Defense": [
+     4,
+     0,
+     0
+    ],
+    "black|Nimzowitsch Defense e6 d5": [
+     0,
+     1,
+     0
+    ],
+    "white|English Defense": [
+     1,
+     0,
+     0
+    ],
+    "white|London System...4.e3 e6 Bxd3": [
+     0,
+     1,
+     0
+    ],
+    "white|Englund Gambit Nc6 Qe7": [
+     0,
+     1,
+     0
+    ],
+    "white|London System e6": [
+     0,
+     1,
+     0
+    ],
+    "white|London System Bg7": [
+     1,
+     0,
+     0
+    ],
+    "black|London System...4.e3 Bf5 e6": [
+     1,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Nc6 d5": [
+     0,
+     0,
+     1
+    ],
+    "white|Nimzo Indian Defense Spielmann": [
+     1,
+     0,
+     0
+    ],
+    "black|London System...4.c3 Bf5 e6": [
+     0,
+     1,
+     0
+    ],
+    "white|Modern Defense with d4...3.Bf4": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Bowdler Attack": [
+     5,
+     10,
+     0
+    ],
+    "white|Modern Defense with d4": [
+     1,
+     0,
+     0
+    ],
+    "white|London System": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Nyezhmetdinov Rossolimo": [
+     5,
+     6,
+     1
+    ],
+    "black|Sicilian Defense Open": [
+     1,
+     5,
+     0
+    ],
+    "black|Sicilian Defense French Variation": [
+     2,
+     3,
+     0
+    ],
+    "white|Indian Game East Indian": [
+     1,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Old Sicilian": [
+     9,
+     10,
+     1
+    ],
+    "white|Dutch Defense Nf6": [
+     0,
+     2,
+     0
+    ],
+    "black|Dutch Defense": [
+     2,
+     2,
+     0
+    ],
+    "white|Kings Gambit Declined Keene": [
+     1,
+     0,
+     0
+    ],
+    "white|Reti Opening Reti Gambit": [
+     1,
+     0,
+     0
+    ],
+    "black|Dutch Defense Nf6 e6": [
+     0,
+     2,
+     0
+    ],
+    "white|Queens Gambit Accepted Central": [
+     6,
+     5,
+     1
+    ],
+    "white|Birds Opening Dutch Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Modern Defense with e4": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense": [
+     7,
+     1,
+     0
+    ],
+    "white|English Opening": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Staunton Cochrane": [
+     2,
+     0,
+     0
+    ],
+    "white|Kings Indian Defense Normal": [
+     1,
+     3,
+     0
+    ],
+    "white|English Opening Reversed Sicilian": [
+     1,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense Nc6": [
+     2,
+     1,
+     0
+    ],
+    "white|Indian Game...6.exd4 Bf5 e6": [
+     0,
+     1,
+     0
+    ],
+    "white|English Opening Kings English": [
+     0,
+     3,
+     0
+    ],
+    "black|Old Benoni Defense": [
+     1,
+     5,
+     1
+    ],
+    "white|Kings Gambit Declined Queens": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Open Classical": [
+     1,
+     0,
+     0
+    ],
+    "black|Closed Sicilian Defense Traditional": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Kramnik Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|Nimzowitsch Defense Scandinavian Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|London System e6": [
+     2,
+     0,
+     0
+    ],
+    "white|Sicilian Defense Nyezhmetdinov Rossolimo": [
+     1,
+     0,
+     0
+    ],
+    "white|Center Game Accepted Paulsen": [
+     1,
+     0,
+     0
+    ],
+    "black|Three Knights Opening Nxe5": [
+     0,
+     1,
+     0
+    ],
+    "black|Nimzowitsch Defense Declined...3.exd5 Qxd5": [
+     1,
+     0,
+     0
+    ],
+    "black|Nimzowitsch Defense Scandinavian Advance": [
+     0,
+     1,
+     0
+    ],
+    "white|Nimzowitsch Larsen Attack Classical": [
+     0,
+     1,
+     0
+    ],
+    "black|Budapest Gambit Adler Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Smith Morra": [
+     5,
+     1,
+     0
+    ],
+    "black|Modern Defense with d4": [
+     1,
+     0,
+     0
+    ],
+    "black|Petrovs Defense Classical French": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Taimanov Variation": [
+     1,
+     1,
+     0
+    ],
+    "black|Dutch Defense Classical Rubinstein": [
+     1,
+     1,
+     0
+    ],
+    "black|Polish Opening Kucharkowski Meybohm": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Canal Main": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Open Classical": [
+     1,
+     0,
+     0
+    ],
+    "white|English Opening Four Knights": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense d6 Nf6": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Marshall": [
+     3,
+     0,
+     0
+    ],
+    "black|Queens Gambit Declined Albin": [
+     1,
+     0,
+     0
+    ],
+    "white|Slav Defense Exchange Variation...4.Bf4": [
+     1,
+     0,
+     0
+    ],
+    "black|Indian Game...5.Nd2 Bf5 e6": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined": [
+     0,
+     1,
+     0
+    ],
+    "black|Reti Opening Queenside Fianchetto": [
+     0,
+     1,
+     0
+    ],
+    "black|English Opening...2.Nc3 e6 Bb7": [
+     0,
+     0,
+     1
+    ],
+    "white|Pirc Defense c6": [
+     1,
+     0,
+     0
+    ],
+    "black|Closed Sicilian Defense Nc6": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense d6 Nc6": [
+     1,
+     0,
+     0
+    ],
+    "white|Indian Game e6": [
+     2,
+     0,
+     0
+    ],
+    "black|Alapin Sicilian Defense...3.Nf3 e6": [
+     1,
+     0,
+     0
+    ],
+    "white|Indian Game d6": [
+     1,
+     0,
+     0
+    ],
+    "white|Mieses Opening": [
+     1,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Delayed Alapin": [
+     1,
+     0,
+     0
+    ],
+    "black|Reti Opening Dutch Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Slav Defense Modern Quiet": [
+     1,
+     0,
+     0
+    ],
+    "white|Vienna Game Omaha Gambit": [
+     1,
+     1,
+     0
+    ],
+    "white|Modern Defense Standard Line": [
+     0,
+     1,
+     0
+    ],
+    "black|Caro Kann Defense Exchange": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Indian Defense Normal": [
+     1,
+     0,
+     0
+    ],
+    "white|English Defense Bb7": [
+     2,
+     0,
+     0
+    ],
+    "white|Semi Slav Defense Anti": [
+     0,
+     1,
+     1
+    ],
+    "black|French Defense Kings Indian": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined Queens": [
+     0,
+     3,
+     0
+    ],
+    "white|Queens Gambit Declined Ragozin": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Open Lowenthal": [
+     1,
+     2,
+     0
+    ],
+    "white|Old Indian Defense Ukrainian": [
+     2,
+     0,
+     0
+    ],
+    "white|Kings Indian Defense Fianchetto": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense d5": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Anglo": [
+     0,
+     1,
+     0
+    ],
+    "white|Tarrasch Defense Two Knights": [
+     0,
+     1,
+     0
+    ],
+    "black|Benoni Defense a6": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Nc6": [
+     0,
+     2,
+     0
+    ],
+    "black|Dutch Defense Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Indian Game Spielmann Indian": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense McDonnell Attack": [
+     1,
+     3,
+     0
+    ],
+    "black|Sicilian Defense Open...4.Nxd4 d6": [
+     0,
+     1,
+     0
+    ],
+    "white|Slav Defense Slav Gambit": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Baltic": [
+     1,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Anti Qxd4": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Open Pelikan": [
+     1,
+     0,
+     0
+    ],
+    "black|Slav Defense Exchange Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense": [
+     1,
+     0,
+     0
+    ],
+    "white|Old Indian Defense Janowski": [
+     1,
+     0,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack English": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined Modern": [
+     2,
+     2,
+     0
+    ],
+    "black|French Defense Advance Paulsen": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening Horwitz": [
+     2,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense...3.d3 dxe4": [
+     0,
+     1,
+     0
+    ],
+    "white|Birds Opening Bg7": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Chigorin": [
+     0,
+     1,
+     0
+    ],
+    "black|Benoni Defense Modern Kings": [
+     1,
+     0,
+     0
+    ],
+    "white|Slav Defense Nf6": [
+     2,
+     2,
+     0
+    ],
+    "black|Sicilian Defense McDonnell Attack...4.Nc3": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Fianchetto Opening Sicilian": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Indian Defense Smyslov": [
+     1,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense...4.exd5 exd5": [
+     1,
+     0,
+     0
+    ],
+    "black|Dutch Defense Classical Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined Austrian": [
+     1,
+     0,
+     0
+    ],
+    "black|Caro Kann Defense Two": [
+     0,
+     1,
+     0
+    ],
+    "white|Nimzo Indian Defense Romanishin": [
+     0,
+     1,
+     0
+    ],
+    "black|French Defense Exchange Monte": [
+     1,
+     0,
+     0
+    ],
+    "white|Alapin Sicilian Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Dutch Defense Raphael Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense d6 e6": [
+     1,
+     0,
+     0
+    ],
+    "white|French Defense Rubinstein Variation": [
+     0,
+     0,
+     1
+    ],
+    "white|English Opening Anglo Indian": [
+     0,
+     1,
+     0
+    ],
+    "black|Van Geet Opening": [
+     0,
+     1,
+     0
+    ],
+    "black|Vienna Game Falkbeer Stanley": [
+     0,
+     1,
+     0
+    ],
+    "black|Grob Opening e5": [
+     0,
+     1,
+     0
+    ]
+   },
+   "fast_losses": 440,
+   "clocked_losses": 826,
+   "loss_time_left_frac": [
+    0.5045,
+    0.5953333333333333,
+    0.5730000000000001,
+    0.5565,
+    0.7683333333333333,
+    0.27316666666666667,
+    0.24916666666666668,
+    0.3933333333333333,
+    0.4298333333333333,
+    0.16799999999999998,
+    0.7045,
+    0.9181666666666666,
+    0.4998333333333333,
+    0.19983333333333334,
+    0.49833333333333335,
+    0.7701666666666667,
+    0.7071666666666667,
+    0.6628333333333333,
+    0.6025,
+    0.5643333333333334,
+    0.05683333333333333,
+    0.6556666666666666,
+    0.6293333333333334,
+    0.7675,
+    0.6783333333333333,
+    0.0125,
+    0.7969999999999999,
+    0.2776666666666667,
+    0.886,
+    0.7080000000000001,
+    0.9283333333333333,
+    0.008333333333333333,
+    0.0005555555555555556,
+    0.43833333333333335,
+    0.9886666666666667,
+    0.43083333333333335,
+    0.8941666666666667,
+    0.6281666666666667,
+    0.7748333333333333,
+    0.9991666666666666,
+    0.9758333333333333,
+    0.008166666666666668,
+    0.19833333333333333,
+    0.8986666666666667,
+    0.0033333333333333335,
+    0.8268333333333334,
+    0.009666666666666667,
+    0.34883333333333333,
+    0.003666666666666667,
+    0.905,
+    0.6638333333333334,
+    0.0013333333333333335,
+    0.43916666666666665,
+    0.876,
+    0.19933333333333333,
+    0.12616666666666668,
+    0.49666666666666665,
+    0.7705555555555554,
+    0.9593333333333334,
+    0.39666666666666667,
+    0.050333333333333334,
+    0.0013333333333333335,
+    0.986,
+    0.47100000000000003,
+    0.403,
+    0.7833333333333333,
+    0.451,
+    0.63,
+    0.6477777777777778,
+    0.13777777777777778,
+    0.09944444444444443,
+    0.11277777777777778,
+    0.05944444444444444,
+    0.8679999999999999,
+    0.28888888888888886,
+    0.45,
+    0.3961111111111111,
+    0.14,
+    0.09133333333333332,
+    0.05866666666666667,
+    0.7338333333333333,
+    0.558,
+    0.7663333333333333,
+    0.5656666666666667,
+    0.7686666666666666,
+    0.0016666666666666668,
+    0.7238333333333333,
+    0.1995,
+    0.7933333333333333,
+    0.613,
+    0.5051666666666667,
+    0.8136666666666666,
+    0.6980000000000001,
+    0.012,
+    0.064,
+    0.7036666666666667,
+    0.6783333333333333,
+    0.442,
+    0.4353333333333333,
+    0.6816666666666666,
+    0.7016666666666667,
+    0.658,
+    0.3443333333333333,
+    0.7986666666666666,
+    0.621,
+    0.22766666666666666,
+    0.004,
+    0.0003333333333333334,
+    0.8883333333333333,
+    0.48566666666666664,
+    0.5236666666666666,
+    0.0006666666666666668,
+    0.6833333333333333,
+    0.4573333333333333,
+    0.306,
+    0.9189999999999999,
+    0.6763333333333333,
+    0.84,
+    0.428,
+    0.7889999999999999,
+    0.686,
+    0.43933333333333335,
+    0.7063333333333334,
+    0.6386666666666666,
+    0.6960000000000001,
+    0.811,
+    0.546,
+    0.7110000000000001,
+    0.11,
+    0.8026666666666668,
+    0.026111111111111113,
+    0.025555555555555554,
+    0.9520833333333333,
+    0.05566666666666666,
+    0.6543333333333333,
+    0.001,
+    0.7486666666666667,
+    0.7883333333333333,
+    0.853,
+    0.9623333333333333,
+    0.005,
+    0.183,
+    0.6466666666666666,
+    0.45633333333333337,
+    0.07100000000000001,
+    0.5443333333333333,
+    0.8681666666666666,
+    0.6888888888888889,
+    0.0016666666666666666,
+    0.8863333333333333,
+    0.3983333333333333,
+    0.593,
+    0.42833333333333334,
+    0.012,
+    0.843,
+    0.91,
+    0.014444444444444446,
+    0.9983333333333333,
+    0.6038888888888889,
+    0.851111111111111,
+    0.9983333333333333,
+    0.8766666666666667,
+    0.8377777777777778,
+    0.9983333333333333,
+    0.9227777777777777,
+    0.0011111111111111111,
+    0.002777777777777778,
+    0.9944444444444445,
+    0.8811111111111111,
+    0.0016666666666666666,
+    0.3411111111111111,
+    0.7851666666666667,
+    0.981111111111111,
+    0.0005555555555555556,
+    0.027222222222222224,
+    0.9911111111111112,
+    0.015000000000000001,
+    0.09666666666666666,
+    0.9598333333333333,
+    0.0001666666666666667,
+    0.9413333333333332,
+    0.7766666666666666,
+    0.4598333333333333,
+    0.7918333333333334,
+    0.0016666666666666666,
+    0.5301666666666667,
+    0.0011111111111111111,
+    0.14777777777777779,
+    0.006111111111111111,
+    0.9155555555555556,
+    0.29833333333333334,
+    0.0077777777777777776,
+    0.023333333333333334,
+    0.6533333333333333,
+    0.5738888888888889,
+    0.9327777777777778,
+    0.7622222222222221,
+    0.09944444444444443,
+    0.975,
+    0.2827777777777778,
+    0.0044444444444444444,
+    0.03833333333333334,
+    0.94,
+    0.2383333333333333,
+    0.3861111111111111,
+    0.785,
+    0.9527777777777777,
+    0.005,
+    0.6672222222222222,
+    0.5461111111111111,
+    0.595,
+    0.30944444444444447,
+    0.8222222222222222,
+    0.38055555555555554,
+    0.002777777777777778,
+    0.6938888888888889,
+    0.0038888888888888888,
+    0.68,
+    0.7005555555555555,
+    0.6283333333333333,
+    0.6877777777777777,
+    0.7594444444444444,
+    0.3844444444444445,
+    0.11444444444444445,
+    0.4716666666666667,
+    0.6966666666666667,
+    0.5438888888888889,
+    0.6133333333333334,
+    0.13555555555555554,
+    0.04777777777777777,
+    0.043333333333333335,
+    0.3066666666666667,
+    0.5372222222222223,
+    0.8894444444444444,
+    0.03166666666666667,
+    0.3272222222222222,
+    0.38666666666666666,
+    0.5133333333333334,
+    0.0016666666666666666,
+    0.79,
+    0.7736666666666666,
+    0.0003333333333333334,
+    0.7896666666666667,
+    0.07333333333333333,
+    0.9416666666666667,
+    0.6644444444444444,
+    0.8272222222222223,
+    0.7216666666666667,
+    0.006666666666666666,
+    0.4272222222222223,
+    0.02888888888888889,
+    0.06999999999999999,
+    0.2722222222222222,
+    0.385,
+    0.19222222222222224,
+    0.6027777777777777,
+    0.9144444444444444,
+    0.11333333333333333,
+    0.018333333333333333,
+    0.21500000000000002,
+    0.5405555555555556,
+    0.006666666666666666,
+    0.016666666666666666,
+    0.7977777777777777,
+    0.33722222222222226,
+    0.17777777777777778,
+    0.7327777777777779,
+    0.135,
+    0.9572222222222223,
+    0.9705555555555555,
+    0.773888888888889,
+    0.31055555555555553,
+    0.8355555555555556,
+    0.8244444444444444,
+    0.27611111111111114,
+    0.13777777777777778,
+    0.05766666666666667,
+    0.3056666666666667,
+    0.44866666666666666,
+    0.71,
+    0.463,
+    0.5686666666666667,
+    0.39066666666666666,
+    0.8723333333333333,
+    0.21433333333333332,
+    0.45199999999999996,
+    0.006666666666666666,
+    0.006111111111111111,
+    0.021333333333333336,
+    0.8876666666666667,
+    0.12966666666666665,
+    0.026,
+    0.3538888888888889,
+    0.04777777777777777,
+    0.009444444444444445,
+    0.5894444444444444,
+    0.0016666666666666666,
+    0.07055555555555555,
+    0.2,
+    0.6838888888888889,
+    0.5772222222222223,
+    0.03611111111111111,
+    0.05333333333333333,
+    0.5366666666666666,
+    0.16944444444444445,
+    0.823888888888889,
+    0.9505555555555555,
+    0.13166666666666665,
+    0.626,
+    0.6126666666666667,
+    0.49066666666666664,
+    1.0394444444444444,
+    0.9094444444444444,
+    0.35555555555555557,
+    0.009444444444444445,
+    0.4722222222222222,
+    0.7694444444444445,
+    0.175,
+    0.01611111111111111,
+    0.8711111111111112,
+    0.018333333333333333,
+    0.39888888888888885,
+    0.030000000000000002,
+    0.91,
+    0.5411111111111111,
+    0.714,
+    0.5163333333333333,
+    0.12366666666666667,
+    0.48866666666666664,
+    0.8216666666666667,
+    0.7953333333333333,
+    0.509,
+    0.776,
+    0.35533333333333333,
+    0.7893333333333333,
+    0.5486666666666666,
+    0.9226666666666667,
+    0.6596666666666667,
+    0.8953333333333334,
+    0.647,
+    0.4816666666666667,
+    0.0005555555555555556,
+    0.0044444444444444444,
+    0.8994444444444445,
+    0.011111111111111112,
+    0.5666666666666667,
+    0.08833333333333333,
+    0.030000000000000002,
+    0.011111111111111112,
+    0.8066666666666666,
+    0.6772222222222223,
+    0.008888888888888889,
+    0.5883333333333334,
+    0.006666666666666666,
+    0.9411111111111111,
+    0.6305555555555555,
+    0.4627777777777778,
+    0.9716666666666667,
+    0.817,
+    0.4643333333333334,
+    0.8829999999999999,
+    0.87,
+    0.5766666666666667,
+    0.258,
+    0.7033333333333334,
+    0.8573333333333333,
+    0.9213333333333332,
+    0.9596666666666666,
+    0.7756666666666666,
+    0.9386666666666668,
+    0.8629999999999999,
+    0.5183333333333333,
+    0.7196666666666667,
+    0.6253333333333333,
+    0.6011111111111112,
+    0.8872222222222221,
+    0.012222222222222223,
+    0.8194444444444444,
+    0.6133333333333334,
+    0.6938888888888889,
+    0.3411111111111111,
+    0.7477777777777778,
+    0.26944444444444443,
+    0.7655555555555557,
+    0.7711111111111112,
+    0.645,
+    0.45055555555555554,
+    0.7038888888888889,
+    0.0003333333333333334,
+    0.29,
+    0.6961111111111111,
+    0.46611111111111114,
+    0.15388888888888888,
+    0.8894444444444444,
+    0.13722222222222222,
+    0.4811111111111111,
+    0.3472222222222222,
+    0.027222222222222224,
+    0.8633333333333334,
+    0.22833333333333333,
+    0.7573333333333333,
+    0.002777777777777778,
+    0.01,
+    0.0044444444444444444,
+    0.2633333333333333,
+    0.5438888888888889,
+    0.05111111111111111,
+    0.08555555555555555,
+    0.030000000000000002,
+    0.003333333333333333,
+    0.034999999999999996,
+    0.007222222222222223,
+    0.8311111111111111,
+    0.54,
+    0.9089999999999999,
+    0.001,
+    0.6769999999999999,
+    0.5583333333333333,
+    0.002333333333333333,
+    0.39499999999999996,
+    0.0006666666666666668,
+    0.49850000000000005,
+    0.3422222222222222,
+    0.0011111111111111111,
+    0.010555555555555556,
+    0.745,
+    0.4283333333333333,
+    0.003333333333333333,
+    0.5666666666666667,
+    0.9422222222222222,
+    0.7566666666666666,
+    0.38722222222222225,
+    0.15888888888888889,
+    0.9216666666666666,
+    0.17233333333333334,
+    0.793,
+    0.003666666666666667,
+    0.845,
+    0.699,
+    0.5593333333333333,
+    0.5323333333333333,
+    0.268,
+    0.8686666666666667,
+    0.5276666666666667,
+    0.7994444444444445,
+    0.021111111111111112,
+    0.7638888888888888,
+    0.5838888888888889,
+    0.9510000000000001,
+    0.018333333333333333,
+    0.7183333333333334,
+    0.014333333333333333,
+    0.5823333333333333,
+    0.26866666666666666,
+    0.9933333333333333,
+    0.7956666666666666,
+    0.0013333333333333335,
+    0.25766666666666665,
+    0.007333333333333334,
+    0.2643333333333333,
+    0.969,
+    0.48899999999999993,
+    0.9826666666666667,
+    0.2303333333333333,
+    0.9063333333333332,
+    0.009666666666666667,
+    0.4873333333333333,
+    0.29033333333333333,
+    0.9906666666666666,
+    0.7083333333333334,
+    0.6443333333333334,
+    0.0013333333333333335,
+    0.9723333333333333,
+    0.8536666666666668,
+    0.5883333333333334,
+    0.21033333333333334,
+    0.103,
+    0.19733333333333333,
+    0.08399999999999999,
+    0.506,
+    0.8744444444444445,
+    0.0038888888888888888,
+    0.0005555555555555556,
+    0.19833333333333336,
+    0.4577777777777778,
+    0.5061111111111111,
+    0.4905555555555555,
+    0.29000000000000004,
+    0.6122222222222222,
+    0.10944444444444444,
+    0.5488888888888889,
+    0.29444444444444445,
+    0.8255555555555555,
+    0.23444444444444446,
+    0.011666666666666667,
+    0.5616666666666666,
+    0.6422222222222221,
+    0.2361111111111111,
+    0.36333333333333334,
+    0.9593333333333334,
+    0.5943333333333334,
+    0.8411111111111111,
+    0.42333333333333334,
+    0.923888888888889,
+    0.9666666666666667,
+    0.7427777777777778,
+    0.36277777777777775,
+    0.5361111111111111,
+    0.76,
+    0.002777777777777778,
+    0.18833333333333332,
+    0.8316666666666666,
+    0.535,
+    0.5283333333333333,
+    0.6055555555555555,
+    0.9138888888888889,
+    0.7205555555555555,
+    0.04777777777777777,
+    0.55,
+    0.27,
+    0.5756666666666667,
+    0.22333333333333333,
+    0.8493333333333334,
+    0.21166666666666667,
+    0.7533333333333333,
+    0.23733333333333334,
+    0.064,
+    0.6333333333333333,
+    0.727,
+    0.8286666666666667,
+    0.5113333333333333,
+    0.5526666666666668,
+    0.44133333333333336,
+    0.758,
+    0.38633333333333336,
+    0.8573333333333333,
+    0.8886666666666667,
+    0.8626666666666667,
+    0.38133333333333336,
+    0.839,
+    0.001,
+    0.7206666666666667,
+    0.8360000000000001,
+    0.9920000000000001,
+    0.9653333333333334,
+    0.12,
+    0.727,
+    0.31366666666666665,
+    0.32266666666666666,
+    0.48566666666666664,
+    0.21633333333333335,
+    0.605,
+    0.8433333333333334,
+    0.5703333333333334,
+    0.27944444444444444,
+    0.022777777777777775,
+    0.7938888888888889,
+    0.7761111111111111,
+    0.7949999999999999,
+    0.45866666666666667,
+    0.26233333333333336,
+    0.2853333333333333,
+    0.881,
+    0.589,
+    0.8423333333333333,
+    0.8656666666666666,
+    0.6516666666666666,
+    0.7566666666666667,
+    0.594,
+    0.8256666666666667,
+    0.76,
+    0.7233333333333334,
+    0.47300000000000003,
+    0.8933333333333333,
+    0.388,
+    0.9616666666666667,
+    0.1743333333333333,
+    0.37866666666666665,
+    0.41766666666666663,
+    0.379,
+    0.3416666666666667,
+    0.9683333333333334,
+    0.9583333333333334,
+    0.5955555555555556,
+    0.07111111111111111,
+    0.7260000000000001,
+    0.103,
+    0.6816666666666666,
+    0.8023333333333333,
+    0.782,
+    0.5193333333333334,
+    0.06366666666666668,
+    0.8263333333333334,
+    0.9386666666666668,
+    0.7989999999999999,
+    0.002,
+    0.565,
+    0.41866666666666663,
+    0.398,
+    0.268,
+    0.395,
+    0.8073333333333333,
+    0.36833333333333335,
+    0.728,
+    0.4093333333333333,
+    0.003,
+    0.004333333333333333,
+    0.7253333333333333,
+    0.04066666666666666,
+    0.22599999999999998,
+    0.31866666666666665,
+    0.008666666666666666,
+    0.37133333333333335,
+    0.5643333333333334,
+    0.006,
+    0.8236666666666667,
+    0.14933333333333332,
+    0.9186666666666667,
+    0.458,
+    0.08,
+    0.5376666666666667,
+    0.3616666666666667,
+    0.59,
+    0.8953333333333334,
+    0.4688888888888889,
+    0.827,
+    0.4606666666666666,
+    0.5736666666666667,
+    0.06566666666666666,
+    0.761,
+    0.9726666666666667,
+    0.12566666666666668,
+    0.36866666666666664,
+    0.5594444444444444,
+    0.011666666666666667,
+    1.0,
+    0.5986666666666667,
+    0.375,
+    0.314,
+    0.6596666666666667,
+    0.9413333333333332,
+    0.4713333333333333,
+    0.004666666666666666,
+    0.5239999999999999,
+    0.44399999999999995,
+    0.5838888888888889,
+    0.3622222222222222,
+    0.27444444444444444,
+    0.7246666666666667,
+    0.3333333333333333,
+    0.6996666666666667,
+    0.7866666666666666,
+    0.6043333333333334,
+    0.5743333333333334,
+    0.6333333333333333,
+    0.6593333333333333,
+    0.4613333333333334,
+    0.739,
+    0.907,
+    0.6066666666666667,
+    0.72,
+    0.16066666666666668,
+    0.74,
+    0.46699999999999997,
+    0.074,
+    0.5016666666666667,
+    0.351,
+    0.608,
+    0.32,
+    0.39466666666666667,
+    0.8836666666666667,
+    0.10866666666666668,
+    0.4826666666666667,
+    0.3096666666666667,
+    0.451,
+    0.4206666666666667,
+    0.5266666666666666,
+    0.616,
+    0.002666666666666667,
+    0.7723333333333333,
+    0.042333333333333334,
+    0.012333333333333333,
+    0.48800000000000004,
+    0.001,
+    0.001,
+    0.6903333333333334,
+    0.49600000000000005,
+    0.128,
+    0.5913333333333334,
+    0.5730000000000001,
+    0.5489999999999999,
+    0.7073333333333333,
+    0.8753333333333334,
+    0.9126666666666667,
+    0.589,
+    0.616,
+    0.8260000000000001,
+    0.815,
+    0.638,
+    0.548,
+    0.7983333333333333,
+    0.695,
+    0.17233333333333334,
+    0.32133333333333336,
+    0.7063333333333334,
+    0.9203333333333334,
+    0.8083333333333333,
+    0.48533333333333334,
+    0.9406666666666667,
+    0.36033333333333334,
+    0.8633333333333333,
+    0.213,
+    0.5786666666666667,
+    0.31366666666666665,
+    0.758,
+    0.5683333333333334,
+    0.0006666666666666668,
+    0.49633333333333335,
+    0.5556666666666666,
+    0.685,
+    0.8963333333333332,
+    0.3883333333333333,
+    0.11966666666666666,
+    0.9406666666666667,
+    0.7176666666666667,
+    0.507,
+    0.6663333333333333,
+    0.3853333333333333,
+    0.8656666666666666,
+    0.11566666666666668,
+    0.5056666666666666,
+    0.291,
+    0.469,
+    0.9493333333333334,
+    0.7636666666666666,
+    0.9396666666666665,
+    0.2633333333333333,
+    0.4116666666666667,
+    0.766,
+    0.5630000000000001,
+    0.48033333333333333,
+    0.8979999999999999,
+    0.7463333333333334,
+    0.9179999999999999,
+    0.7303333333333333,
+    0.44866666666666666,
+    0.31866666666666665,
+    0.8283333333333334,
+    0.6719999999999999,
+    0.15133333333333332,
+    0.007666666666666666,
+    0.527,
+    0.7506666666666666,
+    0.5476666666666667,
+    1.0,
+    0.5166666666666667,
+    0.5633333333333334,
+    0.786,
+    0.7033333333333334,
+    0.2253333333333333,
+    0.44399999999999995,
+    0.014,
+    0.07466666666666666,
+    0.7576666666666667,
+    0.9086666666666667,
+    0.5576666666666668,
+    0.10366666666666667,
+    0.011333333333333332,
+    0.6596666666666667,
+    0.791,
+    0.6646666666666667,
+    0.8763333333333333,
+    0.295,
+    0.008888888888888889,
+    0.47,
+    0.20166666666666666,
+    0.6583333333333333,
+    0.49388888888888893,
+    0.14277777777777778,
+    0.3044444444444444,
+    0.24388888888888888,
+    0.42444444444444446,
+    0.14277777777777778,
+    0.4111111111111111,
+    0.13166666666666665,
+    0.07333333333333333,
+    0.24888888888888888,
+    0.6586666666666666,
+    0.48566666666666664,
+    0.9283333333333333,
+    0.787,
+    0.5733333333333334,
+    0.57,
+    0.9083333333333333,
+    0.7533333333333333,
+    0.681,
+    0.885,
+    0.5516666666666666,
+    0.6586666666666666,
+    0.189,
+    0.6106666666666666,
+    0.6113333333333334,
+    0.508,
+    0.29800000000000004,
+    0.3746666666666667,
+    0.029333333333333336,
+    0.2773333333333333,
+    0.5833333333333334,
+    0.8216666666666667,
+    0.5206666666666666,
+    0.6383333333333333,
+    0.4926666666666667,
+    0.8923333333333333,
+    0.9138888888888889,
+    0.7676666666666667,
+    0.2906666666666667,
+    0.7455555555555555,
+    0.15366666666666667,
+    0.6626666666666667,
+    0.8196666666666667,
+    0.6753333333333333,
+    0.002666666666666667,
+    0.9933333333333333,
+    0.896,
+    0.020999999999999998,
+    0.006333333333333333
+   ],
+   "snap_moves": 23430,
+   "timed_moves": 48116,
+   "accuracy": [
+    11.73,
+    37.36,
+    21,
+    29.4,
+    84.41,
+    8.28,
+    11.66,
+    42.39,
+    99.68,
+    16.36,
+    56.02,
+    46.92,
+    69.03,
+    98.29,
+    93.48,
+    21.31,
+    16.25,
+    77.04,
+    54.29,
+    81.2,
+    7.09,
+    6.21,
+    5.37,
+    64.47,
+    10.43,
+    23.04,
+    88.06,
+    40.37,
+    71.45,
+    15.23,
+    91.76,
+    12.81,
+    20.04,
+    95.98,
+    8.51,
+    37.31,
+    88.26,
+    17.24,
+    62.08,
+    99.68,
+    37.93,
+    99.68,
+    45.5,
+    18.97,
+    95.02,
+    92.72,
+    82.85,
+    33.76,
+    25.78,
+    75.76,
+    47.65,
+    83.75,
+    78.16,
+    48.28,
+    66.03,
+    30.78,
+    74.56,
+    64.5,
+    66.97,
+    25.52,
+    75.68,
+    51.86,
+    58.77,
+    55.4,
+    90.86,
+    66.27,
+    69.68,
+    60.85,
+    69.24,
+    72.64,
+    71.07,
+    67.21,
+    67.76,
+    78.54,
+    83.37,
+    87.69,
+    69.83,
+    39.53,
+    68.57,
+    85.59,
+    62.94,
+    54.11,
+    67.27,
+    78.51,
+    64.17,
+    70.12,
+    63.75,
+    71.98,
+    55.49,
+    66.43,
+    64.02,
+    62.16,
+    70.92,
+    67.97
+   ]
+  },
+  "rapid": {
+   "n": 854,
+   "w": 452,
+   "l": 375,
+   "d": 27,
+   "loss_term": {
+    "resigned": 225,
+    "abandoned": 31,
+    "timeout": 20,
+    "checkmated": 99
+   },
+   "win_term": {
+    "checkmated": 219,
+    "resigned": 171,
+    "abandoned": 28,
+    "timeout": 34
+   },
+   "loss_len": [
+    5,
+    31,
+    26,
+    9,
+    19,
+    19,
+    13,
+    20,
+    12,
+    38,
+    23,
+    33,
+    5,
+    16,
+    7,
+    49,
+    10,
+    24,
+    39,
+    20,
+    4,
+    25,
+    15,
+    23,
+    46,
+    36,
+    10,
+    19,
+    27,
+    9,
+    7,
+    22,
+    8,
+    17,
+    31,
+    23,
+    20,
+    32,
+    7,
+    11,
+    13,
+    15,
+    9,
+    62,
+    33,
+    3,
+    4,
+    12,
+    15,
+    26,
+    30,
+    12,
+    13,
+    48,
+    19,
+    23,
+    25,
+    9,
+    36,
+    24,
+    39,
+    31,
+    25,
+    15,
+    19,
+    11,
+    20,
+    63,
+    34,
+    10,
+    12,
+    11,
+    59,
+    37,
+    18,
+    44,
+    53,
+    19,
+    2,
+    27,
+    13,
+    24,
+    8,
+    53,
+    11,
+    28,
+    52,
+    12,
+    53,
+    17,
+    21,
+    4,
+    19,
+    28,
+    22,
+    32,
+    55,
+    38,
+    25,
+    26,
+    14,
+    10,
+    29,
+    26,
+    16,
+    15,
+    9,
+    24,
+    26,
+    30,
+    27,
+    18,
+    19,
+    12,
+    9,
+    28,
+    61,
+    19,
+    38,
+    26,
+    43,
+    13,
+    13,
+    15,
+    24,
+    49,
+    12,
+    12,
+    28,
+    70,
+    19,
+    4,
+    43,
+    26,
+    12,
+    45,
+    45,
+    38,
+    30,
+    8,
+    71,
+    31,
+    31,
+    9,
+    41,
+    31,
+    21,
+    28,
+    25,
+    31,
+    22,
+    25,
+    47,
+    29,
+    6,
+    8,
+    25,
+    22,
+    35,
+    41,
+    36,
+    16,
+    5,
+    21,
+    15,
+    22,
+    31,
+    13,
+    11,
+    7,
+    42,
+    31,
+    14,
+    29,
+    15,
+    26,
+    13,
+    7,
+    29,
+    52,
+    15,
+    26,
+    8,
+    65,
+    38,
+    37,
+    25,
+    33,
+    25,
+    12,
+    25,
+    21,
+    28,
+    14,
+    14,
+    10,
+    26,
+    11,
+    30,
+    33,
+    33,
+    15,
+    7,
+    16,
+    17,
+    10,
+    37,
+    16,
+    21,
+    18,
+    23,
+    7,
+    29,
+    25,
+    12,
+    34,
+    29,
+    29,
+    4,
+    26,
+    23,
+    21,
+    31,
+    4,
+    28,
+    17,
+    21,
+    45,
+    54,
+    49,
+    33,
+    24,
+    13,
+    42,
+    21,
+    16,
+    33,
+    12,
+    89,
+    21,
+    28,
+    39,
+    7,
+    31,
+    18,
+    9,
+    8,
+    27,
+    16,
+    11,
+    40,
+    6,
+    12,
+    13,
+    15,
+    24,
+    44,
+    11,
+    10,
+    7,
+    10,
+    10,
+    69,
+    20,
+    32,
+    24,
+    34,
+    43,
+    21,
+    26,
+    8,
+    12,
+    10,
+    17,
+    19,
+    30,
+    30,
+    24,
+    15,
+    33,
+    6,
+    22,
+    12,
+    8,
+    19,
+    11,
+    19,
+    20,
+    11,
+    33,
+    31,
+    11,
+    9,
+    17,
+    11,
+    15,
+    35,
+    20,
+    17,
+    44,
+    21,
+    38,
+    22,
+    36,
+    26,
+    27,
+    32,
+    13,
+    40,
+    17,
+    41,
+    25,
+    18,
+    16,
+    79,
+    22,
+    15,
+    14,
+    48,
+    36,
+    23,
+    52,
+    35,
+    21,
+    37,
+    48,
+    32,
+    35,
+    20,
+    37,
+    27,
+    42,
+    10,
+    29,
+    17,
+    63,
+    55,
+    13,
+    37,
+    29,
+    41,
+    15,
+    28,
+    12,
+    24,
+    8,
+    12,
+    25,
+    42,
+    24,
+    32,
+    35,
+    26,
+    35,
+    49,
+    63,
+    20,
+    19,
+    97,
+    54,
+    47,
+    20,
+    18,
+    34,
+    47,
+    48,
+    47,
+    42,
+    20,
+    52,
+    24,
+    38,
+    23,
+    22,
+    10
+   ],
+   "openings": {
+    "black|Undefined": [
+     3,
+     1,
+     0
+    ],
+    "white|Scandinavian Defense": [
+     5,
+     4,
+     0
+    ],
+    "black|Kings Pawn Opening Kings": [
+     6,
+     4,
+     0
+    ],
+    "black|Scandinavian Defense Mieses Kotrc": [
+     2,
+     1,
+     0
+    ],
+    "black|Kings Pawn Opening": [
+     20,
+     16,
+     1
+    ],
+    "black|English Opening Four Knights": [
+     1,
+     0,
+     0
+    ],
+    "black|Mieses Opening Reversed Rat": [
+     0,
+     1,
+     0
+    ],
+    "white|French Defense Queens Knight": [
+     0,
+     2,
+     0
+    ],
+    "black|Bishops Opening Berlin Defense": [
+     5,
+     5,
+     0
+    ],
+    "white|French Defense Classical Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Center Game": [
+     4,
+     2,
+     0
+    ],
+    "white|Petrovs Defense Three Knights": [
+     0,
+     1,
+     0
+    ],
+    "black|Colle System": [
+     2,
+     0,
+     0
+    ],
+    "black|Nimzowitsch Defense Kennedy Linksspringer": [
+     0,
+     1,
+     0
+    ],
+    "white|Englund Gambit": [
+     3,
+     2,
+     0
+    ],
+    "white|Birds Opening Dutch Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Dutch Defense Raphael Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|Undefined": [
+     1,
+     3,
+     0
+    ],
+    "white|Scandinavian Defense Mieses Kotrc": [
+     16,
+     10,
+     2
+    ],
+    "white|Ruy Lopez Opening Spanish": [
+     1,
+     0,
+     0
+    ],
+    "black|Petrovs Defense Three Knights": [
+     14,
+     8,
+     1
+    ],
+    "white|Philidor Defense": [
+     8,
+     3,
+     1
+    ],
+    "white|Italian Game": [
+     4,
+     11,
+     0
+    ],
+    "white|Alekhines Defense Samisch Attack": [
+     0,
+     1,
+     0
+    ],
+    "white|Bishops Opening Berlin Ponziani": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Gambit": [
+     5,
+     6,
+     0
+    ],
+    "black|Englund Gambit Nc6": [
+     4,
+     1,
+     0
+    ],
+    "white|English Opening Bb7": [
+     1,
+     0,
+     0
+    ],
+    "black|Van t Kruijs Opening": [
+     6,
+     7,
+     0
+    ],
+    "black|Kings Pawn Opening Latvian": [
+     7,
+     3,
+     0
+    ],
+    "black|Center Game": [
+     2,
+     1,
+     1
+    ],
+    "white|Kings Pawn Opening": [
+     5,
+     2,
+     0
+    ],
+    "white|Nimzowitsch Defense e6 d5": [
+     0,
+     2,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack English": [
+     2,
+     0,
+     0
+    ],
+    "white|Van t Kruijs Opening": [
+     5,
+     3,
+     0
+    ],
+    "white|Owens Defense": [
+     4,
+     1,
+     0
+    ],
+    "white|Pirc Defense Nf6": [
+     1,
+     5,
+     0
+    ],
+    "black|Queens Pawn Opening Chigorin": [
+     4,
+     4,
+     1
+    ],
+    "black|Queens Pawn Opening": [
+     3,
+     6,
+     1
+    ],
+    "white|Ruy Lopez Opening Birds": [
+     1,
+     2,
+     0
+    ],
+    "black|Queens Pawn Opening Nf6": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Gambit": [
+     3,
+     1,
+     1
+    ],
+    "black|Grob Opening Grob Gambit": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Pawn Opening Kings": [
+     7,
+     10,
+     1
+    ],
+    "white|Ruy Lopez Opening Berlin": [
+     1,
+     3,
+     0
+    ],
+    "black|Queens Pawn Opening Accelerated": [
+     3,
+     5,
+     0
+    ],
+    "black|Slav Defense dxc4 b5": [
+     0,
+     1,
+     0
+    ],
+    "white|Reti Opening Kingside Fianchetto": [
+     1,
+     0,
+     0
+    ],
+    "white|Philidor Defense Nf6": [
+     2,
+     0,
+     0
+    ],
+    "black|Clemenz Opening": [
+     0,
+     2,
+     0
+    ],
+    "white|Petrovs Defense": [
+     5,
+     2,
+     0
+    ],
+    "black|Scotch Game": [
+     1,
+     4,
+     0
+    ],
+    "black|Slav Defense Nf6": [
+     0,
+     2,
+     0
+    ],
+    "black|Indian Game d6": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Pawn Opening Blackmar": [
+     1,
+     1,
+     0
+    ],
+    "white|Nimzowitsch Defense Kennedy Linksspringer": [
+     0,
+     1,
+     0
+    ],
+    "white|Bishops Opening": [
+     7,
+     5,
+     0
+    ],
+    "white|Alekhines Defense Balogh Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Italian Game": [
+     6,
+     4,
+     0
+    ],
+    "black|Ruy Lopez Opening Birds": [
+     0,
+     1,
+     0
+    ],
+    "white|Pirc Defense Maroczy Defense": [
+     2,
+     2,
+     0
+    ],
+    "black|Three Knights Opening": [
+     4,
+     4,
+     0
+    ],
+    "black|French Defense Classical Steinitz": [
+     1,
+     0,
+     0
+    ],
+    "black|Slav Defense Modern Line": [
+     0,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Advance": [
+     2,
+     1,
+     0
+    ],
+    "black|Richter Veresov Attack Two": [
+     0,
+     1,
+     0
+    ],
+    "black|Nimzowitsch Defense Scandinavian Advance": [
+     1,
+     0,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack Classical": [
+     1,
+     2,
+     0
+    ],
+    "white|Modern Defense Three Pawns": [
+     1,
+     1,
+     0
+    ],
+    "black|Van Geet Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Gambit Accepted": [
+     4,
+     1,
+     1
+    ],
+    "white|French Defense Steinitz Attack": [
+     0,
+     2,
+     0
+    ],
+    "black|Bishops Opening": [
+     0,
+     2,
+     0
+    ],
+    "white|Italian Game Knight Attack": [
+     5,
+     5,
+     0
+    ],
+    "white|Sicilian Defense Staunton Cochrane": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Bowdler Attack": [
+     3,
+     6,
+     0
+    ],
+    "black|Giuoco Piano Game": [
+     1,
+     1,
+     0
+    ],
+    "black|Slav Defense Slav Gambit": [
+     0,
+     1,
+     0
+    ],
+    "white|Ruy Lopez Opening Old": [
+     0,
+     1,
+     0
+    ],
+    "white|Four Knights Game Spanish": [
+     3,
+     0,
+     0
+    ],
+    "white|Pirc Defense": [
+     1,
+     1,
+     0
+    ],
+    "black|Kings Pawn Opening Leonardis": [
+     3,
+     4,
+     1
+    ],
+    "black|Petrovs Defense Steinitz Attack": [
+     3,
+     1,
+     0
+    ],
+    "white|Vienna Game": [
+     2,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening c5": [
+     2,
+     0,
+     1
+    ],
+    "black|French Defense Normal Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|Ruy Lopez Opening Morphy": [
+     0,
+     3,
+     0
+    ],
+    "black|Four Knights Game Italian": [
+     2,
+     0,
+     0
+    ],
+    "white|Pirc Defense Main Line": [
+     1,
+     1,
+     1
+    ],
+    "white|Four Knights Game Italian": [
+     1,
+     2,
+     0
+    ],
+    "black|Giuoco Piano Game Giuoco": [
+     1,
+     5,
+     0
+    ],
+    "white|Vienna Game Max Lange": [
+     2,
+     1,
+     0
+    ],
+    "white|English Opening Symmetrical Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Gambit Accepted Old": [
+     1,
+     0,
+     0
+    ],
+    "black|Semi Slav Defense Main": [
+     1,
+     0,
+     0
+    ],
+    "white|Bishops Opening Boi Variation": [
+     0,
+     3,
+     0
+    ],
+    "white|Queens Pawn Opening Torre": [
+     0,
+     0,
+     1
+    ],
+    "black|Sicilian Defense Bowdler Attack": [
+     8,
+     1,
+     0
+    ],
+    "white|Alekhines Defense": [
+     1,
+     1,
+     0
+    ],
+    "white|Petrovs Defense Classical Damiano": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Pawn Opening e6": [
+     1,
+     0,
+     0
+    ],
+    "black|Trompowsky Attack": [
+     1,
+     0,
+     0
+    ],
+    "white|English Opening Reversed Sicilian": [
+     1,
+     0,
+     0
+    ],
+    "white|Reti Opening": [
+     1,
+     0,
+     0
+    ],
+    "black|Center Game Accepted Normal": [
+     1,
+     2,
+     0
+    ],
+    "white|Queens Gambit Declined Chigorin": [
+     1,
+     0,
+     0
+    ],
+    "black|London System": [
+     0,
+     1,
+     0
+    ],
+    "white|Petrovs Defense Classical Variation": [
+     3,
+     0,
+     0
+    ],
+    "white|Bishops Opening Berlin Spielmann": [
+     0,
+     2,
+     0
+    ],
+    "white|Giuoco Piano Game": [
+     1,
+     0,
+     0
+    ],
+    "white|Bishops Opening Berlin Defense": [
+     9,
+     2,
+     0
+    ],
+    "black|English Opening Reversed Sicilian": [
+     0,
+     1,
+     0
+    ],
+    "black|Vienna Game Anderssen Defense": [
+     3,
+     3,
+     1
+    ],
+    "black|Bishops Opening Berlin Spielmann": [
+     1,
+     0,
+     0
+    ],
+    "white|French Defense": [
+     0,
+     1,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack Indian": [
+     2,
+     0,
+     0
+    ],
+    "black|Pirc Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Vienna Game Falkbeer Vienna": [
+     1,
+     0,
+     0
+    ],
+    "white|Vienna Game Falkbeer Stanley": [
+     1,
+     0,
+     0
+    ],
+    "black|Petrovs Defense Classical Variation": [
+     4,
+     5,
+     0
+    ],
+    "white|Kings Gambit Accepted Bishops": [
+     1,
+     3,
+     0
+    ],
+    "black|Petrovs Defense": [
+     3,
+     3,
+     0
+    ],
+    "black|Indian Game Tartakower Defense": [
+     0,
+     2,
+     0
+    ],
+    "white|Kings Gambit Declined Queens": [
+     6,
+     7,
+     0
+    ],
+    "black|Indian Game": [
+     2,
+     1,
+     0
+    ],
+    "white|Pirc Defense Classical Variation": [
+     2,
+     0,
+     0
+    ],
+    "white|Closed Sicilian Defense Traditional": [
+     0,
+     1,
+     0
+    ],
+    "black|Englund Gambit": [
+     11,
+     7,
+     1
+    ],
+    "black|Nimzowitsch Larsen Attack Modern": [
+     2,
+     1,
+     0
+    ],
+    "white|English Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Gambit Declined Classical": [
+     0,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense d6": [
+     2,
+     0,
+     0
+    ],
+    "black|Polish Opening Bugayev Attack": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense Modern Quiet": [
+     0,
+     3,
+     0
+    ],
+    "black|Nimzowitsch Defense French Connection": [
+     1,
+     0,
+     0
+    ],
+    "white|Alapin Sicilian Defense d6": [
+     1,
+     0,
+     0
+    ],
+    "white|Nimzowitsch Defense": [
+     1,
+     1,
+     0
+    ],
+    "black|Reti Opening Dutch Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense e6": [
+     0,
+     1,
+     0
+    ],
+    "black|Indian Game Knights Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Scotch Game Goring Gambit": [
+     0,
+     1,
+     0
+    ],
+    "white|Giuoco Piano Game Giuoco": [
+     2,
+     1,
+     0
+    ],
+    "black|Philidor Defense Exchange Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|English Opening Two Knights": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Pawn Opening Zukertort": [
+     1,
+     3,
+     0
+    ],
+    "white|Kings Gambit Accepted Becker": [
+     1,
+     0,
+     0
+    ],
+    "black|Philidor Defense": [
+     0,
+     2,
+     0
+    ],
+    "black|Birds Opening Bg7": [
+     1,
+     0,
+     0
+    ],
+    "black|Vienna Game": [
+     4,
+     1,
+     0
+    ],
+    "black|Reti Opening d5": [
+     1,
+     0,
+     0
+    ],
+    "black|Four Knights Game Scotch": [
+     1,
+     1,
+     0
+    ],
+    "white|Kings Gambit Declined Falkbeer": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Gambit Accepted Kings": [
+     4,
+     2,
+     0
+    ],
+    "white|Mieses Opening Reversed Rat": [
+     1,
+     0,
+     0
+    ],
+    "white|Caro Kann Defense": [
+     4,
+     0,
+     0
+    ],
+    "black|Philidor Defense Exchange Variation...5.Nc3": [
+     1,
+     0,
+     0
+    ],
+    "black|Ruy Lopez Opening": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Pawn Opening Zukertort": [
+     1,
+     4,
+     0
+    ],
+    "white|Queens Pawn Opening Mikenas": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Gambit Accepted Mason": [
+     2,
+     0,
+     0
+    ],
+    "white|Vienna Game Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Accepted Old": [
+     1,
+     0,
+     0
+    ],
+    "black|French Defense Advance Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game O": [
+     1,
+     2,
+     0
+    ],
+    "black|Ruy Lopez Opening Morphy": [
+     0,
+     3,
+     0
+    ],
+    "white|Danish Gambit": [
+     1,
+     0,
+     0
+    ],
+    "black|Scandinavian Defense": [
+     1,
+     0,
+     0
+    ],
+    "white|Sicilian Defense Smith Morra": [
+     0,
+     1,
+     0
+    ],
+    "black|Van Geet Opening Reversed": [
+     1,
+     0,
+     0
+    ],
+    "white|Owens Defense Bb7": [
+     1,
+     0,
+     0
+    ],
+    "black|Polish Opening f6": [
+     1,
+     0,
+     0
+    ],
+    "black|Scandinavian Defense Closed": [
+     0,
+     1,
+     0
+    ],
+    "white|Nimzowitsch Defense Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined Queens": [
+     1,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined Ragozin": [
+     2,
+     0,
+     0
+    ],
+    "black|French Defense": [
+     1,
+     0,
+     0
+    ],
+    "white|Modern Defense with e4": [
+     1,
+     1,
+     1
+    ],
+    "black|Grob Opening": [
+     1,
+     0,
+     0
+    ],
+    "black|Caro Kann Defense Advance": [
+     0,
+     1,
+     1
+    ],
+    "black|Caro Kann Defense": [
+     1,
+     2,
+     0
+    ],
+    "white|Caro Kann Defense...3.e5 c5": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Gambit Accepted Modern": [
+     1,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Fantasy": [
+     1,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Kramnik Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Caro Kann Defense d5": [
+     1,
+     0,
+     1
+    ],
+    "white|French Defense Normal Variation": [
+     5,
+     1,
+     0
+    ],
+    "white|Kings Gambit Declined Keene": [
+     2,
+     0,
+     0
+    ],
+    "black|Indian Game Yusupov Rubinstein": [
+     1,
+     0,
+     0
+    ],
+    "black|Modern Defense with e4": [
+     1,
+     0,
+     0
+    ],
+    "black|Modern Defense Gurgenidze Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined Semi": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Pawn Opening Krause": [
+     2,
+     0,
+     0
+    ],
+    "white|French Defense Advance Variation": [
+     2,
+     0,
+     0
+    ],
+    "white|Caro Kann Defense Classical": [
+     2,
+     0,
+     0
+    ],
+    "white|Alekhines Defense Normal Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Philidor Defense Be7": [
+     0,
+     1,
+     0
+    ],
+    "black|Petrovs Defense Nc6": [
+     0,
+     2,
+     1
+    ],
+    "white|Sicilian Defense Old Sicilian": [
+     0,
+     1,
+     0
+    ],
+    "white|Vienna Game Anderssen Defense": [
+     1,
+     1,
+     0
+    ],
+    "black|Ruy Lopez Opening Classical": [
+     2,
+     0,
+     0
+    ],
+    "white|Giuoco Piano Game Four": [
+     4,
+     2,
+     0
+    ],
+    "black|Scotch Game Scotch Gambit": [
+     0,
+     1,
+     0
+    ],
+    "white|Nimzowitsch Defense Declined...3.exd5 Qxd5": [
+     1,
+     0,
+     0
+    ],
+    "white|Sicilian Defense Taimanov Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Scotch Game Scotch Gambit": [
+     0,
+     0,
+     1
+    ],
+    "black|Kings Indian Attack...3.Bg2 e5": [
+     1,
+     0,
+     0
+    ],
+    "white|Caro Kann Defense d5": [
+     3,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game Four": [
+     0,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game Main": [
+     0,
+     3,
+     0
+    ],
+    "black|London System e6": [
+     2,
+     0,
+     0
+    ],
+    "black|Three Knights Opening Nxe5": [
+     0,
+     0,
+     1
+    ],
+    "black|French Defense Exchange Monte": [
+     0,
+     1,
+     0
+    ],
+    "white|Philidor Defense Exchange Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense McDonnell Attack": [
+     0,
+     1,
+     0
+    ],
+    "white|Closed Sicilian Defense Grand": [
+     2,
+     0,
+     0
+    ],
+    "black|Nimzo Indian Defense": [
+     0,
+     1,
+     0
+    ],
+    "black|English Opening Anglo Indian": [
+     0,
+     1,
+     0
+    ],
+    "black|Modern Defense Standard Two": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Indian Attack e5": [
+     1,
+     0,
+     0
+    ],
+    "black|Pirc Defense Classical Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Pirc Defense Main Line": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Indian Attack...3.Bg2 e5": [
+     0,
+     1,
+     0
+    ],
+    "white|Reti Opening Sicilian Invitation...4.d3": [
+     1,
+     0,
+     0
+    ],
+    "white|Reti Opening Kings Indian": [
+     0,
+     1,
+     0
+    ],
+    "white|Reti Opening Black Mustang": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Indian Attack Yugoslav": [
+     1,
+     0,
+     1
+    ],
+    "black|Pirc Defense Modern Defense": [
+     0,
+     1,
+     0
+    ],
+    "black|Birds Opening...2.Nf3 g6 Bg7": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Pawn Opening St": [
+     1,
+     0,
+     0
+    ],
+    "white|Scotch Game": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Gambit Accepted Schallopp": [
+     1,
+     1,
+     0
+    ],
+    "black|English Opening Kings English": [
+     2,
+     0,
+     0
+    ],
+    "black|Kings Fianchetto Opening": [
+     0,
+     1,
+     0
+    ],
+    "black|Center Game Accepted Paulsen": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Accelerated": [
+     5,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Old Sicilian": [
+     7,
+     2,
+     1
+    ],
+    "black|Alapin Sicilian Defense...4.exd5 Qxd5": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|London System...4.e3 e6 Bxd3": [
+     1,
+     0,
+     0
+    ],
+    "white|Modern Defense with d4...3.Bf4": [
+     1,
+     0,
+     0
+    ],
+    "black|Indian Game London System": [
+     1,
+     0,
+     0
+    ],
+    "black|Dutch Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Mengarini Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Accepted Central": [
+     1,
+     1,
+     0
+    ],
+    "black|Sicilian Defense": [
+     2,
+     3,
+     0
+    ],
+    "black|Dutch Defense Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Old Indian Defense Czech": [
+     1,
+     0,
+     0
+    ],
+    "white|English Opening Kings English": [
+     1,
+     0,
+     0
+    ],
+    "white|English Opening Agincourt Defense": [
+     0,
+     0,
+     1
+    ],
+    "black|Sicilian Defense French Variation": [
+     1,
+     2,
+     0
+    ],
+    "white|Indian Game d6": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Smith Morra": [
+     0,
+     1,
+     0
+    ],
+    "white|Scandinavian Defense Boehnke Gambit": [
+     1,
+     0,
+     0
+    ],
+    "white|Scotch Game Classical Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Owens Defense...3.Nc3 e6 Bb4": [
+     0,
+     1,
+     0
+    ],
+    "white|Center Game Accepted Kieseritzky": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Staunton Cochrane": [
+     1,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense Nf6": [
+     1,
+     0,
+     0
+    ],
+    "black|Closed Sicilian Defense Traditional": [
+     0,
+     2,
+     0
+    ],
+    "black|Old Benoni Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|Pirc Defense Antal Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Alekhines Defense": [
+     1,
+     0,
+     0
+    ],
+    "white|Giuoco Piano Game Center": [
+     2,
+     0,
+     0
+    ],
+    "white|Scotch Game Goring Double": [
+     1,
+     0,
+     0
+    ],
+    "black|Petrovs Defense Classical Cozio": [
+     1,
+     0,
+     0
+    ],
+    "white|Indian Game": [
+     0,
+     1,
+     0
+    ],
+    "white|Ponziani Opening Jaenisch Counterattack": [
+     1,
+     0,
+     0
+    ],
+    "white|Giuoco Piano Game Main": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Open Lowenthal": [
+     2,
+     0,
+     0
+    ],
+    "black|Alapin Sicilian Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|Ruy Lopez Opening": [
+     0,
+     2,
+     0
+    ],
+    "black|Dutch Defense Nf6 e6": [
+     1,
+     0,
+     0
+    ],
+    "black|Ponziani Opening Jaenisch Breyer": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense d5": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Nyezhmetdinov Rossolimo": [
+     1,
+     0,
+     0
+    ],
+    "black|Alapin Sicilian Defense Barmen": [
+     0,
+     1,
+     0
+    ],
+    "white|Pirc Defense Modern Defense": [
+     0,
+     1,
+     1
+    ],
+    "white|Birds Opening Swiss Gambit": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Indian Defense Normal": [
+     0,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense Nc6": [
+     0,
+     1,
+     0
+    ],
+    "black|London System...4.e3 e6 Bxd3": [
+     1,
+     0,
+     0
+    ],
+    "white|Old Benoni Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|French Defense La Bourdonnais": [
+     1,
+     1,
+     0
+    ],
+    "white|Trompowsky Attack": [
+     0,
+     1,
+     0
+    ],
+    "white|Ruy Lopez Opening Cozio": [
+     1,
+     0,
+     0
+    ],
+    "white|Alapin Sicilian Defense...3.Nf3 Nc6": [
+     1,
+     0,
+     0
+    ],
+    "white|Ruy Lopez Opening Classical": [
+     0,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Tartakower": [
+     1,
+     0,
+     0
+    ],
+    "white|London System": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Cowboy Attack...4.Bb2": [
+     0,
+     1,
+     0
+    ],
+    "white|Italian Game Hungarian Defense": [
+     1,
+     0,
+     0
+    ],
+    "white|Sicilian Defense Hyperaccelerated Dragon": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Gambit Accepted Central": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Fianchetto Opening...2.Bg2 e5": [
+     1,
+     0,
+     0
+    ],
+    "black|Mieses Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|French Defense Advance Nimzowitsch": [
+     0,
+     1,
+     0
+    ],
+    "white|Modern Defense Standard Two": [
+     1,
+     0,
+     0
+    ],
+    "white|Nimzowitsch Defense Scandinavian Advance": [
+     1,
+     0,
+     0
+    ]
+   },
+   "fast_losses": 244,
+   "clocked_losses": 375,
+   "loss_time_left_frac": [
+    0.971,
+    0.7776666666666666,
+    0.7215,
+    0.9621111111111111,
+    0.7184444444444444,
+    0.7625,
+    0.795,
+    0.6895555555555556,
+    0.8460555555555556,
+    0.05416666666666667,
+    0.7676666666666667,
+    0.37666666666666665,
+    0.9756666666666667,
+    0.8318333333333334,
+    0.9296666666666666,
+    0.17633333333333334,
+    0.8606666666666666,
+    0.4503333333333333,
+    0.011,
+    0.7658333333333334,
+    0.9786666666666668,
+    0.6773333333333333,
+    0.8738333333333332,
+    0.6303333333333333,
+    0.5936666666666667,
+    0.26466666666666666,
+    0.9316666666666666,
+    0.7623333333333333,
+    0.5076666666666667,
+    0.8993333333333333,
+    0.9206666666666666,
+    0.7311666666666666,
+    0.9595000000000001,
+    0.8683333333333333,
+    0.17900000000000002,
+    0.7078333333333333,
+    0.7025,
+    0.7158333333333333,
+    0.9493333333333334,
+    0.8618333333333333,
+    0.5096666666666667,
+    0.5746666666666667,
+    0.9548333333333333,
+    0.0008333333333333334,
+    0.384,
+    0.995,
+    0.9931666666666666,
+    0.8796666666666666,
+    0.7438333333333333,
+    0.49133333333333334,
+    0.5143333333333334,
+    0.8481666666666666,
+    0.8176666666666667,
+    0.125,
+    0.5635,
+    0.6235,
+    0.49916666666666665,
+    0.8211666666666666,
+    0.07983333333333333,
+    0.6161666666666666,
+    0.015833333333333335,
+    0.4043333333333333,
+    0.5415,
+    0.5116666666666667,
+    0.4125,
+    0.527,
+    0.49566666666666664,
+    0.004166666666666667,
+    0.0001666666666666667,
+    0.8738333333333332,
+    0.5860000000000001,
+    0.922,
+    0.4185,
+    0.06783333333333334,
+    0.8738333333333332,
+    0.36233333333333334,
+    0.005333333333333334,
+    0.7266666666666667,
+    0.9975,
+    0.6956666666666667,
+    0.8023333333333333,
+    0.5918333333333333,
+    0.9454999999999999,
+    0.2543333333333333,
+    0.7786666666666666,
+    0.6491666666666667,
+    0.24783333333333332,
+    0.8955,
+    0.19349999999999998,
+    0.6521666666666667,
+    0.8533333333333334,
+    0.9801666666666667,
+    0.8376666666666667,
+    0.33016666666666666,
+    0.5175,
+    0.0013333333333333335,
+    0.12066666666666667,
+    0.41300000000000003,
+    0.6455000000000001,
+    0.3071666666666667,
+    0.7463333333333334,
+    0.9311666666666667,
+    0.5746666666666667,
+    0.32483333333333336,
+    0.7210000000000001,
+    0.8151666666666667,
+    0.9241666666666667,
+    0.5398333333333333,
+    0.5810000000000001,
+    0.5771666666666667,
+    0.5583333333333333,
+    0.7756666666666666,
+    0.8081666666666666,
+    0.907,
+    0.9096666666666666,
+    0.37916666666666665,
+    0.43933333333333335,
+    0.8631666666666666,
+    0.5538333333333334,
+    0.705,
+    0.43149999999999994,
+    0.6336666666666666,
+    0.7321666666666666,
+    0.515,
+    0.5115,
+    0.29233333333333333,
+    0.8983333333333333,
+    0.7936666666666666,
+    0.43100000000000005,
+    0.32916666666666666,
+    0.8218333333333334,
+    0.9906666666666666,
+    0.29766666666666663,
+    0.7158333333333333,
+    0.8416666666666667,
+    0.06333333333333334,
+    0.33349999999999996,
+    0.3933333333333333,
+    0.769,
+    0.9420000000000001,
+    0.11599999999999999,
+    0.6966666666666667,
+    0.4798333333333333,
+    0.8770000000000001,
+    0.0135,
+    0.6296666666666667,
+    0.6376666666666667,
+    0.5773333333333333,
+    0.5871666666666667,
+    0.3373333333333333,
+    0.746,
+    0.7048333333333333,
+    0.005833333333333334,
+    0.0485,
+    0.9043333333333333,
+    0.9376666666666668,
+    0.5251666666666667,
+    0.6968333333333334,
+    0.07066666666666667,
+    0.0008333333333333334,
+    0.12166666666666667,
+    0.4766666666666667,
+    0.895,
+    0.11416666666666667,
+    0.6598333333333333,
+    0.593,
+    0.19716666666666666,
+    0.8585,
+    0.8771666666666665,
+    0.9421666666666666,
+    0.2806666666666667,
+    0.5585,
+    0.621,
+    0.4278333333333333,
+    0.85,
+    0.6539999999999999,
+    0.7464999999999999,
+    0.9531666666666666,
+    0.24833333333333332,
+    0.0021666666666666666,
+    0.707,
+    0.4846666666666667,
+    0.8955,
+    0.0185,
+    0.309,
+    0.186,
+    0.6356666666666666,
+    0.007666666666666666,
+    0.5289999999999999,
+    0.9276666666666668,
+    0.7166666666666667,
+    0.39599999999999996,
+    0.4635,
+    0.575,
+    0.7945,
+    0.8248333333333333,
+    0.6113333333333334,
+    0.8375,
+    0.3595,
+    0.4371666666666667,
+    0.30116666666666664,
+    0.7916666666666666,
+    0.9504999999999999,
+    0.5808333333333333,
+    0.6348333333333332,
+    0.6775,
+    0.40650000000000003,
+    0.35550000000000004,
+    0.8072222222222222,
+    0.6048333333333333,
+    0.14483333333333334,
+    0.9676666666666667,
+    0.2985,
+    0.2846666666666667,
+    0.6651666666666667,
+    0.528,
+    0.6371666666666667,
+    0.4015,
+    0.9881666666666666,
+    0.6014999999999999,
+    0.694,
+    0.7055,
+    0.5153333333333333,
+    0.9885,
+    0.37116666666666664,
+    0.8001666666666667,
+    0.615,
+    0.4948333333333333,
+    0.4848333333333333,
+    0.4156666666666667,
+    0.49649999999999994,
+    0.6985,
+    0.7989999999999999,
+    0.5853333333333333,
+    0.5018333333333334,
+    0.6836666666666666,
+    0.17033333333333334,
+    0.8771666666666665,
+    0.05016666666666667,
+    0.77,
+    0.3535,
+    0.47783333333333333,
+    0.9371666666666666,
+    0.6716666666666666,
+    0.8886666666666667,
+    0.8979999999999999,
+    0.9829999999999999,
+    0.5408333333333334,
+    0.8181666666666666,
+    0.8668333333333333,
+    0.5578333333333333,
+    0.9745,
+    0.8475,
+    0.8231666666666666,
+    0.7521666666666667,
+    0.6616666666666666,
+    0.49850000000000005,
+    0.8848333333333332,
+    0.9396666666666665,
+    0.9045000000000001,
+    0.8575,
+    0.9145000000000001,
+    0.319,
+    0.7518333333333334,
+    0.6064999999999999,
+    0.6916666666666667,
+    0.18033333333333335,
+    0.093,
+    0.7168333333333333,
+    0.4481666666666666,
+    0.9248333333333333,
+    0.775,
+    0.9283333333333333,
+    0.8366666666666667,
+    0.5876666666666667,
+    0.5985,
+    0.6138333333333333,
+    0.6675,
+    0.9071666666666666,
+    0.4976666666666667,
+    0.9781666666666666,
+    0.8768333333333334,
+    0.8926666666666667,
+    0.965,
+    0.8301666666666667,
+    0.9253333333333335,
+    0.741,
+    0.7364999999999999,
+    0.9438333333333333,
+    0.2568333333333333,
+    0.6708333333333333,
+    0.9315,
+    0.9241666666666667,
+    0.8028333333333333,
+    0.9436666666666668,
+    0.7768333333333334,
+    0.45433333333333337,
+    0.7181666666666666,
+    0.8883333333333333,
+    0.034833333333333334,
+    0.6275,
+    0.12,
+    0.6244999999999999,
+    0.23666666666666666,
+    0.8143333333333334,
+    0.7103333333333333,
+    0.4825,
+    0.7071666666666667,
+    0.4576666666666667,
+    0.7753333333333333,
+    0.6433333333333333,
+    0.6953333333333334,
+    0.8626666666666667,
+    0.7813333333333333,
+    0.31,
+    0.8253333333333334,
+    0.8261666666666666,
+    0.8726666666666667,
+    0.0005,
+    0.36,
+    0.6091666666666666,
+    0.053,
+    0.4483333333333333,
+    0.7325,
+    0.4103333333333333,
+    0.029333333333333336,
+    0.23650000000000002,
+    0.157,
+    0.8323333333333333,
+    0.536,
+    0.3631666666666667,
+    0.0015,
+    0.87,
+    0.44949999999999996,
+    0.6723333333333333,
+    0.002,
+    0.0008333333333333334,
+    0.814,
+    0.32966666666666666,
+    0.5336666666666666,
+    0.09033333333333333,
+    0.5956666666666667,
+    0.129,
+    0.9339999999999999,
+    0.6601666666666667,
+    0.9218333333333334,
+    0.83,
+    0.42633333333333334,
+    0.06766666666666667,
+    0.5263333333333333,
+    0.2975,
+    0.3998333333333333,
+    0.32666666666666666,
+    0.13099999999999998,
+    0.04883333333333333,
+    0.4355,
+    0.4573333333333333,
+    0.8035,
+    0.2006666666666667,
+    0.043333333333333335,
+    0.1875,
+    0.8411666666666666,
+    0.426,
+    0.5973333333333333,
+    0.0005,
+    0.49649999999999994,
+    0.0013333333333333335,
+    0.26166666666666666,
+    0.7063333333333334,
+    0.296,
+    0.5435,
+    0.5153333333333333,
+    0.7698333333333333,
+    0.8055,
+    0.9328333333333334
+   ],
+   "snap_moves": 8282,
+   "timed_moves": 23904,
+   "accuracy": [
+    72.41,
+    95.78,
+    13.7,
+    63.31,
+    52.46,
+    60.43,
+    98.58,
+    99.58,
+    18.31,
+    58.94,
+    69.23,
+    48.64,
+    94.11,
+    18.04,
+    22.06,
+    6.52,
+    76.43,
+    32.75,
+    87.66,
+    47.04,
+    57.44,
+    50.82,
+    39.97,
+    68.48,
+    45.8,
+    70.76,
+    77.43,
+    55.09,
+    59.51,
+    58.8,
+    53.83,
+    75.26,
+    75.13,
+    92.52,
+    75.13,
+    46.73,
+    71.2,
+    63.66,
+    95.5,
+    57.17,
+    38.9,
+    84.22,
+    46.78,
+    76.69,
+    69.55,
+    73.51,
+    64.16,
+    68.21,
+    85.63,
+    65.96,
+    79.14,
+    64.83,
+    99.34,
+    36.68,
+    56.8,
+    81.97,
+    30.79,
+    77.64,
+    57.28,
+    86.61,
+    82.51,
+    65.02,
+    74.34,
+    60.46,
+    59.2,
+    74.97,
+    74.84,
+    68.66,
+    76.47,
+    74.8,
+    85.16,
+    58.87,
+    75.58,
+    64.95,
+    80.66,
+    83.73,
+    39.84,
+    88.57,
+    77.9,
+    67.43,
+    71.99,
+    81.29,
+    76.57,
+    64.55,
+    41.87,
+    51.34,
+    80.1,
+    72.34,
+    77.91,
+    70.71,
+    72.04,
+    73.23
+   ]
+  },
+  "bullet": {
+   "n": 2079,
+   "w": 1013,
+   "l": 1021,
+   "d": 45,
+   "loss_term": {
+    "timeout": 363,
+    "checkmated": 277,
+    "resigned": 356,
+    "abandoned": 25
+   },
+   "win_term": {
+    "resigned": 224,
+    "timeout": 530,
+    "checkmated": 243,
+    "abandoned": 16
+   },
+   "loss_len": [
+    13,
+    25,
+    31,
+    14,
+    33,
+    40,
+    10,
+    29,
+    34,
+    20,
+    46,
+    20,
+    37,
+    22,
+    22,
+    12,
+    15,
+    26,
+    41,
+    33,
+    25,
+    28,
+    28,
+    19,
+    23,
+    19,
+    7,
+    7,
+    58,
+    28,
+    38,
+    11,
+    43,
+    27,
+    19,
+    19,
+    26,
+    9,
+    23,
+    27,
+    28,
+    34,
+    39,
+    20,
+    21,
+    24,
+    25,
+    25,
+    25,
+    30,
+    32,
+    15,
+    24,
+    20,
+    40,
+    37,
+    44,
+    12,
+    13,
+    31,
+    31,
+    30,
+    21,
+    19,
+    13,
+    30,
+    29,
+    28,
+    16,
+    27,
+    36,
+    25,
+    24,
+    26,
+    30,
+    21,
+    8,
+    38,
+    15,
+    10,
+    37,
+    18,
+    33,
+    26,
+    75,
+    19,
+    13,
+    22,
+    23,
+    26,
+    15,
+    19,
+    31,
+    9,
+    49,
+    26,
+    24,
+    7,
+    35,
+    6,
+    11,
+    39,
+    28,
+    25,
+    32,
+    40,
+    26,
+    9,
+    4,
+    45,
+    41,
+    27,
+    29,
+    29,
+    11,
+    19,
+    31,
+    21,
+    8,
+    16,
+    15,
+    18,
+    7,
+    9,
+    31,
+    9,
+    33,
+    27,
+    30,
+    21,
+    34,
+    19,
+    26,
+    41,
+    44,
+    13,
+    25,
+    54,
+    11,
+    28,
+    25,
+    8,
+    23,
+    15,
+    18,
+    55,
+    32,
+    21,
+    36,
+    22,
+    38,
+    11,
+    9,
+    21,
+    53,
+    36,
+    38,
+    55,
+    37,
+    17,
+    57,
+    16,
+    9,
+    35,
+    28,
+    25,
+    55,
+    14,
+    37,
+    37,
+    33,
+    28,
+    41,
+    64,
+    3,
+    22,
+    23,
+    28,
+    14,
+    38,
+    25,
+    11,
+    39,
+    30,
+    30,
+    18,
+    30,
+    30,
+    14,
+    12,
+    25,
+    17,
+    32,
+    28,
+    18,
+    2,
+    30,
+    15,
+    58,
+    27,
+    27,
+    36,
+    53,
+    81,
+    36,
+    52,
+    9,
+    6,
+    56,
+    6,
+    32,
+    32,
+    20,
+    31,
+    42,
+    22,
+    16,
+    17,
+    55,
+    10,
+    50,
+    38,
+    12,
+    15,
+    10,
+    47,
+    25,
+    17,
+    35,
+    27,
+    27,
+    22,
+    12,
+    27,
+    43,
+    31,
+    18,
+    29,
+    14,
+    28,
+    36,
+    33,
+    5,
+    7,
+    20,
+    21,
+    21,
+    31,
+    22,
+    41,
+    33,
+    13,
+    12,
+    20,
+    5,
+    25,
+    20,
+    5,
+    35,
+    35,
+    25,
+    21,
+    21,
+    23,
+    22,
+    46,
+    44,
+    33,
+    37,
+    5,
+    60,
+    16,
+    31,
+    62,
+    37,
+    39,
+    59,
+    22,
+    10,
+    31,
+    29,
+    25,
+    22,
+    58,
+    19,
+    23,
+    50,
+    48,
+    34,
+    28,
+    23,
+    43,
+    32,
+    15,
+    41,
+    26,
+    33,
+    27,
+    16,
+    14,
+    16,
+    35,
+    58,
+    50,
+    32,
+    19,
+    42,
+    33,
+    39,
+    17,
+    22,
+    26,
+    21,
+    20,
+    10,
+    28,
+    26,
+    15,
+    42,
+    42,
+    30,
+    31,
+    28,
+    25,
+    33,
+    41,
+    14,
+    18,
+    23,
+    42,
+    27,
+    40,
+    19,
+    33,
+    16,
+    29,
+    25,
+    23,
+    21,
+    16,
+    62,
+    30,
+    58,
+    11,
+    54,
+    24,
+    39,
+    9,
+    58,
+    14,
+    39,
+    38,
+    35,
+    46,
+    50,
+    22,
+    28,
+    31,
+    25,
+    16,
+    46,
+    25,
+    46,
+    40,
+    23,
+    41,
+    32,
+    30,
+    54,
+    33,
+    39,
+    31,
+    27,
+    23,
+    20,
+    19,
+    42,
+    39,
+    9,
+    42,
+    18,
+    24,
+    28,
+    42,
+    4,
+    14,
+    21,
+    15,
+    24,
+    27,
+    17,
+    30,
+    33,
+    27,
+    38,
+    13,
+    21,
+    22,
+    40,
+    36,
+    43,
+    31,
+    25,
+    18,
+    26,
+    19,
+    45,
+    25,
+    23,
+    17,
+    24,
+    21,
+    37,
+    8,
+    23,
+    46,
+    29,
+    8,
+    51,
+    24,
+    25,
+    33,
+    36,
+    24,
+    15,
+    12,
+    13,
+    59,
+    38,
+    8,
+    35,
+    27,
+    22,
+    17,
+    28,
+    33,
+    28,
+    63,
+    41,
+    32,
+    16,
+    27,
+    20,
+    68,
+    48,
+    19,
+    32,
+    13,
+    46,
+    17,
+    8,
+    26,
+    39,
+    33,
+    18,
+    35,
+    10,
+    32,
+    23,
+    22,
+    19,
+    32,
+    3,
+    23,
+    80,
+    46,
+    30,
+    28,
+    31,
+    35,
+    30,
+    14,
+    27,
+    6,
+    29,
+    28,
+    63,
+    12,
+    19,
+    30,
+    7,
+    27,
+    14,
+    16,
+    17,
+    17,
+    17,
+    34,
+    32,
+    15,
+    50,
+    25,
+    29,
+    31,
+    38,
+    60,
+    50,
+    16,
+    51,
+    43,
+    32,
+    12,
+    52,
+    35,
+    33,
+    22,
+    41,
+    41,
+    20,
+    42,
+    31,
+    23,
+    42,
+    27,
+    27,
+    40,
+    14,
+    53,
+    49,
+    27,
+    15,
+    23,
+    42,
+    11,
+    33,
+    28,
+    35,
+    31,
+    56,
+    30,
+    49,
+    8,
+    26,
+    19,
+    42,
+    31,
+    44,
+    18,
+    13,
+    46,
+    39,
+    32,
+    29,
+    15,
+    49,
+    29,
+    30,
+    18,
+    44,
+    41,
+    22,
+    31,
+    58,
+    59,
+    26,
+    19,
+    24,
+    23,
+    43,
+    24,
+    22,
+    20,
+    44,
+    56,
+    21,
+    19,
+    29,
+    32,
+    28,
+    66,
+    24,
+    42,
+    9,
+    41,
+    30,
+    28,
+    38,
+    41,
+    29,
+    37,
+    69,
+    35,
+    22,
+    12,
+    32,
+    29,
+    23,
+    10,
+    45,
+    21,
+    29,
+    20,
+    26,
+    74,
+    53,
+    44,
+    17,
+    16,
+    22,
+    41,
+    11,
+    16,
+    40,
+    49,
+    34,
+    27,
+    9,
+    13,
+    19,
+    69,
+    27,
+    32,
+    39,
+    18,
+    24,
+    44,
+    30,
+    7,
+    31,
+    69,
+    20,
+    31,
+    6,
+    71,
+    29,
+    27,
+    21,
+    96,
+    22,
+    25,
+    24,
+    23,
+    44,
+    59,
+    26,
+    21,
+    39,
+    39,
+    24,
+    22,
+    23,
+    21,
+    17,
+    37,
+    39,
+    33,
+    37,
+    35,
+    30,
+    30,
+    65,
+    29,
+    32,
+    36,
+    47,
+    62,
+    79,
+    16,
+    29,
+    40,
+    26,
+    48,
+    20,
+    55,
+    28,
+    22,
+    52,
+    31,
+    29,
+    51,
+    17,
+    35,
+    39,
+    19,
+    23,
+    36,
+    48,
+    39,
+    27,
+    24,
+    19,
+    37,
+    33,
+    70,
+    34,
+    70,
+    29,
+    37,
+    30,
+    47,
+    24,
+    24,
+    32,
+    38,
+    10,
+    42,
+    30,
+    35,
+    27,
+    35,
+    48,
+    26,
+    27,
+    26,
+    29,
+    34,
+    31,
+    44,
+    43,
+    51,
+    45,
+    30,
+    8,
+    33,
+    26,
+    36,
+    26,
+    42,
+    27,
+    17,
+    33,
+    31,
+    25,
+    34,
+    41,
+    28,
+    45,
+    19,
+    35,
+    32,
+    30,
+    33,
+    40,
+    40,
+    18,
+    26,
+    24,
+    50,
+    63,
+    65,
+    30,
+    30,
+    25,
+    22,
+    23,
+    33,
+    26,
+    29,
+    21,
+    21,
+    28,
+    19,
+    46,
+    32,
+    33,
+    40,
+    22,
+    26,
+    39,
+    26,
+    22,
+    12,
+    25,
+    27,
+    27,
+    59,
+    36,
+    29,
+    29,
+    27,
+    36,
+    35,
+    36,
+    41,
+    23,
+    15,
+    36,
+    33,
+    15,
+    31,
+    33,
+    24,
+    26,
+    30,
+    46,
+    28,
+    31,
+    9,
+    22,
+    37,
+    22,
+    58,
+    28,
+    4,
+    22,
+    26,
+    21,
+    69,
+    17,
+    19,
+    80,
+    33,
+    37,
+    26,
+    36,
+    50,
+    29,
+    23,
+    8,
+    44,
+    30,
+    31,
+    35,
+    26,
+    28,
+    12,
+    36,
+    8,
+    38,
+    38,
+    37,
+    40,
+    43,
+    24,
+    35,
+    34,
+    39,
+    37,
+    46,
+    15,
+    23,
+    69,
+    34,
+    35,
+    15,
+    23,
+    33,
+    58,
+    31,
+    44,
+    29,
+    28,
+    32,
+    43,
+    13,
+    33,
+    16,
+    4,
+    24,
+    42,
+    55,
+    35,
+    12,
+    18,
+    28,
+    12,
+    26,
+    21,
+    45,
+    26,
+    33,
+    21,
+    27,
+    29,
+    38,
+    15,
+    24,
+    22,
+    15,
+    29,
+    26,
+    23,
+    19,
+    6,
+    21,
+    47,
+    14,
+    10,
+    30,
+    25,
+    25,
+    26,
+    20,
+    50,
+    31,
+    22,
+    21,
+    20,
+    43,
+    25,
+    20,
+    14,
+    37,
+    16,
+    18,
+    13,
+    29,
+    33,
+    17,
+    18,
+    38,
+    12,
+    32,
+    62,
+    30,
+    13,
+    26,
+    38,
+    27,
+    20,
+    39,
+    42,
+    17,
+    39,
+    28,
+    29,
+    8,
+    19,
+    17,
+    20,
+    6,
+    17,
+    35,
+    22,
+    16,
+    27,
+    14,
+    31,
+    50,
+    24,
+    29,
+    8,
+    21,
+    20,
+    16,
+    21,
+    37,
+    35,
+    22,
+    16,
+    21,
+    23,
+    24,
+    19,
+    25,
+    19,
+    18,
+    3,
+    12,
+    6,
+    8,
+    4,
+    14,
+    16,
+    28,
+    8,
+    21,
+    49,
+    40,
+    32,
+    28,
+    20,
+    33,
+    30,
+    25,
+    28,
+    43,
+    25,
+    18,
+    34,
+    19,
+    27,
+    33,
+    20,
+    19,
+    24,
+    27,
+    21,
+    27,
+    16,
+    3,
+    17,
+    31,
+    33,
+    23,
+    21,
+    27,
+    33,
+    7,
+    26,
+    55,
+    23,
+    45,
+    19,
+    24,
+    26,
+    39,
+    14,
+    9,
+    38,
+    16,
+    32,
+    54,
+    12,
+    12,
+    17,
+    21,
+    30,
+    27,
+    28,
+    24,
+    23,
+    26,
+    33,
+    21,
+    20,
+    22,
+    40,
+    29,
+    20,
+    23
+   ],
+   "openings": {
+    "white|Kings Pawn Opening Kings": [
+     11,
+     3,
+     0
+    ],
+    "black|Center Game": [
+     2,
+     1,
+     0
+    ],
+    "black|Kings Pawn Opening Leonardis": [
+     6,
+     6,
+     0
+    ],
+    "white|Scandinavian Defense Closed": [
+     4,
+     2,
+     0
+    ],
+    "white|Vienna Game": [
+     2,
+     2,
+     1
+    ],
+    "black|Kings Pawn Opening": [
+     8,
+     8,
+     0
+    ],
+    "white|Vienna Game Anderssen Defense": [
+     2,
+     0,
+     0
+    ],
+    "black|Petrovs Defense Three Knights": [
+     11,
+     13,
+     2
+    ],
+    "black|Four Knights Game": [
+     2,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Chigorin": [
+     7,
+     2,
+     0
+    ],
+    "white|Indian Game Knights Variation": [
+     2,
+     2,
+     0
+    ],
+    "black|Petrovs Defense": [
+     10,
+     11,
+     1
+    ],
+    "black|Van Geet Opening Reversed": [
+     3,
+     0,
+     1
+    ],
+    "black|Bishops Opening Berlin Defense": [
+     3,
+     7,
+     0
+    ],
+    "black|Anderssen Opening": [
+     0,
+     1,
+     0
+    ],
+    "white|Center Game": [
+     1,
+     3,
+     0
+    ],
+    "white|Queens Pawn Opening Horwitz": [
+     13,
+     10,
+     0
+    ],
+    "black|Petrovs Defense Classical Variation": [
+     17,
+     12,
+     0
+    ],
+    "white|Sicilian Defense Smith Morra": [
+     6,
+     7,
+     0
+    ],
+    "black|Englund Gambit": [
+     11,
+     7,
+     0
+    ],
+    "black|Queens Pawn Opening Zukertort": [
+     3,
+     6,
+     0
+    ],
+    "black|Clemenz Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Marshall": [
+     3,
+     2,
+     0
+    ],
+    "black|Kings Pawn Opening Kings": [
+     3,
+     6,
+     0
+    ],
+    "white|Center Game Accepted": [
+     2,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening": [
+     5,
+     9,
+     0
+    ],
+    "white|Four Knights Game": [
+     1,
+     1,
+     0
+    ],
+    "black|Scandinavian Defense Mieses Kotrc": [
+     3,
+     7,
+     1
+    ],
+    "white|Queens Pawn Opening Blackmar": [
+     4,
+     2,
+     0
+    ],
+    "white|Closed Sicilian Defense Traditional": [
+     1,
+     2,
+     0
+    ],
+    "white|Four Knights Game Spanish": [
+     0,
+     0,
+     1
+    ],
+    "white|French Defense Queens Knight": [
+     1,
+     1,
+     0
+    ],
+    "white|Pirc Defense": [
+     3,
+     1,
+     1
+    ],
+    "black|Vienna Game Falkbeer Variation": [
+     1,
+     1,
+     0
+    ],
+    "white|French Defense Rubinstein Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Modern Defense with e4": [
+     4,
+     3,
+     1
+    ],
+    "black|Petrovs Defense Nc6": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Fianchetto Opening...2.Bg2 Nf6": [
+     0,
+     1,
+     0
+    ],
+    "black|Van t Kruijs Opening": [
+     8,
+     12,
+     0
+    ],
+    "black|Philidor Defense Nimzowitsch Variation": [
+     1,
+     3,
+     1
+    ],
+    "white|Pirc Defense...3.Nc3 e5 dxe5": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Pawn Opening Nf6": [
+     1,
+     1,
+     0
+    ],
+    "black|Kings Indian Attack Nf6": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Mikenas": [
+     2,
+     1,
+     0
+    ],
+    "black|Italian Game Two Knights": [
+     1,
+     1,
+     0
+    ],
+    "white|French Defense Normal Variation": [
+     1,
+     3,
+     0
+    ],
+    "white|Kings Pawn Opening": [
+     12,
+     6,
+     0
+    ],
+    "white|Van t Kruijs Opening": [
+     1,
+     2,
+     0
+    ],
+    "black|Pirc Defense Maroczy Defense": [
+     1,
+     1,
+     0
+    ],
+    "white|Undefined": [
+     2,
+     0,
+     0
+    ],
+    "black|English Opening Kings English": [
+     1,
+     5,
+     0
+    ],
+    "white|Nimzowitsch Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|Nimzowitsch Defense Kennedy Variation": [
+     1,
+     1,
+     0
+    ],
+    "black|English Opening Symmetrical Two": [
+     1,
+     0,
+     0
+    ],
+    "black|Queens Pawn Opening Blackmar": [
+     2,
+     5,
+     1
+    ],
+    "black|Nimzowitsch Larsen Attack Modern": [
+     2,
+     3,
+     0
+    ],
+    "white|Center Game Accepted Normal": [
+     3,
+     3,
+     0
+    ],
+    "black|Philidor Defense Nf6": [
+     1,
+     0,
+     0
+    ],
+    "white|Pirc Defense Maroczy Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Indian Game e6 d5": [
+     0,
+     2,
+     0
+    ],
+    "white|French Defense Steinitz Attack": [
+     0,
+     1,
+     0
+    ],
+    "black|Undefined": [
+     3,
+     1,
+     0
+    ],
+    "white|Four Knights Game Italian": [
+     1,
+     3,
+     0
+    ],
+    "black|Pirc Defense Modern Defense": [
+     2,
+     0,
+     0
+    ],
+    "black|Four Knights Game Scotch": [
+     2,
+     1,
+     0
+    ],
+    "white|Giuoco Piano Game O": [
+     0,
+     1,
+     0
+    ],
+    "white|Three Knights Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|Vienna Game Falkbeer Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|French Defense Knight Variation": [
+     3,
+     5,
+     0
+    ],
+    "white|Petrovs Defense Three Knights": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Gambit Declined Chigorin": [
+     0,
+     3,
+     0
+    ],
+    "white|Modern Defense with d4": [
+     3,
+     4,
+     0
+    ],
+    "white|Italian Game": [
+     15,
+     9,
+     2
+    ],
+    "white|Reti Opening Queenside Fianchetto": [
+     4,
+     5,
+     0
+    ],
+    "white|Englund Gambit": [
+     11,
+     10,
+     0
+    ],
+    "black|Three Knights Opening": [
+     5,
+     0,
+     0
+    ],
+    "white|Mieses Opening Reversed Rat": [
+     2,
+     0,
+     0
+    ],
+    "black|Reti Opening Pirc Invitation": [
+     1,
+     0,
+     0
+    ],
+    "black|Center Game Accepted Normal": [
+     0,
+     4,
+     0
+    ],
+    "white|Scandinavian Defense Mieses Kotrc": [
+     17,
+     13,
+     0
+    ],
+    "white|Kings Gambit Accepted Bishops": [
+     0,
+     2,
+     0
+    ],
+    "black|Queens Gambit Accepted": [
+     0,
+     2,
+     0
+    ],
+    "white|Sicilian Defense Bowdler Attack": [
+     3,
+     9,
+     0
+    ],
+    "black|Giuoco Piano Game...5.d3 O": [
+     0,
+     1,
+     0
+    ],
+    "black|Philidor Defense": [
+     2,
+     0,
+     0
+    ],
+    "white|Owens Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|Bishops Opening": [
+     4,
+     4,
+     0
+    ],
+    "white|Modern Defense Three Pawns": [
+     2,
+     2,
+     0
+    ],
+    "black|Scandinavian Defense Closed": [
+     0,
+     1,
+     0
+    ],
+    "white|Italian Game Knight Attack": [
+     1,
+     1,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack Classical": [
+     5,
+     5,
+     0
+    ],
+    "white|Queens Pawn Opening Zukertort": [
+     39,
+     22,
+     2
+    ],
+    "black|Slav Defense Modern Three": [
+     2,
+     3,
+     0
+    ],
+    "white|English Defense": [
+     0,
+     2,
+     0
+    ],
+    "white|Bishops Opening Berlin Defense": [
+     3,
+     4,
+     0
+    ],
+    "black|Reti Opening Black Mustang": [
+     1,
+     0,
+     0
+    ],
+    "black|Vienna Game Anderssen Defense": [
+     2,
+     2,
+     0
+    ],
+    "black|Bishops Opening Boi Variation": [
+     3,
+     3,
+     0
+    ],
+    "black|Queens Gambit Declined Baltic": [
+     2,
+     8,
+     0
+    ],
+    "white|Caro Kann Defense": [
+     3,
+     5,
+     0
+    ],
+    "white|Scandinavian Defense": [
+     11,
+     12,
+     1
+    ],
+    "black|London System e6": [
+     3,
+     8,
+     1
+    ],
+    "white|Pirc Defense Nf6": [
+     0,
+     2,
+     0
+    ],
+    "black|Dutch Defense": [
+     2,
+     1,
+     0
+    ],
+    "black|French Defense Knight Variation": [
+     1,
+     2,
+     0
+    ],
+    "white|Birds Opening Dutch Variation": [
+     6,
+     3,
+     0
+    ],
+    "black|Sicilian Defense Open Pelikan": [
+     2,
+     2,
+     0
+    ],
+    "black|Sicilian Defense Old Sicilian": [
+     14,
+     12,
+     0
+    ],
+    "black|Sicilian Defense McDonnell Attack": [
+     2,
+     7,
+     0
+    ],
+    "white|Pirc Defense Harmonist Variation": [
+     1,
+     2,
+     1
+    ],
+    "white|Indian Game e6": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Open": [
+     0,
+     9,
+     0
+    ],
+    "black|French Defense Tarrasch Closed...5.Ngf3": [
+     1,
+     0,
+     0
+    ],
+    "white|Birds Opening": [
+     3,
+     0,
+     0
+    ],
+    "black|Nimzowitsch Defense": [
+     0,
+     1,
+     0
+    ],
+    "black|Old Benoni Defense": [
+     15,
+     17,
+     0
+    ],
+    "black|Dutch Defense Raphael Variation": [
+     2,
+     2,
+     0
+    ],
+    "white|French Defense La Bourdonnais": [
+     3,
+     3,
+     1
+    ],
+    "white|Italian Game Bg4": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense": [
+     9,
+     7,
+     0
+    ],
+    "black|Sicilian Defense Nyezhmetdinov Rossolimo": [
+     7,
+     11,
+     0
+    ],
+    "black|Grob Opening Grob Gambit": [
+     1,
+     1,
+     0
+    ],
+    "white|English Opening Symmetrical Variation": [
+     2,
+     0,
+     0
+    ],
+    "white|Kings Gambit": [
+     3,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game Four": [
+     0,
+     1,
+     0
+    ],
+    "black|Bishops Opening": [
+     4,
+     1,
+     0
+    ],
+    "black|Four Knights Game Spanish": [
+     0,
+     1,
+     0
+    ],
+    "white|Four Knights Game Scotch": [
+     1,
+     1,
+     0
+    ],
+    "black|Nimzowitsch Defense e6 d5": [
+     1,
+     0,
+     0
+    ],
+    "white|Philidor Defense Exchange Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Fianchetto Opening d5": [
+     1,
+     1,
+     1
+    ],
+    "white|Nimzowitsch Defense Kennedy Paulsen": [
+     1,
+     0,
+     0
+    ],
+    "black|Scandinavian Defense": [
+     5,
+     3,
+     0
+    ],
+    "white|Kings Gambit Declined Classical": [
+     4,
+     1,
+     0
+    ],
+    "white|Philidor Defense": [
+     7,
+     5,
+     1
+    ],
+    "black|Kings Gambit": [
+     0,
+     1,
+     0
+    ],
+    "white|Indian Game g6": [
+     1,
+     0,
+     0
+    ],
+    "white|Nimzowitsch Defense Kennedy Linksspringer": [
+     1,
+     1,
+     1
+    ],
+    "black|Indian Game East Indian": [
+     1,
+     3,
+     0
+    ],
+    "black|Sicilian Defense d6 Nc6": [
+     3,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Bowdler Attack": [
+     14,
+     9,
+     0
+    ],
+    "white|Owens Defense Bb7": [
+     4,
+     2,
+     0
+    ],
+    "white|Ruy Lopez Opening": [
+     0,
+     1,
+     0
+    ],
+    "white|Giuoco Piano Game Four": [
+     1,
+     4,
+     0
+    ],
+    "black|Queens Pawn Opening Accelerated": [
+     7,
+     7,
+     0
+    ],
+    "black|London System": [
+     2,
+     1,
+     0
+    ],
+    "black|Mieses Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|Scotch Game d6": [
+     1,
+     0,
+     0
+    ],
+    "black|Reti Opening Sicilian Invitation": [
+     1,
+     3,
+     0
+    ],
+    "black|Queens Gambit Accepted Gunsberg": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Accelerated": [
+     12,
+     11,
+     1
+    ],
+    "white|Old Benoni Defense": [
+     4,
+     2,
+     1
+    ],
+    "white|London System Bg7": [
+     1,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game Center": [
+     0,
+     2,
+     0
+    ],
+    "white|Indian Game d6": [
+     3,
+     0,
+     0
+    ],
+    "white|Kings Indian Defense Normal": [
+     2,
+     3,
+     0
+    ],
+    "white|Grunfeld Defense Hungarian Attack": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Staunton Cochrane": [
+     2,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Open d6": [
+     0,
+     1,
+     0
+    ],
+    "black|Reti Opening": [
+     0,
+     2,
+     0
+    ],
+    "white|Caro Kann Defense d5": [
+     14,
+     10,
+     0
+    ],
+    "black|Scotch Game d6": [
+     0,
+     0,
+     1
+    ],
+    "black|Danish Gambit": [
+     1,
+     2,
+     0
+    ],
+    "white|London System e6": [
+     2,
+     5,
+     0
+    ],
+    "black|Nimzowitsch Defense Declined...3.exd5 Qxd5": [
+     0,
+     2,
+     0
+    ],
+    "black|Queens Pawn Opening Pseudo": [
+     1,
+     2,
+     0
+    ],
+    "black|Ruy Lopez Opening Morphy": [
+     1,
+     7,
+     0
+    ],
+    "white|Queens Pawn Opening": [
+     6,
+     3,
+     0
+    ],
+    "black|Caro Kann Defense Exchange": [
+     13,
+     16,
+     1
+    ],
+    "black|Colle System Anti Colle": [
+     2,
+     1,
+     0
+    ],
+    "white|Sicilian Defense d5": [
+     1,
+     0,
+     0
+    ],
+    "white|Indian Game": [
+     2,
+     1,
+     0
+    ],
+    "white|Indian Game...3.e3 d5 Bd6": [
+     3,
+     3,
+     0
+    ],
+    "white|London System": [
+     3,
+     4,
+     0
+    ],
+    "white|Ponziani Opening": [
+     4,
+     3,
+     0
+    ],
+    "white|Sicilian Defense Taimanov Bastrikov": [
+     1,
+     0,
+     0
+    ],
+    "black|Vienna Game Falkbeer Vienna": [
+     1,
+     1,
+     0
+    ],
+    "black|Birds Opening Dutch Variation": [
+     1,
+     2,
+     0
+    ],
+    "white|Indian Game London System": [
+     2,
+     2,
+     0
+    ],
+    "black|English Opening Anglo Dutch": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening St": [
+     2,
+     0,
+     0
+    ],
+    "white|Indian Game...5.Nd2 Bf5 e6": [
+     3,
+     1,
+     0
+    ],
+    "black|English Opening Reversed Sicilian": [
+     1,
+     4,
+     0
+    ],
+    "black|Sicilian Defense Taimanov Variation": [
+     3,
+     6,
+     0
+    ],
+    "black|Kings Gambit Declined Classical": [
+     1,
+     0,
+     0
+    ],
+    "white|Vienna Game Omaha Gambit": [
+     1,
+     2,
+     0
+    ],
+    "black|Sicilian Defense Nc6": [
+     3,
+     2,
+     0
+    ],
+    "white|Queens Gambit Accepted Central": [
+     9,
+     10,
+     0
+    ],
+    "black|Indian Game Spielmann Indian": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Accepted a6": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Baltic": [
+     5,
+     1,
+     0
+    ],
+    "black|Queens Gambit": [
+     1,
+     1,
+     0
+    ],
+    "black|Closed Sicilian Defense Traditional": [
+     6,
+     3,
+     0
+    ],
+    "white|Queens Gambit Declined Exchange": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Albin": [
+     1,
+     4,
+     0
+    ],
+    "black|Queens Pawn Opening Krause": [
+     1,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Smith Morra": [
+     2,
+     7,
+     0
+    ],
+    "white|Kings Indian Defense Samisch": [
+     2,
+     0,
+     0
+    ],
+    "white|Slav Defense Exchange Variation": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Austrian": [
+     1,
+     1,
+     0
+    ],
+    "white|Tarrasch Defense Two Knights": [
+     0,
+     1,
+     0
+    ],
+    "black|Caro Kann Defense d5": [
+     18,
+     18,
+     3
+    ],
+    "black|Caro Kann Defense": [
+     6,
+     12,
+     0
+    ],
+    "white|Dutch Defense Classical Rubinstein": [
+     2,
+     1,
+     0
+    ],
+    "black|Kings Indian Attack...3.Bg2 e5": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Pawn Opening Latvian": [
+     0,
+     2,
+     0
+    ],
+    "black|Center Game Accepted Paulsen": [
+     1,
+     2,
+     0
+    ],
+    "black|French Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Vienna Game": [
+     8,
+     2,
+     0
+    ],
+    "white|French Defense Exchange Variation": [
+     5,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Classical": [
+     2,
+     1,
+     0
+    ],
+    "black|Englund Gambit Nc6": [
+     1,
+     1,
+     1
+    ],
+    "white|Ruy Lopez Opening Morphy": [
+     2,
+     2,
+     0
+    ],
+    "white|Sicilian Defense Anti Qxd4": [
+     0,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game Giuoco": [
+     1,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense...3.d4 cxd4": [
+     2,
+     0,
+     0
+    ],
+    "white|Vienna Game Falkbeer Vienna": [
+     5,
+     5,
+     0
+    ],
+    "white|Alekhines Defense Scandinavian Variation": [
+     5,
+     1,
+     0
+    ],
+    "black|Bishops Opening Berlin Ponziani": [
+     0,
+     1,
+     0
+    ],
+    "white|French Defense": [
+     1,
+     4,
+     0
+    ],
+    "white|French Defense Exchange Monte": [
+     1,
+     0,
+     0
+    ],
+    "black|Bishops Opening Berlin Spielmann": [
+     5,
+     3,
+     0
+    ],
+    "white|Scotch Game Scotch Gambit": [
+     2,
+     0,
+     0
+    ],
+    "black|Queens Gambit Declined Semi": [
+     1,
+     1,
+     0
+    ],
+    "white|Queens Gambit Accepted Old": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Open Lowenthal": [
+     1,
+     0,
+     0
+    ],
+    "white|Italian Game Two Knights": [
+     5,
+     6,
+     0
+    ],
+    "white|Vienna Game Max Lange": [
+     9,
+     13,
+     0
+    ],
+    "white|Nimzowitsch Defense Scandinavian Bogoljubov": [
+     0,
+     3,
+     0
+    ],
+    "white|French Defense Franco Sicilian": [
+     0,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Fantasy": [
+     3,
+     4,
+     0
+    ],
+    "white|Petrovs Defense": [
+     5,
+     2,
+     0
+    ],
+    "white|Pirc Defense Czech Defense": [
+     1,
+     1,
+     0
+    ],
+    "black|Closed Sicilian Defense Grand": [
+     2,
+     3,
+     0
+    ],
+    "black|Old Benoni Defense cxd4": [
+     2,
+     0,
+     0
+    ],
+    "black|Alapin Sicilian Defense": [
+     3,
+     2,
+     0
+    ],
+    "black|Queens Pawn Opening Chigorin": [
+     7,
+     10,
+     0
+    ],
+    "black|Kings Fianchetto Opening": [
+     0,
+     3,
+     0
+    ],
+    "white|Alapin Sicilian Defense d6": [
+     0,
+     1,
+     0
+    ],
+    "white|Closed Sicilian Defense Grand": [
+     3,
+     1,
+     0
+    ],
+    "white|Sicilian Defense McDonnell Attack...3.Nf3": [
+     1,
+     0,
+     0
+    ],
+    "black|Scotch Game Nxd4": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Gambit Accepted Kings": [
+     0,
+     2,
+     0
+    ],
+    "black|Kings Indian Attack French": [
+     0,
+     2,
+     0
+    ],
+    "black|Owens Defense": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening English": [
+     1,
+     1,
+     0
+    ],
+    "black|Modern Defense with e4": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Lasker Dunne": [
+     0,
+     2,
+     0
+    ],
+    "white|French Defense Tarrasch Open": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Polish Gambit": [
+     0,
+     1,
+     0
+    ],
+    "white|Grunfeld Defense Stockholm Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Saragossa Opening": [
+     2,
+     1,
+     0
+    ],
+    "black|Sicilian Defense French Variation": [
+     1,
+     3,
+     0
+    ],
+    "white|Sicilian Defense McDonnell Attack": [
+     4,
+     4,
+     0
+    ],
+    "white|English Opening Kings English": [
+     2,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Open Dragon": [
+     3,
+     2,
+     1
+    ],
+    "black|Queens Pawn Opening Horwitz": [
+     3,
+     0,
+     0
+    ],
+    "white|Nimzo Indian Defense Leningrad": [
+     0,
+     1,
+     0
+    ],
+    "black|Scandinavian Defense Closed c5": [
+     1,
+     0,
+     0
+    ],
+    "white|Reti Opening": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Anti Qxd4": [
+     0,
+     2,
+     0
+    ],
+    "black|Sicilian Defense Canal Main": [
+     1,
+     1,
+     0
+    ],
+    "black|Old Benoni Defense Franco": [
+     1,
+     0,
+     0
+    ],
+    "white|Sicilian Defense McDonnell Attack...3.d3": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Gambit Accepted Schallopp": [
+     1,
+     0,
+     0
+    ],
+    "white|Caro Kann Defense Exchange": [
+     2,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Delayed Alapin": [
+     1,
+     1,
+     0
+    ],
+    "white|Pirc Defense...3.f4 g6 Bg7": [
+     0,
+     1,
+     0
+    ],
+    "white|Modern Defense with e4...3.Nf3": [
+     2,
+     2,
+     1
+    ],
+    "black|Sicilian Defense d6 Nf6": [
+     3,
+     3,
+     0
+    ],
+    "white|Bishops Opening Boi Variation": [
+     1,
+     1,
+     0
+    ],
+    "black|English Opening": [
+     2,
+     3,
+     0
+    ],
+    "black|Closed Sicilian Defense": [
+     1,
+     2,
+     0
+    ],
+    "white|Pirc Defense Main Line": [
+     2,
+     2,
+     0
+    ],
+    "black|Giuoco Piano Game O": [
+     2,
+     4,
+     0
+    ],
+    "black|Queens Gambit Declined Austrian": [
+     1,
+     1,
+     0
+    ],
+    "white|Vienna Game Main Line": [
+     2,
+     1,
+     0
+    ],
+    "black|English Opening Anglo Scandinavian": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Gambit Declined Queens": [
+     2,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Open Classical": [
+     1,
+     0,
+     0
+    ],
+    "white|Old Benoni Defense...4.Nf3 d6": [
+     0,
+     1,
+     0
+    ],
+    "white|Ruy Lopez Opening Berlin": [
+     1,
+     2,
+     0
+    ],
+    "white|Caro Kann Defense Accelerated": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Open Najdorf": [
+     1,
+     0,
+     0
+    ],
+    "white|Bishops Opening Berlin Vienna": [
+     1,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Chekhover Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Gambit Accepted Fischer": [
+     1,
+     0,
+     0
+    ],
+    "black|English Defense c5": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense Nf6": [
+     2,
+     2,
+     0
+    ],
+    "white|Caro Kann Defense Two": [
+     1,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Open...4.Nxd4 Nf6": [
+     0,
+     1,
+     0
+    ],
+    "black|Caro Kann Defense Two": [
+     8,
+     3,
+     1
+    ],
+    "black|Caro Kann Defense Fantasy": [
+     0,
+     3,
+     0
+    ],
+    "white|Pirc Defense g6 Bg7": [
+     1,
+     0,
+     0
+    ],
+    "white|Ponziani Opening Jaenisch Counterattack": [
+     1,
+     1,
+     0
+    ],
+    "white|Sicilian Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Open Prins": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Mengarini Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Gambit Accepted Becker": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Nyezhmetdinov Rossolimo": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Pawn Opening Levitsky": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Open...4.Nxd4 d6": [
+     0,
+     1,
+     0
+    ],
+    "white|English Opening Anglo Indian": [
+     0,
+     3,
+     0
+    ],
+    "white|English Opening Anglo Scandinavian": [
+     1,
+     0,
+     0
+    ],
+    "white|English Opening": [
+     0,
+     3,
+     0
+    ],
+    "white|Ruy Lopez Opening Cozio": [
+     2,
+     0,
+     0
+    ],
+    "black|Caro Kann Defense Panov": [
+     1,
+     0,
+     0
+    ],
+    "white|London System...4.e3 Bf5 e6": [
+     2,
+     0,
+     0
+    ],
+    "black|Caro Kann Defense Advance": [
+     6,
+     16,
+     0
+    ],
+    "white|Queens Gambit Declined Queens": [
+     3,
+     4,
+     0
+    ],
+    "white|London System...4.e3 Nc6 e6": [
+     0,
+     0,
+     1
+    ],
+    "white|Richter Veresov Attack Richter": [
+     0,
+     0,
+     1
+    ],
+    "black|Giuoco Piano Game Evans": [
+     1,
+     0,
+     0
+    ],
+    "black|Vienna Game Max Lange": [
+     1,
+     7,
+     0
+    ],
+    "white|Sicilian Defense French Variation": [
+     2,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Old Sicilian": [
+     3,
+     8,
+     0
+    ],
+    "black|Kings Fianchetto Opening Nf6": [
+     0,
+     1,
+     0
+    ],
+    "black|Benoni Defense Modern Variation": [
+     2,
+     1,
+     0
+    ],
+    "white|Giuoco Piano Game Center": [
+     1,
+     2,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack English": [
+     2,
+     1,
+     0
+    ],
+    "black|Benoni Defense a6": [
+     0,
+     1,
+     0
+    ],
+    "black|Scotch Game Scotch Gambit": [
+     4,
+     1,
+     0
+    ],
+    "white|Bishops Opening Berlin Ponziani": [
+     0,
+     1,
+     0
+    ],
+    "white|Center Game Accepted Kieseritzky": [
+     1,
+     0,
+     0
+    ],
+    "black|Old Benoni Defense Benoni": [
+     2,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Slow Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Ruy Lopez Opening Berlin": [
+     0,
+     1,
+     0
+    ],
+    "white|Giuoco Piano Game Giuoco": [
+     2,
+     4,
+     0
+    ],
+    "white|Sicilian Defense Open Scheveningen": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Krause": [
+     3,
+     4,
+     0
+    ],
+    "black|Scotch Game": [
+     2,
+     2,
+     0
+    ],
+    "white|Pirc Defense Nf6 Nc6": [
+     0,
+     1,
+     0
+    ],
+    "black|Queens Gambit Declined Marshall": [
+     1,
+     1,
+     0
+    ],
+    "white|Englund Gambit Nc6": [
+     2,
+     2,
+     0
+    ],
+    "black|Sicilian Defense Open Lowenthal": [
+     4,
+     7,
+     0
+    ],
+    "white|Englund Gambit Nc6 Qe7": [
+     4,
+     1,
+     0
+    ],
+    "black|Slav Defense Modern Quiet": [
+     3,
+     0,
+     2
+    ],
+    "white|Italian Game Traxler Knight": [
+     1,
+     0,
+     0
+    ],
+    "white|Giuoco Piano Game Main": [
+     15,
+     13,
+     0
+    ],
+    "white|Nimzowitsch Defense Declined...4.Nc3 Qa5": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense d6": [
+     1,
+     1,
+     0
+    ],
+    "white|Giuoco Piano Game Evans": [
+     1,
+     0,
+     0
+    ],
+    "white|Sicilian Defense d6 Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Modern Defense with d4...3.Bf4": [
+     0,
+     2,
+     0
+    ],
+    "white|London System...4.c3 Bf5 e6": [
+     1,
+     2,
+     0
+    ],
+    "black|Giuoco Piano Game": [
+     2,
+     1,
+     0
+    ],
+    "white|London System...6.c3 Bd6 O": [
+     0,
+     1,
+     0
+    ],
+    "black|Indian Game...3.e3 d5 Bd6": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense Bf5": [
+     1,
+     0,
+     0
+    ],
+    "black|Bishops Opening Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Indian Game East Indian": [
+     7,
+     4,
+     0
+    ],
+    "white|Indian Game...3.e3 c5 Nc6": [
+     1,
+     0,
+     0
+    ],
+    "white|Indian Game...6.Nbd2 c5 b6": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Gambit Declined Queens": [
+     2,
+     1,
+     0
+    ],
+    "black|Petrovs Defense Steinitz Attack": [
+     3,
+     0,
+     0
+    ],
+    "white|Indian Game...3.e3 d5 Be7": [
+     2,
+     0,
+     0
+    ],
+    "black|Petrovs Defense Classical French": [
+     0,
+     1,
+     1
+    ],
+    "black|Petrovs Defense Classical Cozio": [
+     1,
+     1,
+     0
+    ],
+    "black|Slav Defense Modern Exchange": [
+     3,
+     1,
+     0
+    ],
+    "black|Reti Opening Nimzowitsch Larsen": [
+     0,
+     1,
+     0
+    ],
+    "black|Reti Opening Old Indian": [
+     0,
+     1,
+     0
+    ],
+    "white|London System...5.Nbd2 Bg4 e6": [
+     1,
+     0,
+     0
+    ],
+    "white|Indian Game e6 d5": [
+     3,
+     1,
+     0
+    ],
+    "white|London System Bg4": [
+     1,
+     0,
+     0
+    ],
+    "black|Nimzowitsch Defense Declined": [
+     2,
+     0,
+     0
+    ],
+    "black|Reti Opening c5": [
+     0,
+     2,
+     0
+    ],
+    "white|Sicilian Defense d6 Nc6": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense Nf6 Bf5": [
+     1,
+     1,
+     0
+    ],
+    "black|Italian Game": [
+     1,
+     0,
+     0
+    ],
+    "white|Alapin Sicilian Defense": [
+     1,
+     0,
+     0
+    ],
+    "white|Sicilian Defense d6": [
+     1,
+     0,
+     0
+    ],
+    "white|Alekhines Defense": [
+     0,
+     2,
+     0
+    ],
+    "white|Sicilian Defense d6 e6": [
+     1,
+     2,
+     0
+    ],
+    "black|London System Bf5": [
+     3,
+     0,
+     0
+    ],
+    "black|English Opening Anglo Indian": [
+     0,
+     1,
+     0
+    ],
+    "black|Giuoco Piano Game d6": [
+     2,
+     1,
+     0
+    ],
+    "white|Pirc Defense Classical Variation": [
+     0,
+     0,
+     1
+    ],
+    "white|Sicilian Defense Nimzowitsch Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Pawn Opening Tayler": [
+     0,
+     1,
+     0
+    ],
+    "black|London System...4.c3 Bf5 e6": [
+     0,
+     2,
+     0
+    ],
+    "black|Mieses Opening Reversed Rat": [
+     2,
+     1,
+     0
+    ],
+    "white|Pirc Defense Modern Defense": [
+     2,
+     4,
+     0
+    ],
+    "black|Slav Defense Exchange Variation": [
+     2,
+     0,
+     0
+    ],
+    "white|Alapin Sicilian Defense Nc6": [
+     1,
+     1,
+     0
+    ],
+    "white|Queens Gambit": [
+     0,
+     0,
+     1
+    ],
+    "white|Petrovs Defense Classical Cozio": [
+     1,
+     0,
+     0
+    ],
+    "black|London System...4.e3 Bf5 e6": [
+     1,
+     2,
+     0
+    ],
+    "black|Center Game Accepted": [
+     1,
+     0,
+     0
+    ],
+    "black|Vienna Game Falkbeer Stanley": [
+     1,
+     0,
+     0
+    ],
+    "white|Philidor Defense Nf6": [
+     3,
+     0,
+     0
+    ],
+    "white|Nimzowitsch Defense Declined Qxd5": [
+     1,
+     0,
+     0
+    ],
+    "white|Danish Gambit": [
+     1,
+     0,
+     0
+    ],
+    "black|Giuoco Piano Game Main": [
+     0,
+     2,
+     0
+    ],
+    "white|Sicilian Defense Open Classical": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Gambit Accepted Kings": [
+     1,
+     2,
+     0
+    ],
+    "black|English Opening Fianchetto Ultra": [
+     1,
+     0,
+     0
+    ],
+    "white|Reti Opening Kingside Fianchetto": [
+     2,
+     1,
+     0
+    ],
+    "white|Caro Kann Defense Advance": [
+     4,
+     1,
+     0
+    ],
+    "black|Three Knights Opening Nxe5": [
+     0,
+     1,
+     0
+    ],
+    "white|Ruy Lopez Opening Spanish": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|Reti Opening Polish Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Ruy Lopez Opening Classical": [
+     1,
+     1,
+     0
+    ],
+    "black|Scotch Game Classical Variation": [
+     0,
+     2,
+     0
+    ],
+    "black|Kings Fianchetto Opening Reversed": [
+     0,
+     2,
+     0
+    ],
+    "white|Caro Kann Defense...3.d3 dxe4": [
+     1,
+     1,
+     0
+    ],
+    "white|Nimzowitsch Defense Declined Williams": [
+     1,
+     0,
+     0
+    ],
+    "black|Caro Kann Defense...3.exd5 cxd5": [
+     0,
+     0,
+     1
+    ],
+    "white|Scotch Game": [
+     0,
+     0,
+     1
+    ],
+    "white|Alapin Sicilian Defense cxd4": [
+     1,
+     2,
+     0
+    ],
+    "white|Petrovs Defense Classical Variation": [
+     0,
+     1,
+     0
+    ],
+    "white|Modern Defense Standard Pseudo": [
+     0,
+     1,
+     0
+    ],
+    "white|English Opening Reversed Sicilian": [
+     1,
+     0,
+     0
+    ],
+    "white|English Opening Symmetrical Fianchetto": [
+     0,
+     1,
+     0
+    ],
+    "white|Pirc Defense...3.Bd3 g6 Bg7": [
+     1,
+     0,
+     0
+    ],
+    "black|Alapin Sicilian Defense Barmen": [
+     0,
+     1,
+     0
+    ],
+    "white|Danish Gambit Declined Sorensen": [
+     0,
+     1,
+     0
+    ],
+    "white|Alapin Sicilian Defense...5.d4 cxd4": [
+     1,
+     0,
+     0
+    ],
+    "black|Reti Opening c6": [
+     1,
+     0,
+     0
+    ],
+    "black|English Opening Caro Kann": [
+     1,
+     1,
+     1
+    ],
+    "white|Saragossa Opening": [
+     0,
+     3,
+     0
+    ],
+    "white|Scotch Game...4.Nxd4 Nxd4 d6": [
+     0,
+     1,
+     0
+    ],
+    "white|Philidor Defense Hanham Lion": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Fianchetto Opening Slav": [
+     1,
+     1,
+     0
+    ],
+    "white|Mieses Opening": [
+     1,
+     2,
+     0
+    ],
+    "black|Caro Kann Defense Breyer": [
+     2,
+     1,
+     0
+    ],
+    "black|Caro Kann Defense Classical": [
+     1,
+     1,
+     0
+    ],
+    "black|Caro Kann Defense...4.Ne5 Nc6": [
+     0,
+     1,
+     0
+    ],
+    "black|Caro Kann Defense Accelerated": [
+     0,
+     2,
+     0
+    ],
+    "white|Dutch Defense Nf6": [
+     1,
+     0,
+     0
+    ],
+    "white|Ruy Lopez Opening Classical": [
+     1,
+     0,
+     0
+    ],
+    "black|Polish Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|Dutch Defense": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Indian Defense...4.g3 c6": [
+     0,
+     0,
+     1
+    ],
+    "black|Ponziani Opening": [
+     1,
+     0,
+     0
+    ],
+    "white|Reti Opening Sicilian Invitation": [
+     0,
+     1,
+     0
+    ],
+    "black|Pirc Defense Classical Variation": [
+     1,
+     1,
+     0
+    ],
+    "black|Scotch Game Qf6": [
+     1,
+     0,
+     0
+    ],
+    "black|Pirc Defense c6": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Pawn Opening Leonardis": [
+     0,
+     1,
+     0
+    ],
+    "white|Nimzowitsch Defense Declined": [
+     0,
+     0,
+     1
+    ],
+    "white|Nimzowitsch Defense Scandinavian Advance": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Chigorin": [
+     2,
+     5,
+     0
+    ],
+    "white|Queens Pawn Opening English": [
+     2,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined": [
+     0,
+     2,
+     0
+    ],
+    "white|Queens Gambit Accepted Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Nimzo Indian Defense Romanishin": [
+     1,
+     1,
+     0
+    ],
+    "black|French Defense Franco Sicilian": [
+     1,
+     0,
+     0
+    ],
+    "black|Indian Game g6 Bg7": [
+     0,
+     2,
+     0
+    ],
+    "white|Slav Defense Nf6": [
+     3,
+     1,
+     0
+    ],
+    "white|Kings Indian Defense Fianchetto": [
+     1,
+     1,
+     0
+    ],
+    "white|Reti Opening Dutch Variation...4.d4": [
+     0,
+     1,
+     0
+    ],
+    "black|Dutch Defense Staunton Gambit": [
+     1,
+     1,
+     0
+    ],
+    "white|Indian Game d5": [
+     1,
+     0,
+     0
+    ],
+    "black|Dutch Defense Nf6": [
+     0,
+     3,
+     0
+    ],
+    "white|Old Indian Defense": [
+     3,
+     0,
+     0
+    ],
+    "white|Dutch Defense Staunton Gambit": [
+     1,
+     0,
+     0
+    ],
+    "black|Dutch Defense Nf6 e6": [
+     1,
+     0,
+     0
+    ],
+    "white|Indian Game Black Knights": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Modern": [
+     3,
+     1,
+     0
+    ],
+    "black|Kings Indian Defense": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Indian Defense Bg7": [
+     0,
+     1,
+     0
+    ],
+    "black|Indian Game Knights Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Kings Indian Defense Normal": [
+     1,
+     0,
+     0
+    ],
+    "white|Old Indian Defense Duz": [
+     0,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense cxd4": [
+     1,
+     0,
+     0
+    ],
+    "white|Tarrasch Defense exd5": [
+     0,
+     1,
+     0
+    ],
+    "white|Catalan Opening Closed...5.Nf3 O": [
+     1,
+     0,
+     0
+    ],
+    "white|Kings Indian Defense Smyslov": [
+     2,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Cowboy Attack": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Pseudo": [
+     1,
+     0,
+     0
+    ],
+    "black|Alapin Sicilian Defense...5.d4 Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Nimzo Indian Defense Three": [
+     1,
+     1,
+     0
+    ],
+    "white|Slav Defense Modern Three": [
+     1,
+     0,
+     0
+    ],
+    "white|Slav Defense": [
+     2,
+     3,
+     0
+    ],
+    "black|Trompowsky Attack": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Indian Defense Fianchetto": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Accepted": [
+     1,
+     0,
+     0
+    ],
+    "black|Birds Opening Nc6": [
+     1,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined Neo": [
+     0,
+     1,
+     0
+    ],
+    "black|Kings Fianchetto Opening Sicilian": [
+     1,
+     0,
+     0
+    ],
+    "white|Slav Defense Nf6 e6": [
+     1,
+     1,
+     0
+    ],
+    "white|Queens Indian Defense Kasparov": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Keres": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense Canal Attack": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense d6 e5": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense Keres Variation...3.g3": [
+     0,
+     1,
+     0
+    ],
+    "black|French Defense Advance Paulsen": [
+     0,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense Nc6": [
+     1,
+     0,
+     0
+    ],
+    "white|Ruy Lopez Opening Old": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Gambit Declined Ragozin": [
+     0,
+     1,
+     0
+    ],
+    "white|Semi Slav Defense": [
+     0,
+     1,
+     0
+    ],
+    "black|Alapin Sicilian Defense...4.Bd3 Nc6": [
+     1,
+     0,
+     0
+    ],
+    "white|Slav Defense Slav Gambit": [
+     1,
+     0,
+     0
+    ],
+    "black|Dutch Defense Hopton Attack": [
+     0,
+     1,
+     0
+    ],
+    "white|Semi Slav Defense Anti": [
+     0,
+     1,
+     0
+    ],
+    "white|Modern Defense Standard Line": [
+     0,
+     1,
+     0
+    ],
+    "white|Kings Indian Defense d6": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Anglo": [
+     0,
+     1,
+     0
+    ],
+    "black|English Opening Great Snake": [
+     0,
+     1,
+     0
+    ],
+    "black|Pirc Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|English Defense Bb7": [
+     1,
+     1,
+     0
+    ],
+    "white|Queens Pawn Opening Tartakower": [
+     1,
+     0,
+     0
+    ],
+    "black|Alapin Sicilian Defense...4.exd5 exd5": [
+     0,
+     1,
+     0
+    ],
+    "black|Slav Defense Exchange Variation...4.Nc3": [
+     0,
+     1,
+     0
+    ],
+    "white|Ruy Lopez Opening Jaenisch": [
+     0,
+     1,
+     0
+    ],
+    "white|Pirc Defense Antal Defense": [
+     0,
+     1,
+     0
+    ],
+    "white|Indian Game Accelerated Variation": [
+     1,
+     0,
+     0
+    ],
+    "black|Birds Opening": [
+     1,
+     0,
+     0
+    ],
+    "black|Alapin Sicilian Defense d6": [
+     0,
+     1,
+     0
+    ],
+    "white|Queens Gambit Declined Semi": [
+     0,
+     2,
+     0
+    ],
+    "black|Alapin Sicilian Defense...4.d4 cxd4": [
+     0,
+     1,
+     0
+    ]
+   },
+   "fast_losses": 259,
+   "clocked_losses": 1021,
+   "loss_time_left_frac": [
+    0.03666666666666667,
+    0.02666666666666667,
+    0.03666666666666667,
+    0.5733333333333334,
+    0.011666666666666665,
+    0.0033333333333333335,
+    0.88,
+    0.35666666666666663,
+    0.0033333333333333335,
+    0.49333333333333335,
+    0.0016666666666666668,
+    0.48500000000000004,
+    0.48166666666666663,
+    0.4966666666666667,
+    0.5116666666666666,
+    0.8049999999999999,
+    0.6033333333333334,
+    0.36833333333333335,
+    0.08333333333333333,
+    0.3983333333333333,
+    0.4966666666666667,
+    0.3333333333333333,
+    0.48500000000000004,
+    0.48833333333333334,
+    0.15166666666666667,
+    0.5983333333333333,
+    0.8866666666666667,
+    0.8566666666666667,
+    0.015000000000000001,
+    0.20500000000000002,
+    0.31166666666666665,
+    0.84,
+    0.006666666666666667,
+    0.38666666666666666,
+    0.5549999999999999,
+    0.48500000000000004,
+    0.09666666666666666,
+    0.7799999999999999,
+    0.013333333333333334,
+    0.016666666666666666,
+    0.018333333333333333,
+    0.0033333333333333335,
+    0.030000000000000002,
+    0.0033333333333333335,
+    0.21666666666666667,
+    0.005,
+    0.03166666666666666,
+    0.006666666666666667,
+    0.055,
+    0.01,
+    0.015000000000000001,
+    0.255,
+    0.0016666666666666668,
+    0.45,
+    0.006666666666666667,
+    0.011666666666666665,
+    0.09166666666666666,
+    0.011666666666666665,
+    0.5816666666666667,
+    0.0016666666666666668,
+    0.0016666666666666668,
+    0.0016666666666666668,
+    0.51,
+    0.028333333333333332,
+    0.7133333333333333,
+    0.008333333333333333,
+    0.0016666666666666668,
+    0.36000000000000004,
+    0.5566666666666666,
+    0.27666666666666667,
+    0.3983333333333333,
+    0.1716666666666667,
+    0.445,
+    0.4083333333333333,
+    0.030000000000000002,
+    0.7158333333333334,
+    0.8833333333333333,
+    0.24083333333333332,
+    0.8175,
+    0.8141666666666667,
+    0.05083333333333333,
+    0.6966666666666667,
+    0.5966666666666666,
+    0.3091666666666667,
+    0.3975,
+    0.8658333333333333,
+    0.45416666666666666,
+    0.5983333333333333,
+    0.17916666666666667,
+    0.4141666666666667,
+    0.8808333333333334,
+    0.1,
+    0.43,
+    0.7200000000000001,
+    0.09333333333333332,
+    0.4216666666666667,
+    0.455,
+    0.7566666666666666,
+    0.028333333333333332,
+    0.8233333333333334,
+    0.58,
+    0.013333333333333334,
+    0.2,
+    0.06833333333333333,
+    0.16166666666666665,
+    0.6483333333333333,
+    0.47,
+    0.83,
+    1.025,
+    0.11333333333333333,
+    0.07333333333333333,
+    0.008333333333333333,
+    0.455,
+    0.3858333333333333,
+    0.75,
+    0.7,
+    0.37583333333333335,
+    0.5333333333333333,
+    0.8674999999999999,
+    0.6433333333333333,
+    0.8325,
+    0.7141666666666667,
+    0.765,
+    0.9666666666666667,
+    0.14583333333333334,
+    0.8,
+    0.4533333333333333,
+    0.3858333333333333,
+    0.5741666666666667,
+    0.35833333333333334,
+    0.11416666666666667,
+    0.7816666666666666,
+    0.5275,
+    0.08166666666666668,
+    0.34833333333333333,
+    0.8725,
+    0.2875,
+    0.022500000000000003,
+    0.81,
+    0.6808333333333334,
+    0.5191666666666667,
+    0.9708333333333333,
+    0.6325000000000001,
+    0.7433333333333334,
+    0.31916666666666665,
+    0.21416666666666667,
+    0.4375,
+    0.6691666666666667,
+    0.14333333333333334,
+    0.08333333333333333,
+    0.125,
+    0.7583333333333333,
+    0.9366666666666668,
+    0.45666666666666667,
+    0.16999999999999998,
+    0.021666666666666667,
+    0.35666666666666663,
+    0.16999999999999998,
+    0.22833333333333333,
+    0.02333333333333333,
+    0.035,
+    0.55,
+    0.7833333333333333,
+    0.02333333333333333,
+    0.07666666666666666,
+    0.030000000000000002,
+    0.05333333333333334,
+    0.7966666666666666,
+    0.07333333333333333,
+    0.009166666666666667,
+    0.3383333333333333,
+    0.5475,
+    0.0125,
+    0.21416666666666667,
+    1.0125,
+    0.38083333333333336,
+    0.7733333333333333,
+    0.2725,
+    0.73,
+    0.008333333333333333,
+    0.015000000000000001,
+    0.6733333333333333,
+    0.09749999999999999,
+    0.02,
+    0.25083333333333335,
+    0.5833333333333334,
+    0.47583333333333333,
+    0.32083333333333336,
+    0.6766666666666666,
+    0.7591666666666667,
+    0.7391666666666666,
+    0.7475,
+    0.02333333333333333,
+    0.15,
+    0.35666666666666663,
+    0.9708333333333333,
+    0.06833333333333333,
+    0.9066666666666666,
+    0.0725,
+    0.0275,
+    0.21,
+    0.0125,
+    0.0125,
+    0.03833333333333333,
+    0.16833333333333333,
+    0.042499999999999996,
+    0.9483333333333334,
+    0.9366666666666668,
+    0.5825,
+    1.0,
+    0.041666666666666664,
+    0.5108333333333334,
+    0.47333333333333333,
+    0.3858333333333333,
+    0.605,
+    0.4425,
+    0.825,
+    0.6016666666666667,
+    0.02666666666666667,
+    0.9866666666666667,
+    0.059166666666666666,
+    0.38999999999999996,
+    0.8875,
+    0.7808333333333334,
+    0.8916666666666667,
+    0.018333333333333333,
+    0.5875,
+    0.7799999999999999,
+    0.6183333333333334,
+    0.17416666666666666,
+    0.3716666666666667,
+    0.5575,
+    0.5908333333333334,
+    0.4,
+    0.06416666666666666,
+    0.42250000000000004,
+    0.7141666666666667,
+    0.3358333333333333,
+    0.9291666666666667,
+    0.43166666666666664,
+    0.3733333333333333,
+    0.565,
+    0.9583333333333334,
+    0.9566666666666667,
+    0.5758333333333333,
+    0.8283333333333334,
+    0.4875,
+    0.4408333333333333,
+    0.6533333333333334,
+    0.02333333333333333,
+    0.014166666666666666,
+    0.8108333333333333,
+    0.8291666666666667,
+    0.8424999999999999,
+    0.975,
+    0.7791666666666667,
+    0.6375,
+    0.9825,
+    0.23249999999999998,
+    0.0625,
+    0.3608333333333333,
+    0.10583333333333332,
+    0.33249999999999996,
+    0.09083333333333334,
+    0.4058333333333334,
+    0.020833333333333332,
+    0.009166666666666667,
+    0.21083333333333334,
+    0.024166666666666666,
+    0.9825,
+    0.045000000000000005,
+    0.8183333333333334,
+    0.06166666666666667,
+    0.05583333333333333,
+    0.15,
+    0.32083333333333336,
+    0.3491666666666667,
+    0.25,
+    0.5991666666666667,
+    0.27166666666666667,
+    0.0825,
+    0.5941666666666666,
+    0.5924999999999999,
+    0.31833333333333336,
+    0.6725,
+    0.3333333333333333,
+    0.02333333333333333,
+    0.022500000000000003,
+    0.015000000000000001,
+    0.45916666666666667,
+    0.2475,
+    0.055,
+    0.075,
+    0.5941666666666666,
+    0.011666666666666665,
+    0.16583333333333333,
+    0.16333333333333336,
+    0.043333333333333335,
+    0.36666666666666664,
+    0.6933333333333334,
+    0.8883333333333333,
+    0.03333333333333333,
+    0.11166666666666666,
+    0.018333333333333333,
+    0.34750000000000003,
+    0.5483333333333333,
+    0.40249999999999997,
+    0.02,
+    0.025833333333333333,
+    0.6141666666666666,
+    0.8275,
+    0.4966666666666667,
+    0.09166666666666666,
+    0.29750000000000004,
+    0.9041666666666667,
+    0.2225,
+    0.0275,
+    0.014166666666666666,
+    0.014166666666666666,
+    0.058333333333333334,
+    0.415,
+    0.04083333333333334,
+    0.009166666666666667,
+    0.16833333333333333,
+    0.0275,
+    0.009166666666666667,
+    0.6433333333333333,
+    0.855,
+    0.5283333333333333,
+    0.014166666666666666,
+    0.5058333333333334,
+    0.051666666666666666,
+    0.4,
+    0.0575,
+    0.66,
+    0.03666666666666667,
+    0.21,
+    0.3491666666666667,
+    0.3716666666666667,
+    0.715,
+    0.011666666666666665,
+    0.47333333333333333,
+    0.028333333333333332,
+    0.99,
+    0.075,
+    0.6616666666666667,
+    0.022500000000000003,
+    0.8916666666666667,
+    0.058333333333333334,
+    0.8075,
+    0.0125,
+    0.22083333333333333,
+    0.018333333333333333,
+    0.015000000000000001,
+    0.0175,
+    0.59,
+    0.2966666666666667,
+    0.2275,
+    0.5758333333333333,
+    0.7841666666666666,
+    0.015000000000000001,
+    0.24000000000000002,
+    0.0175,
+    0.013333333333333334,
+    0.38166666666666665,
+    0.028333333333333332,
+    0.49916666666666665,
+    0.009166666666666667,
+    0.02333333333333333,
+    0.3541666666666667,
+    0.011666666666666665,
+    0.03833333333333333,
+    0.5508333333333333,
+    0.5083333333333333,
+    0.4675,
+    0.7341666666666666,
+    0.035833333333333335,
+    0.03916666666666667,
+    0.8441666666666666,
+    0.25916666666666666,
+    0.5958333333333333,
+    0.49916666666666665,
+    0.011666666666666665,
+    0.09666666666666666,
+    0.9733333333333333,
+    0.48166666666666663,
+    0.015000000000000001,
+    0.31916666666666665,
+    0.07916666666666666,
+    0.11916666666666667,
+    0.3575,
+    0.0325,
+    0.08583333333333334,
+    0.38166666666666665,
+    0.375,
+    0.7899999999999999,
+    0.6433333333333333,
+    0.2625,
+    0.08499999999999999,
+    0.0525,
+    0.02666666666666667,
+    0.0125,
+    0.3983333333333333,
+    0.6758333333333333,
+    0.4233333333333333,
+    0.7316666666666667,
+    0.013333333333333334,
+    0.16083333333333333,
+    0.435,
+    0.6158333333333333,
+    0.3516666666666667,
+    0.44666666666666666,
+    0.075,
+    0.8808333333333334,
+    0.03333333333333333,
+    0.018333333333333333,
+    0.06333333333333332,
+    0.9358333333333333,
+    0.009166666666666667,
+    0.4583333333333333,
+    0.011666666666666665,
+    0.020833333333333332,
+    0.014166666666666666,
+    0.33666666666666667,
+    0.9208333333333333,
+    0.7791666666666667,
+    0.6991666666666667,
+    0.042499999999999996,
+    0.011666666666666665,
+    0.9183333333333333,
+    0.05,
+    0.13083333333333333,
+    0.09083333333333334,
+    0.15833333333333333,
+    0.3233333333333333,
+    0.05416666666666667,
+    0.07833333333333334,
+    0.013333333333333334,
+    0.48833333333333334,
+    0.022500000000000003,
+    0.7641666666666667,
+    0.13416666666666668,
+    0.2225,
+    0.01,
+    0.06916666666666667,
+    0.16,
+    0.08666666666666667,
+    0.6633333333333333,
+    0.059166666666666666,
+    0.7266666666666667,
+    0.7975,
+    0.20666666666666667,
+    0.01583333333333333,
+    0.011666666666666665,
+    0.6425,
+    0.007500000000000001,
+    0.8758333333333332,
+    0.014166666666666666,
+    0.4675,
+    0.019166666666666665,
+    0.7975,
+    0.03333333333333333,
+    0.9966666666666666,
+    0.6508333333333333,
+    0.02333333333333333,
+    0.010833333333333334,
+    0.5,
+    0.34833333333333333,
+    0.028333333333333332,
+    0.056666666666666664,
+    0.5358333333333333,
+    0.6058333333333333,
+    0.19166666666666668,
+    0.9066666666666666,
+    0.39499999999999996,
+    0.38666666666666666,
+    0.2916666666666667,
+    0.8691666666666666,
+    0.7516666666666667,
+    0.14166666666666666,
+    0.9466666666666667,
+    0.10666666666666667,
+    0.7933333333333333,
+    0.5866666666666667,
+    0.4375,
+    0.3458333333333333,
+    0.5775,
+    0.24583333333333332,
+    0.0375,
+    0.7025,
+    0.04666666666666666,
+    0.20833333333333334,
+    0.11416666666666667,
+    0.02666666666666667,
+    0.435,
+    0.05333333333333334,
+    0.045000000000000005,
+    0.7433333333333334,
+    0.018333333333333333,
+    0.025833333333333333,
+    0.15166666666666667,
+    0.6816666666666666,
+    0.02333333333333333,
+    0.18583333333333335,
+    0.1,
+    0.04083333333333334,
+    0.013333333333333334,
+    0.4358333333333333,
+    0.7200000000000001,
+    0.38833333333333336,
+    0.13333333333333333,
+    0.058333333333333334,
+    0.015000000000000001,
+    0.4408333333333333,
+    0.5675,
+    0.025,
+    0.7174999999999999,
+    0.0125,
+    0.04666666666666666,
+    0.245,
+    0.7,
+    0.3716666666666667,
+    0.008333333333333333,
+    0.8674999999999999,
+    0.058333333333333334,
+    0.03833333333333333,
+    0.24250000000000002,
+    0.07333333333333333,
+    0.20833333333333334,
+    0.12583333333333332,
+    0.4125,
+    0.9541666666666667,
+    0.010833333333333334,
+    0.3458333333333333,
+    0.04083333333333334,
+    0.005,
+    0.0016666666666666668,
+    0.4716666666666667,
+    0.29,
+    0.065,
+    0.005,
+    0.02666666666666667,
+    0.0033333333333333335,
+    0.21833333333333332,
+    0.01,
+    0.060000000000000005,
+    0.01,
+    0.4516666666666667,
+    0.006666666666666667,
+    0.21,
+    0.56,
+    0.03333333333333333,
+    0.3716666666666667,
+    0.021666666666666667,
+    0.38166666666666665,
+    0.5399999999999999,
+    0.42,
+    0.125,
+    0.1,
+    0.315,
+    0.32166666666666666,
+    0.4983333333333333,
+    0.04666666666666666,
+    0.23,
+    0.31666666666666665,
+    0.5266666666666667,
+    0.24666666666666667,
+    0.02333333333333333,
+    0.11833333333333333,
+    0.03833333333333333,
+    0.2533333333333333,
+    0.11333333333333333,
+    0.9083333333333333,
+    0.030000000000000002,
+    0.03166666666666666,
+    0.435,
+    0.028333333333333332,
+    0.17333333333333334,
+    0.03166666666666666,
+    0.018333333333333333,
+    0.23833333333333334,
+    0.08833333333333333,
+    0.25166666666666665,
+    0.605,
+    0.006666666666666667,
+    0.03166666666666666,
+    0.40166666666666667,
+    0.7483333333333333,
+    0.02666666666666667,
+    0.29333333333333333,
+    0.5933333333333334,
+    0.59,
+    0.185,
+    0.095,
+    0.030000000000000002,
+    0.02333333333333333,
+    0.6966666666666667,
+    0.6416666666666667,
+    0.7483333333333333,
+    0.016666666666666666,
+    0.8350000000000001,
+    0.5866666666666667,
+    0.3,
+    0.05,
+    0.058333333333333334,
+    0.13166666666666668,
+    1.0533333333333335,
+    0.5933333333333334,
+    0.58,
+    0.375,
+    0.525,
+    0.018333333333333333,
+    0.03666666666666667,
+    0.5766666666666667,
+    0.16999999999999998,
+    0.02,
+    0.5116666666666666,
+    0.8049999999999999,
+    0.6316666666666666,
+    0.21666666666666667,
+    0.575,
+    0.03333333333333333,
+    0.9466666666666667,
+    0.235,
+    0.10666666666666667,
+    0.7216666666666666,
+    0.38833333333333336,
+    0.2033333333333333,
+    0.7133333333333333,
+    0.13333333333333333,
+    0.4633333333333333,
+    0.17333333333333334,
+    0.05333333333333334,
+    0.11,
+    0.12000000000000001,
+    0.7100000000000001,
+    0.6549999999999999,
+    0.26,
+    0.018333333333333333,
+    0.48666666666666664,
+    0.8033333333333333,
+    0.33666666666666667,
+    0.63,
+    0.043333333333333335,
+    0.030000000000000002,
+    0.32,
+    0.09333333333333332,
+    0.8616666666666667,
+    0.38166666666666665,
+    0.36666666666666664,
+    0.48666666666666664,
+    0.225,
+    0.19833333333333333,
+    0.03166666666666666,
+    0.315,
+    0.40166666666666667,
+    0.12166666666666666,
+    0.6783333333333333,
+    0.03666666666666667,
+    0.025,
+    0.385,
+    0.056666666666666664,
+    0.5466666666666666,
+    0.06333333333333332,
+    0.05333333333333334,
+    0.4216666666666667,
+    0.02,
+    0.021666666666666667,
+    0.5266666666666667,
+    0.05,
+    0.7416666666666667,
+    0.18000000000000002,
+    0.09833333333333334,
+    0.7833333333333333,
+    0.043333333333333335,
+    0.12333333333333334,
+    0.19333333333333333,
+    0.02,
+    0.23333333333333334,
+    0.10166666666666666,
+    0.5333333333333333,
+    0.051666666666666666,
+    0.09833333333333334,
+    0.13166666666666668,
+    0.03833333333333333,
+    0.13499999999999998,
+    0.02333333333333333,
+    0.165,
+    0.265,
+    0.056666666666666664,
+    0.21333333333333335,
+    0.03833333333333333,
+    0.5666666666666667,
+    0.03333333333333333,
+    0.935,
+    0.030000000000000002,
+    0.065,
+    0.016666666666666666,
+    0.06833333333333333,
+    0.06666666666666667,
+    0.028333333333333332,
+    0.31,
+    0.22,
+    0.03333333333333333,
+    0.051666666666666666,
+    0.11666666666666667,
+    0.028333333333333332,
+    0.02333333333333333,
+    0.18333333333333332,
+    0.58,
+    0.011666666666666665,
+    0.005,
+    0.7883333333333333,
+    0.015000000000000001,
+    0.02333333333333333,
+    0.03166666666666666,
+    0.02666666666666667,
+    0.10166666666666666,
+    0.10666666666666667,
+    0.41833333333333333,
+    0.0016666666666666668,
+    0.005,
+    0.165,
+    0.008333333333333333,
+    0.0033333333333333335,
+    0.17833333333333332,
+    0.005,
+    0.5016666666666667,
+    0.06333333333333332,
+    0.02333333333333333,
+    0.058333333333333334,
+    0.03166666666666666,
+    0.015000000000000001,
+    0.0033333333333333335,
+    0.46416666666666667,
+    0.19666666666666668,
+    0.3783333333333333,
+    0.03333333333333333,
+    0.13333333333333333,
+    0.16166666666666665,
+    0.02,
+    0.065,
+    0.065,
+    0.30333333333333334,
+    0.03166666666666666,
+    0.028333333333333332,
+    0.018333333333333333,
+    0.06333333333333332,
+    0.225,
+    0.36666666666666664,
+    0.12000000000000001,
+    0.59,
+    0.35333333333333333,
+    0.15666666666666668,
+    0.2916666666666667,
+    0.04833333333333333,
+    0.14,
+    0.17833333333333332,
+    0.295,
+    0.33166666666666667,
+    0.04833333333333333,
+    0.9233333333333333,
+    0.015000000000000001,
+    0.27166666666666667,
+    0.17666666666666667,
+    0.03666666666666667,
+    0.08333333333333333,
+    0.02,
+    0.0016666666666666668,
+    0.3766666666666667,
+    0.04,
+    0.028333333333333332,
+    0.09333333333333332,
+    0.035,
+    0.065,
+    0.4216666666666667,
+    0.045000000000000005,
+    0.1716666666666667,
+    0.6316666666666666,
+    0.016666666666666666,
+    0.028333333333333332,
+    0.043333333333333335,
+    0.16166666666666665,
+    0.043333333333333335,
+    0.075,
+    0.04666666666666666,
+    0.028333333333333332,
+    0.6666666666666666,
+    0.18833333333333335,
+    0.02666666666666667,
+    0.2816666666666666,
+    0.11333333333333333,
+    0.17666666666666667,
+    0.6583333333333333,
+    0.49333333333333335,
+    0.17333333333333334,
+    0.42,
+    0.13499999999999998,
+    0.5399999999999999,
+    0.32166666666666666,
+    0.2,
+    0.035,
+    0.018333333333333333,
+    0.08,
+    0.035,
+    0.10666666666666667,
+    0.31333333333333335,
+    0.6016666666666667,
+    0.9883333333333333,
+    0.016666666666666666,
+    0.05333333333333334,
+    0.006666666666666667,
+    0.0033333333333333335,
+    0.33999999999999997,
+    0.011666666666666665,
+    0.7033333333333334,
+    0.01,
+    0.8716666666666666,
+    0.25666666666666665,
+    0.03166666666666666,
+    0.035,
+    0.015000000000000001,
+    0.01,
+    0.3733333333333333,
+    0.006666666666666667,
+    0.005,
+    0.24333333333333332,
+    0.058333333333333334,
+    0.02,
+    0.31,
+    0.011666666666666665,
+    0.3,
+    0.20833333333333334,
+    0.02333333333333333,
+    0.4216666666666667,
+    0.03166666666666666,
+    0.28500000000000003,
+    0.09333333333333332,
+    0.1716666666666667,
+    0.03333333333333333,
+    0.16166666666666665,
+    0.041666666666666664,
+    0.021666666666666667,
+    0.04666666666666666,
+    0.8616666666666667,
+    0.016666666666666666,
+    0.5566666666666666,
+    0.9816666666666667,
+    0.23666666666666666,
+    0.021666666666666667,
+    0.051666666666666666,
+    0.02,
+    0.43666666666666665,
+    0.5666666666666667,
+    0.041666666666666664,
+    0.8366666666666667,
+    0.03166666666666666,
+    0.225,
+    0.018333333333333333,
+    0.018333333333333333,
+    0.041666666666666664,
+    0.3516666666666667,
+    0.035,
+    0.013333333333333334,
+    0.03166666666666666,
+    0.5666666666666667,
+    0.07166666666666667,
+    0.02333333333333333,
+    0.09833333333333334,
+    0.025,
+    0.07166666666666667,
+    0.041666666666666664,
+    0.245,
+    0.9233333333333333,
+    0.05,
+    0.02333333333333333,
+    0.6283333333333334,
+    0.7383333333333333,
+    0.02333333333333333,
+    0.028333333333333332,
+    0.20500000000000002,
+    0.08833333333333333,
+    0.10333333333333333,
+    0.18000000000000002,
+    0.055,
+    0.21833333333333332,
+    0.03166666666666666,
+    0.03333333333333333,
+    0.025,
+    0.14333333333333334,
+    0.058333333333333334,
+    0.7566666666666666,
+    0.016666666666666666,
+    0.35,
+    0.08666666666666667,
+    0.4983333333333333,
+    0.37,
+    0.021666666666666667,
+    0.6166666666666667,
+    0.2866666666666667,
+    0.016666666666666666,
+    0.7483333333333333,
+    0.030000000000000002,
+    0.02333333333333333,
+    0.025,
+    0.6383333333333333,
+    0.055,
+    0.215,
+    0.26666666666666666,
+    0.4266666666666667,
+    0.030000000000000002,
+    0.02333333333333333,
+    0.33,
+    0.030000000000000002,
+    0.31,
+    0.16333333333333336,
+    0.975,
+    0.36833333333333335,
+    0.5733333333333334,
+    0.26,
+    0.9066666666666666,
+    0.575,
+    0.02,
+    0.018333333333333333,
+    0.8133333333333332,
+    0.19499999999999998,
+    0.46499999999999997,
+    0.018333333333333333,
+    0.2,
+    0.2833333333333333,
+    0.03166666666666666,
+    0.6416666666666667,
+    0.48166666666666663,
+    0.6816666666666666,
+    0.5383333333333333,
+    0.4716666666666667,
+    0.041666666666666664,
+    0.03833333333333333,
+    0.265,
+    0.7100000000000001,
+    0.46499999999999997,
+    0.19833333333333333,
+    0.435,
+    0.06666666666666667,
+    0.14333333333333334,
+    0.6216666666666666,
+    0.31666666666666665,
+    1.005,
+    0.8216666666666667,
+    0.94,
+    0.9483333333333334,
+    0.9841666666666666,
+    0.5966666666666666,
+    0.5691666666666666,
+    0.19333333333333333,
+    0.9008333333333333,
+    0.4675,
+    0.014166666666666666,
+    0.24666666666666667,
+    0.01583333333333333,
+    0.08583333333333334,
+    0.7866666666666667,
+    0.013333333333333334,
+    0.02,
+    0.22666666666666666,
+    0.6033333333333334,
+    0.03166666666666666,
+    0.045000000000000005,
+    0.39499999999999996,
+    0.055,
+    0.4966666666666667,
+    0.08333333333333333,
+    0.041666666666666664,
+    0.08833333333333333,
+    0.6649999999999999,
+    0.18000000000000002,
+    0.025,
+    0.02666666666666667,
+    0.016666666666666666,
+    0.8033333333333333,
+    0.9916666666666667,
+    0.515,
+    0.13666666666666666,
+    0.056666666666666664,
+    0.2866666666666667,
+    0.018333333333333333,
+    0.23333333333333334,
+    0.08,
+    0.7983333333333333,
+    0.13499999999999998,
+    0.028333333333333332,
+    0.3983333333333333,
+    0.030000000000000002,
+    0.445,
+    0.13833333333333334,
+    0.03833333333333333,
+    0.0125,
+    0.8091666666666666,
+    0.9108333333333333,
+    0.025,
+    0.6133333333333333,
+    0.0125,
+    0.016666666666666666,
+    0.765,
+    0.8091666666666666,
+    0.6283333333333334,
+    0.4058333333333334,
+    0.055,
+    0.02333333333333333,
+    0.15833333333333333,
+    0.28,
+    0.3516666666666667,
+    0.045000000000000005,
+    0.041666666666666664,
+    0.03833333333333333,
+    0.15,
+    0.05333333333333334,
+    0.018333333333333333,
+    0.021666666666666667,
+    0.49333333333333335,
+    0.015000000000000001
+   ],
+   "snap_moves": 48313,
+   "timed_moves": 61425,
+   "accuracy": [
+    5.78,
+    8.03,
+    11.46,
+    27.76,
+    64,
+    69.47,
+    59.09,
+    73.03,
+    72.33,
+    70.56,
+    72.28,
+    64.8,
+    70.09,
+    72.56,
+    61.76,
+    54.69,
+    55.67,
+    72.46,
+    69.79,
+    52.33,
+    70.46,
+    72.75,
+    65.57,
+    66.7,
+    48.01,
+    67.31,
+    75.68,
+    76.64,
+    78.31,
+    49.9,
+    54.7,
+    23,
+    67.34,
+    55.41,
+    55.31,
+    52.74,
+    64.07,
+    92.81,
+    54.33,
+    68.22,
+    74.35,
+    56.04,
+    66.9,
+    40.22,
+    83.94,
+    53.59,
+    60.29,
+    65.29,
+    99.74,
+    63.2,
+    50.66,
+    84.8,
+    78.32,
+    51.88,
+    54.61,
+    76.26,
+    70.6,
+    53.05,
+    50.23,
+    84.58,
+    59.05,
+    74.64,
+    70.95,
+    70.89,
+    64.09,
+    39.87,
+    69.84,
+    84,
+    60.13,
+    75.51,
+    74.78,
+    71.28,
+    71.63,
+    52.84,
+    58.65,
+    63.47,
+    62.55,
+    67.3,
+    63.61,
+    69.35,
+    68.57,
+    63.99,
+    70.96,
+    81.05,
+    91.87,
+    65.45,
+    95.77,
+    67.72,
+    64.6,
+    59.55
+   ]
+  },
+  "daily": {
+   "n": 29,
+   "w": 16,
+   "l": 12,
+   "d": 1,
+   "loss_term": {
+    "checkmated": 2,
+    "resigned": 8,
+    "timeout": 2
+   },
+   "win_term": {
+    "resigned": 8,
+    "checkmated": 7,
+    "timeout": 1
+   },
+   "loss_len": [
+    26,
+    23,
+    19,
+    23,
+    30,
+    16,
+    31,
+    15,
+    30,
+    30,
+    34,
+    9
+   ],
+   "openings": {
+    "black|Kings Fianchetto Opening": [
+     0,
+     0,
+     1
+    ],
+    "white|Kings Fianchetto Opening": [
+     2,
+     0,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack Classical": [
+     1,
+     0,
+     0
+    ],
+    "white|Four Knights Game Scotch": [
+     1,
+     0,
+     0
+    ],
+    "white|Owens Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Closed Sicilian Defense Grand": [
+     1,
+     0,
+     0
+    ],
+    "black|Nimzowitsch Larsen Attack Nf6": [
+     0,
+     1,
+     0
+    ],
+    "white|Dutch Defense Queens Knight": [
+     1,
+     1,
+     0
+    ],
+    "black|London System e6": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Staunton Cochrane": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense": [
+     1,
+     0,
+     0
+    ],
+    "black|Sicilian Defense d6": [
+     0,
+     1,
+     0
+    ],
+    "white|Dutch Defense Krejcik Gambit": [
+     0,
+     1,
+     0
+    ],
+    "white|Sicilian Defense d6 Nf6": [
+     2,
+     0,
+     0
+    ],
+    "white|Dutch Defense...3.Bf4 g6 Bg7": [
+     1,
+     0,
+     0
+    ],
+    "white|Giuoco Piano Game Main": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Open": [
+     1,
+     0,
+     0
+    ],
+    "black|Caro Kann Defense Classical": [
+     1,
+     0,
+     0
+    ],
+    "white|Dutch Defense Leningrad Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Old Sicilian": [
+     1,
+     0,
+     0
+    ],
+    "white|Queens Pawn Opening Keres": [
+     0,
+     1,
+     0
+    ],
+    "black|Sicilian Defense Bowdler Attack": [
+     1,
+     0,
+     0
+    ],
+    "white|Closed Sicilian Defense Grand": [
+     0,
+     1,
+     0
+    ],
+    "black|Scandinavian Defense Mieses Kotrc": [
+     0,
+     1,
+     0
+    ],
+    "white|Pirc Defense Classical Variation": [
+     0,
+     1,
+     0
+    ],
+    "black|Ruy Lopez Opening Morphy": [
+     0,
+     1,
+     0
+    ]
+   },
+   "fast_losses": 0,
+   "clocked_losses": 0,
+   "loss_time_left_frac": [],
+   "snap_moves": 0,
+   "timed_moves": 0,
+   "accuracy": [
+    76.34,
+    71.81,
+    72.4,
+    80.81,
+    70.8,
+    91.97,
+    80.88,
+    59.26,
+    82.96,
+    80.95,
+    66.64,
+    68.35,
+    45.6,
+    59.78
+   ]
+  }
+ }
+}

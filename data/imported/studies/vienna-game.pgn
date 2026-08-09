@@ -1,0 +1,158 @@
+[Event "Vienna Game | INT: Introduction"]
+[Date "2021.05.09"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Vienna Game | INT"]
+[ChapterName "Introduction"]
+[ChapterURL "https://lichess.org/study/pETqbUHv/A5fkBBOG"]
+[Annotator "https://lichess.org/@/Aaron_7"]
+[UTCDate "2021.05.09"]
+[UTCTime "10:03:04"]
+[ChapterMode "gamebook"]
+
+{ Before you start, please like the study by clicking on the ❤️ icon :D
+
+Let me know what other variations you're interested in, in the chat box. }
+ *
+
+
+[Event "Vienna Game | INT: Vienna Gambit Mainline | INT"]
+[Date "2021.05.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C29"]
+[Opening "Vienna Game: Vienna Gambit, Main Line"]
+[StudyName "Vienna Game | INT"]
+[ChapterName "Vienna Gambit Mainline | INT"]
+[ChapterURL "https://lichess.org/study/pETqbUHv/rWqJitDx"]
+[Annotator "https://lichess.org/@/Aaron_7"]
+[UTCDate "2021.05.05"]
+[UTCTime "16:34:51"]
+[ChapterMode "gamebook"]
+
+{ This variation is the Mainline of the Vienna Gambit. }
+1. e4 { [%eval 0.05] } 1... e5 { [%eval 0.21] } { What is the move for white here to start the Vienna Game? } 2. Nc3 { [%eval 0.09] } { Excellent! } 2... Nf6 { [%eval 0.13] } { Now, what is the move for White to initiate the Vienna Gambit? } 3. f4 { [%eval 0.0] } { Perfect! } 3... d5 { [%eval 0.0] } { Now, Black has played d5 to occupy the centre.
+What is the best move here according to the mainline? } 4. fxe5 { [%eval 0.0] } { Incredible! } 4... Nxe4 { [%eval 0.0] } { Now, Black plays Nxe4 to equalize the material advantage.
+What is the best move here according to the mainline? } 5. Nf3 { [%eval -0.48] } { Splendid! } 5... Bc5 { [%eval -0.25] } { Now Black develops their Bishop to c5.
+What is the best move here according to the mainline? } (5... Nc6 { If Black plays Nc6 White can develop their Bishop to b5 and pin the Knight from taking Whites e5 Pawn. } { [%csl Re5][%cal Gb8c6,Rc6e5] } 6. Bb5 { [%csl Re8][%cal Gf1b5,Rb5e8] } 6... a6 7. Bxc6+ bxc6 8. O-O Nxc3 9. bxc3 Be7 10. Nd4) 6. Qe2 { [%eval -0.48] } { Stellar of a move! } { [%cal Gd1e2,Re2e4] } 6... Bf5 { [%eval -0.42] } { Now Black develops their other Bishop to guard the Knight that is under attack.
+What is the best move here according to the mainline? } { [%cal Rc3e4,Re2e4,Bf5e4] } 7. d4 { [%eval -0.5] } { Amazing! } { [%cal Gd2d4] } 7... Bb6 { [%eval -0.24] } { Now Black moves their Bishop that was under attack by the d4 pawn.
+What is the best move here according to the mainline? } { [%cal Gc5b6] } 8. Qb5+ { [%eval -0.4] } { Fantastic! } { [%csl Re8][%cal Rb5e8] } 8... c6 { [%eval -0.43] } { Now Black pushes the pawn to c6 to block the check given by the White Queen.
+What is the best move here according to the mainline? } (8... Nc6 { Nc6 is an alternative for Black. } 9. Bd3 Nxc3 10. bxc3 a6 11. Qb3) 9. Qb3 { [%eval -0.34] } { Spectacular! } 9... O-O { [%eval -0.46] } { Now Black castles to hide their King.
+What is the best move here according to the mainline? } (9... Nd7) 10. Be3 { [%eval -0.35] } { Awesome! } 10... Nd7 { [%eval -0.65] } { Now Black develops their other Knight into the game.
+Here White has a -0.1 disadvantage which is not bad but this scenario is highly unlikely to happen in real life circumstances but it good to know the mainline and is better for a deeper understanding of the Vienna Gambit.
+I have added more variations in the Mainline, you could click the analyze button on your right-hand side and view them --->
+Thank you for joining me in this study! :D } *
+
+
+[Event "Vienna Game | INT: The Vienna Gambit | INT"]
+[Date "2021.05.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C29"]
+[Opening "Vienna Game: Vienna Gambit"]
+[StudyName "Vienna Game | INT"]
+[ChapterName "The Vienna Gambit | INT"]
+[ChapterURL "https://lichess.org/study/pETqbUHv/062b81YZ"]
+[Annotator "https://lichess.org/@/Aaron_7"]
+[UTCDate "2021.05.05"]
+[UTCTime "14:21:08"]
+[ChapterMode "gamebook"]
+
+{ This variation explains the Vienna Gambit move by move. }
+1. e4 { [%eval 0.05] } (1. Nf3) 1... e5 { [%eval 0.21] } { What is the move for white here to start the Vienna Game? } 2. Nc3 { [%eval 0.09] } { Great! } 2... Nf6 { [%eval 0.13] } { Now, what is the move for White to initiate the Vienna Gambit? } 3. f4 { [%eval 0.0] } { Excellent! } { [%csl Gf4][%cal Gf2f4] } 3... exf4 $14 { [%eval 0.71] } { Black has taken the f4 pawn since it is free and has given us a winning position according to Stockfish, which is almost +1
+Now, what is the right move for White to gain more advantage and space? } { [%csl Gf4][%cal Ge5f4] } (3... Nc6 { Nc6 loses, here White can just play fxe5 and after Nxe5 White plays d4 } { [%cal Gf4e5] } 4. fxe5 Nxe5 { [%cal Gc6e5] } 5. d4 { [%cal Gd2d4,Rd4e5] } 5... Ng6 { [%cal Ge5g6] } 6. e5 { Now only move for the Knight is back to g8 } { [%cal Ge4e5,Gf6g8] } 6... Ng8 7. Nf3 { If Black play d6 attacking the Pawn then it is just losing for Black. } { [%cal Gg1f3] } 7... d6 8. Bc4 dxe5 9. O-O exd4 10. Ng5 { [%csl Gf7][%cal Rf1f7,Rg5f7,Rc4f7] } 10... dxc3 { If Black plays dxc3 then it is mate in 5 for White! } 11. Bxf7+ Ke7 12. Re1+ Ne5 (12... Kf6 13. Qf3+ Nf4 (13... Bf5 14. Re6#) 14. Qxf4+ Bf5 15. Re6#) 13. Rxe5+ Kf6 (13... Be6 14. Rxe6#) 14. Qf3+ Kxe5 15. Qf4#) 4. e5 { [%eval 0.45] } { Nice! Now, the only move for Black's knight is to go back to g8 as the rest of the squares are guarded by White. } { [%csl Rg4,Rh5,Rd5,Re4][%cal Rd1g4,Rd1h5,Rc3e4,Rc3d5] } 4... Ng8 { [%eval 0.36] } { Since White has taken more space by playing e5 what is a good move for White here? } 5. Nf3 { [%eval 0.55] } { Amazing! Now Black will need to attack the e5 pawn and take some space back. } { [%csl Gf3][%cal Gg1f3] } (5. d4 { d4 loses as Black can now play Qh4 } { [%csl Gd4][%cal Gd2d4] } 5... Qh4+ { The only moves out of check are to move the king to either d2 or e2 which gives you a losing position and takes away your right to castle. } { [%csl Gh4,Re1][%cal Gd8h4,Rh4e1] } 6. Kd2 { [%csl Gd2][%cal Ge1d2] }) 5... d6 { [%eval 0.4] } { White now must protect the e5 pawn to maintain the space advantage and cramp Black. What should be played? } 6. d4 { [%eval 0.54] } { Fantastic! Here, White could have played Qe2 instead of d4 which is also a good move. } (6. Qe2 { Qe2 is a good move but it allows Black to push d6 and take space. } { [%csl Be5][%cal Gd1e2,Be2e5] }) 6... dxe5 { [%eval 0.48] } { Now Black has made an attempt to open the position and try to get some lead.
+What should White play next? } (6... f6) 7. Qe2 { [%eval 0.48] } { Splendid! White attacks the pawn on e5 and pins it which prevents Black from playing exd4. } { [%csl Ge2,Re8][%cal Gd1e2,Re2e8] } 7... Be7 { [%eval 0.36] } { Now, Black unpins by playing the best move which is Be7.
+What is the best move for White in this position? } (7... f6 $18 { f6 is a bad move for Black as it gives White a +4 advantage and now White can play dxe5 } 8. dxe5 { Now if Black plays fxe5, White plays Bxf4 since there is still a pin. } 8... fxe5 9. Bxf4 { Now White has a +5 advantage on Black since Black has not developed any of their material while White is already out with 2 Knights and a Bishop and could prepare to castle. } 9... Nc6 10. Nxe5) (7... Qe7 { Queen e2 is losing move for Black. } 8. Nd5 Qd6 9. Qxe5+ Qxe5+ 10. dxe5 Kd8 11. Bxf4 $16 { White is now +2.3 }) 8. Qxe5 { [%eval 0.65] } { Incredible! White has a nice position now and the Queen has pinned the Black Bishop. } { [%csl Re8][%cal Re5e8] } 8... Nc6 { [%eval 0.81] } { Now Black developed their Knight to kick out the White Queen.
+What is White's best move here? } 9. Bb5 { [%eval 0.76] } { Wonderful! White has now developed their Bishop and also pinned the Knight on c6. } { [%csl Gb5][%cal Gf1b5] } 9... Bd7 { [%eval 0.41] } { Black has now unpinned their Knight and again put pressure on White's Queen.
+What is White's best move here? } 10. Bxc6 { [%eval 0.63] } { Mind-blowing! } 10... bxc6 $16 { [%eval 1.07] } { Blacks best move here is to play bxc6 because Bishop take c6 can be counter-attacked by d5.
+What is Whites best move here? } (10... Bxc6 { Bxc6 can be counter-attacked by d5 which sends the Black Bishop back to d7 as all the other squares are guarded by White. } 11. d5 { [%csl Gd7][%cal Rc3b5,Rc3a4,Gc6d7] }) 11. Bxf4 { [%eval 0.92] } { Outstanding! White has now got a +1 lead and Black is really passive. } { [%csl Gf4][%cal Gc1f4] } 11... Nf6 { [%eval 0.87] } { Now Black has just developed their Knight into the game.
+What is the best move for White here? } 12. O-O-O { Awesome! White has now brought their king to safety and their Rook is strong on the d file. } 12... O-O { Black now Castles to get their king to safety.
+Here you are +1 even after Black played the best moves.
+I have added more variations in the Mainline, you could click the analyze button on your right-hand side and view them --->
+Thank you for joining me in this study! :D } *
+
+
+[Event "Vienna Game | INT: Vienna Game Popular Line | INT"]
+[Date "2021.05.06"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C47"]
+[Opening "Four Knights Game: Scotch Variation Accepted"]
+[StudyName "Vienna Game | INT"]
+[ChapterName "Vienna Game Popular Line | INT"]
+[ChapterURL "https://lichess.org/study/pETqbUHv/AQYMREgR"]
+[Annotator "https://lichess.org/@/Aaron_7"]
+[UTCDate "2021.05.06"]
+[UTCTime "16:01:40"]
+[ChapterMode "gamebook"]
+
+{ This line, as the name indicates is the most played line as per 13/5/21 by the Lichess Opening Explorer on the Vienna Game.
+
+(The popular line will keep changing) }
+1. e4 { [%eval 0.05] } 1... e5 { [%eval 0.21] } { What is the move for white here to start the Vienna Game? } 2. Nc3 { [%eval 0.09] } { Awesome! } 2... Nc6 { [%eval 0.13] } { Now, Black develops their Knight to c6 while also protecting the e5 Pawn.
+What is a good move here for White? } 3. Nf3 { [%eval 0.0] } { Marvellous! } 3... Nf6 { [%eval 0.0] } { Now, Black develops their other Knight to change the opening to a Four Knights Game from a Vienna Game. What is a good move here for White? } (3... Bc5 { If Bishop b6 is played then just simply play Kxe5 and win a Pawn as Black cannot take White's Knight because d4 forks Black's Bishop and Knight. } 4. Nxe5 { [%cal Rf3e5] } 4... Nxe5 5. d4 { [%cal Rd2d4] }) 4. d4 { [%eval 0.0] } { Brilliant! } (4. Nxe5 Nxe5 5. d4 Ng6 6. e5 Ng8 7. Bc4) 4... exd4 { [%eval 0.0] } { Here, Black opens up the position by taking on d4 and is protected by the Knight on c6.
+What is a good move here for White? } { [%cal Re5d4,Bc6d4] } 5. Nxd4 { [%eval -0.48] } { Fantastic! } 5... Bb4 { [%eval -0.25] } { Now, Black pins the Knight to the King by playing Bishop b4 and weakens the Pawn on e4.
+What is a good move here for White? } { [%csl Re4][%cal Rf6e4,Rb4c3,Rc3e1] } 6. Nxc6 { [%eval -0.55] } { Wonderful! White takes on c6 while also attacking the Black Queen and to also prevent Black from taking on e4. } 6... bxc6 { [%eval -0.24] } { What is a good move here for White? } (6... dxc6 { If d takes c6 then White can trade Queens and take away blacks right to castle. } 7. Qxd8+ Kxd8 8. Bd2) (6... Bxc3+ 7. bxc3 bxc6 8. Bd3 O-O 9. O-O) 7. Bd3 { [%eval -0.71] } { Stunning! Bd3 gives protection to the e4 Pawn } { [%cal Bd3e4] } 7... d5 { [%eval 0.74] } { Black plays d5 to strike in the centre.
+What is a good move here for White? } { [%cal Gd7d5] } 8. exd5 { [%eval 0.88] } { Fabulous! } 8... cxd5 { [%eval 0.73] } { Black captures the Pawn and undoubles the C file.
+What is a good move here for White? } 9. O-O { [%eval 0.99] } { Spectacular! } 9... O-O { [%eval 1.16] } (9... Bxc3 { If Bishop takes c3 then Queen e2 check followed by Bishop b5 will be better for White. } { [%cal Gb4c3] } 10. Qe2+ { [%cal Re2e8] } 10... Be6 { [%cal Gc8e6] } 11. Bb5+ { [%cal Gd3b5] } 11... Nd7 { [%cal Gf6d7] }) 10. Bg5 { [%eval 0.3] } { Outstanding!
+These moves are the most popular moves in the Vienna Game according to the Opening Explorer in Lichess.
+I have added more variations in the Mainline, you could click the analyze button on your right-hand side and view them --->
+Thank you for joining me in this study! :D } *
+
+
+[Event "Vienna Game | INT: Vienna Game with d6 | INT"]
+[Date "2021.05.11"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C29"]
+[Opening "Vienna Game: Vienna Gambit"]
+[StudyName "Vienna Game | INT"]
+[ChapterName "Vienna Game with d6 | INT"]
+[ChapterURL "https://lichess.org/study/pETqbUHv/xTyZBiKw"]
+[Annotator "https://lichess.org/@/Aaron_7"]
+[UTCDate "2021.05.11"]
+[UTCTime "14:53:55"]
+[ChapterMode "gamebook"]
+
+{ This variation counteracts Black declining the Vienna Gambit by the move d6. }
+1. e4 e5 { What is the move for white here to start the Vienna Game? } 2. Nc3 { Perfect! } 2... Nf6 { Now, what is the move for White to initiate the Vienna Gambit? } 3. f4 { Excellent! } 3... d6 { If Black declines the gambit and plays d6 White's move is very straight forward. What is a good move here for White? } 4. Nf3 { Amazing! } 4... Nc6 { In this position with the four Knights out what could be a good move for White? } (4... exf4 5. d4 d5 6. exd5 Nxd5 7. Nxd5 Qxd5 8. Bd3 Qd6) 5. Bb5 { Perfect! White develops the Bishop and also pins the Knight. } { [%csl Re8,Rc6][%cal Rb5c6,Rc6e8] } (5. d4 { Nice try, this move can also be played but there is another move too! }) 5... Bd7 { Black unpins the Knight here, what could be a good move for White?
+There are a few good moves here but there is one move that is just a little bit better. :D } 6. d3 { This position is very good for White, with plans of playing f5 White can also activate the dark-squared Bishop.
+Now in this position White can now castle and eye the f6 square.
+Thank you for joining me in this study! :D } { [%csl Rf6,Gd3,Ge4,Gf4][%cal Ge1g1,Gh1f1,Rf1f6] } (6. O-O { Nice try! Castling is one of the good moves here but could you find the best move?? }) (6. Bxc6 { Nice try! Bxc6 is one of the good moves here but could you find the best move? }) *
+
+
+[Event "Vienna Game | INT: Vienna Game GothamChess Trap Variation | INT"]
+[Date "2021.05.09"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "C24"]
+[Opening "Bishop's Opening: Vienna Hybrid"]
+[StudyName "Vienna Game | INT"]
+[ChapterName "Vienna Game GothamChess Trap Variation | INT"]
+[ChapterURL "https://lichess.org/study/pETqbUHv/z8tP8cCm"]
+[Annotator "https://lichess.org/@/Aaron_7"]
+[UTCDate "2021.05.09"]
+[UTCTime "09:44:52"]
+[ChapterMode "gamebook"]
+
+{ This variation counteracts Blacks Knight c6 move with an interesting trap! }
+1. e4 e5 { What is the move for white here to start the Vienna Game? } 2. Nc3 { Excellent! } 2... Nc6 { Knight c6 is a common move nowadays and can cause you trouble if you don't know how to defend it.
+What is the best move here for White? } 3. Bc4 { Perfect! } 3... Nf6 { Here, Black plays Knight f6 which seems to be a fair move.
+What is the best move here for White? } 4. d3 { Amazing! } 4... Bc5 { Here Black develops naturally.
+What move here initiates the Vienna Gambit? } 5. f4 { Marvellous! Here Black can take on f4 and White can enter the Vienna Gambit but with a more developed position as the Knight and Bishop are developed already. } { [%csl Gc3,Gc4][%cal Gf2f4,Re5f4] } 5... d6 { Black can choose to defend e5 but here is where we can start the trap against Black.
+What is the best move here for White? } 6. Nf3 { Wonderful! } 6... Ng4 { Most players will definitely see Knight g4 preparing Knight f2 getting a fork on the White Queen and Rook this seems deadly as the Black Bishop protects the Knight, but here White has an amazing move to counter attack this.
+What is the best move here for White? } { [%csl Rf2,Rd1,Rh1][%cal Gf6g4,Rg4f2,Rc5f2] } 7. Ng5 { Splendid! } { [%cal Gf3g5] } 7... O-O { Black castles, since it is the best move, this gets the King to protection... But not for too long :)
+What is the best move here for White? } (7... Nf2 { If Black plays Knight f2, White is +5 and is clearly winning.
+What is the best move here for White? } 8. Qh5 { Superb! } 8... Qf6 9. Nd5 Qg6 10. Qxg6 hxg6 11. Rf1 { Here White is threatening Knight c4 forking the King and the Rook while also threatening to take the f2 Knight } (11. Nxc7+ { This does not work as Black can also take your Rook. } 11... Kd7 12. Nxa8 Nxh1)) 8. f5 { Awesome! This disconnects the Protection given to the g4 Knight by the c8 Bishop and also protects White's g5 Knight! } { [%csl Bc8,Bg5,Bg4][%cal Bc8g4,Bc1g5] } 8... Nf2 { Since Black's Knight is not protected now, naturally Black would play Knight f2 but this just loses the game for Black.
+What is the best move here for White? } 9. Qh5 { Fantastic! This puts pressure on h7 and f7 in two ways. } { [%csl Rh7,Rf7][%cal Rg5h7,Rh5h7,Rc4f7,Rg5f7] } 9... h6 { Naturally, Black stops mate here.
+What is the best move here for White? } 10. Nxf7 { Great! } { [%cal Rf7d8] } (10. Bxf7+ { This is a great move as it still wins for White, there is a better move though :) }) 10... Rxf7 { Black here naturally takes on f7 as the Queen was hit by the Knight.
+What is the best move here for White? } 11. Qxf7+ { Nice! Now here this position is forced mate in 15 for White.
+I have added the mate in 15 line if you are interested. I won't be explaining the moves in detail or be giving hints though. it's just for you to check out.
+A suggestion for you would be to study many variations in this line because Black could choose to not fall into this trap and leave you dumbfounded.
+I have added multiple variations in this line that could happen in games, you could click the analyze button on your right-hand side and view them --->
+NOTE: I haven't explained all the lines in the variations in detail. I just kept them anyway so that they could stay in the back of your mind.
+Thanks for joining me in this study :D } 11... Kh7 (11... Kh8 12. f6 { Mate in 5 for White } 12... Nxd3+ 13. cxd3 Bf2+ 14. Kf1 gxf6 15. Bxh6 Qf8 16. Qxf8+ Kh7 17. Qg7#) 12. Qg6+ Kh8 13. Bxh6 Qe7 14. Bxg7+ Qxg7 15. Qh5+ Qh7 16. Qe8+ Kg7 17. Qf7+ Kh6 18. Qf6+ Kh5 19. Bf7+ Kg4 20. h3+ Nxh3 21. Rxh3 Nb4 { It does not matter if Black's Queen takes the Rook or not since it would still be mate in 5 for White. I have added that variation in any way... } (21... Qxh3 22. Qg6+ Kh4 23. Qh5+ Kg3 24. Qxh3+ Kf4 25. Nd5+ Kg5 26. Qh5#) 22. Rxh7 Nxc2+ 23. Kf1 Ne3+ 24. Ke2 Kf4 25. Qh4+ Ng4 26. Nd5# *
+
+

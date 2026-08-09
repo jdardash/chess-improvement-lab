@@ -1,0 +1,32 @@
+{
+ "games": [
+  {
+   "url": "https://www.chess.com/game/live/27288706529",
+   "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2021.10.06\"]\n[Round \"-\"]\n[White \"mayankyadav1\"]\n[Black \"joshuadardashti\"]\n[Result \"1-0\"]\n[CurrentPosition \"r1bqk2r/pppp1pp1/2n4p/2b1p3/2B1P1n1/2NP1N1P/PPP2PP1/R1BQ1RK1 b kq -\"]\n[Timezone \"UTC\"]\n[ECO \"C50\"]\n[ECOUrl \"https://www.chess.com/openings/Giuoco-Piano-Game-4.O-O\"]\n[UTCDate \"2021.10.06\"]\n[UTCTime \"19:50:06\"]\n[WhiteElo \"944\"]\n[BlackElo \"917\"]\n[TimeControl \"600\"]\n[Termination \"mayankyadav1 won - game abandoned\"]\n[StartTime \"19:50:06\"]\n[EndDate \"2021.10.06\"]\n[EndTime \"19:52:28\"]\n[Link \"https://www.chess.com/game/live/27288706529\"]\n\n1. e4 {[%clk 0:09:59.9]} 1... e5 {[%clk 0:09:53.1]} 2. Nf3 {[%clk 0:09:58.1]} 2... Nc6 {[%clk 0:09:48.4]} 3. Bc4 {[%clk 0:09:56.9]} 3... Bc5 {[%clk 0:09:45.8]} 4. O-O {[%clk 0:09:53.6]} 4... h6 {[%clk 0:09:35.9]} 5. Nc3 {[%clk 0:09:46.2]} 5... Nf6 {[%clk 0:09:34.3]} 6. d3 {[%clk 0:09:44]} 6... Ng4 {[%clk 0:09:31.9]} 7. h3 {[%clk 0:09:24.5]} 1-0\n",
+   "time_control": "600",
+   "end_time": 1633549948,
+   "rated": true,
+   "tcn": "mC0Kgv5QfA9Ieg3Vbs!TltTEpx",
+   "uuid": "96a78946-26de-11ec-b743-09ff3c010001",
+   "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+   "fen": "r1bqk2r/pppp1pp1/2n4p/2b1p3/2B1P1n1/2NP1N1P/PPP2PP1/R1BQ1RK1 b kq -",
+   "time_class": "rapid",
+   "rules": "chess",
+   "white": {
+    "rating": 944,
+    "result": "win",
+    "@id": "https://api.chess.com/pub/player/mayankyadav1",
+    "username": "mayankyadav1",
+    "uuid": "424f4f5c-d6e6-11ea-a190-d94976a14b79"
+   },
+   "black": {
+    "rating": 917,
+    "result": "abandoned",
+    "@id": "https://api.chess.com/pub/player/joshuadardashti",
+    "username": "joshuadardashti",
+    "uuid": "a77783a8-a866-11ea-afec-4dbad125e4ac"
+   },
+   "eco": "https://www.chess.com/openings/Giuoco-Piano-Game-4.O-O"
+  }
+ ]
+}

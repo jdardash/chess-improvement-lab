@@ -1,0 +1,96 @@
+[Event "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire: Overview: Dutch ATTACK"]
+[Date "2025.06.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Rubinstein Variation"]
+[StudyName "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire"]
+[ChapterName "Overview: Dutch ATTACK"]
+[ChapterURL "https://lichess.org/study/RyMmCrx8/uNmUCYhw"]
+[Annotator "https://lichess.org/@/EricRosen"]
+[UTCDate "2025.06.24"]
+[UTCTime "04:37:58"]
+
+1. d4 e6!? { A flexible move order which invites the French Attack, and avoids a lot of annoying gambits of the traditional Dutch which stems from 1...f5. } 2. c4 (2. e4 d5 { Transposes to the French Attack! Check out this study to learn more: https://lichess.org/study/mr9g4cVe }) (2. Bf4 f5 { The London is another highly common opening setup for white these days. Check out chapter 3 the best way for black to attack in this opening. }) 2... f5 3. Nc3 (3. g3 Nf6 4. Bg2 d5 { The start of black's "Stonewall" formation. This is the recommended way to play against g3 setups which are commonly seen among strong players. See Chapter for more analysis. }) 3... Nf6 4. Nf3 { This development setup often combining Bg5, is one of the most popular setups for white at the amateur level. Check out chapter 2 for more analysis. } *
+
+
+[Event "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire: Fighting the Typical \"Amateur\" Setup"]
+[Date "2025.06.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Classical Variation"]
+[StudyName "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire"]
+[ChapterName "Fighting the Typical \"Amateur\" Setup"]
+[ChapterURL "https://lichess.org/study/RyMmCrx8/a1212Ocs"]
+[Annotator "https://lichess.org/@/EricRosen"]
+[UTCDate "2025.06.24"]
+[UTCTime "05:57:50"]
+
+1. d4 e6 2. c4 f5 3. Nf3 Nf6 4. Nc3 Bb4! { It's best to pin the knight as soon as black has the chance. Black intends to capture on c3 to damage white's queenside pawn structure. } 5. a3?! (5. Bg5 Bxc3+ 6. bxc3 h6 7. Bh4? (7. Bxf6 Qxf6 8. e3 b6 9. Be2 Bb7 10. O-O { Black will likely be having all the fun in the middlegame. There are 2 plans between attacking on the kingside and playing positionally against white's double pawns on the queenside. } 10... O-O { [%csl Ga5,Rc4,Gg4][%cal Gb8c6,Gc6a5,Gg7g4,Gd7d6] }) 7... g5 8. Bg3 f4 { trapping the bishop }) (5. Bd2 b6 6. a3 Bxc3 7. Bxc3 Bb7 8. e3 d6 9. Be2 Nbd7 10. O-O Ne4 11. Be1 O-O { [%csl Gg4,Rf3][%cal Gg7g5,Gg5g4,Gd8h4,Gb7g2] } (11... Qe7 { also possible to hold of on castling, and eventually castle queenside or put the king on f7. } { [%csl Gg4][%cal Gg7g4] })) 5... Bxc3+ 6. bxc3 { The following line will illustrate the optimal attacking setup for black... } 6... b6 7. e3 Bb7 8. Be2 d6 9. O-O Nbd7 10. Re1 Ne4 11. Bb2 Qe7 { [%cal Gg7g5,Gg5g4,Gb7g2,Gd7f6,Ge8g8,Gh8f8,Gf8f6,Gf6h6] } 12. Bf1 O-O 13. Qc2 Rf6 14. a4 Rh6 { Black's attack is pretty much unstoppable } { [%cal Gg7g4,Ge7h4] } *
+
+
+[Event "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire: Fighting the London"]
+[Date "2025.06.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[StudyName "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire"]
+[ChapterName "Fighting the London"]
+[ChapterURL "https://lichess.org/study/RyMmCrx8/okBV8DsK"]
+[Annotator "https://lichess.org/@/EricRosen"]
+[UTCDate "2025.06.24"]
+[UTCTime "06:11:12"]
+
+1. d4 e6 2. Bf4 f5 3. e3 Nf6 4. Nf3 (4. c4 { This is an invitation for Bb4+ since white no longer has c3 } 4... Bb4+ 5. Nc3 Bxc3+ 6. bxc3 { black is always happy to damage white's structure :) }) 4... b6 5. Be2 Bb7 6. h3 d6 7. O-O Nbd7 8. c3 { The following line illustrates how quickly black can generate a deadly attack if white is careless } (8. Nbd2 Qe7 { Another idea to stay flexible } 9. c3 h6! { preparing to attack with g5 next } { [%cal Gg7g5,Gg5g4,Gh6h5,Ge8f7] }) 8... Ne4 { [%cal Gg7g5,Gd8g5,Ge4g5] } 9. a4 g5 10. Bh2 h5 { [%csl Gg4][%cal Gg5g4] } 11. a5 g4 12. hxg4 hxg4 13. Ne1 Qh4 *
+
+
+[Event "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire: Fighting the Jobava London"]
+[Date "2025.06.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A40"]
+[Opening "Horwitz Defense"]
+[StudyName "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire"]
+[ChapterName "Fighting the Jobava London"]
+[ChapterURL "https://lichess.org/study/RyMmCrx8/ry3oUaDK"]
+[Annotator "https://lichess.org/@/EricRosen"]
+[UTCDate "2025.06.24"]
+[UTCTime "06:23:12"]
+
+1. d4 e6 2. Nc3 Nf6 (2... f5? { Not recommended in this move order } 3. e4!) 3. Bf4 (3. e4 d5 { Transposes back into a French! Be sure to review this study: https://lichess.org/study/mr9g4cVe }) 3... Bb4 { This is already territory that most Jobava London players won't be so familiar with. Black has ideas to immediately pressure the center like c5, Qa5, Ne5, and also Nd5 (since black hasn't committed the pawn to d5). } 4. a3 (4. e3 Nd5!? { [%csl Rf4,Rc3] } (4... c5 { also possible } { [%cal Gd8a5,Gf6e4] })) 4... Bxc3+ 5. bxc3 b6 6. Nf3 Bb7 7. e3 Ne4 8. c4 d6 { black gets the nice harmonious Dutch Attack setup. } { [%cal Gb8d7,Gf7f5] } *
+
+
+[Event "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire: Crush these Dubious Gambits"]
+[Date "2025.06.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A84"]
+[Opening "Dutch Defense: Bellon Gambit"]
+[StudyName "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire"]
+[ChapterName "Crush these Dubious Gambits"]
+[ChapterURL "https://lichess.org/study/RyMmCrx8/QgigpuQY"]
+[Annotator "https://lichess.org/@/EricRosen"]
+[UTCDate "2025.06.24"]
+[UTCTime "06:29:27"]
+
+1. d4 e6 2. c4 f5 3. e4?! { This is a worse version of the famous Staunton Gambit, because the inclusion of e6 is more useful than the inclusion of c4. } (3. g4 { a rare gambit which black has a nice reply against... } 3... fxg4 4. h3 g3! { giving back the pawn to weaken white's kingside structure } 5. fxg3 c5! { black is having more fun! } { [%csl Rg3,Rd4][%cal Gd8c7,Gc7g3,Gc5d4,Gb8c6] }) 3... fxe4 4. Nc3 Nf6 5. f3 (5. Bg5 Bb4 6. f3 d5 7. fxe4 dxe4 { transposes to mainline }) 5... d5! 6. fxe4 dxe4 { The doubled e-pawns look ugly at first, but black's pawn on e4 restricts white's development and it is not easy for white to attack and win. Meanwhile, black enjoys the half-open d-file for the queen and white's pawn on d4 is a clear target. } 7. Bg5 Bb4 { [%cal Ge8g8,Gc7c5,Gb8c6] } *
+
+
+[Event "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire: Stonewall vs g3 setups"]
+[Date "2025.06.24"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "A90"]
+[Opening "Dutch Defense: Stonewall Variation, Modern Variation"]
+[StudyName "How to Play Against 1.d4: A Fun and Aggressive Opening Repertoire"]
+[ChapterName "Stonewall vs g3 setups"]
+[ChapterURL "https://lichess.org/study/RyMmCrx8/w6BL2Ufj"]
+[Annotator "https://lichess.org/@/EricRosen"]
+[UTCDate "2025.06.24"]
+[UTCTime "06:34:14"]
+
+1. d4 e6 2. c4 f5 3. g3 Nf6 4. Bg2 d5 { Setting up the "Stonewall" formation } 5. Nf3 c6 6. O-O Bd6 7. Nc3 (7. b3 Qe7 { Preventing Ba3 } { [%csl Ra3][%cal Ge7a3] } 8. a4 { Now Ba3 is unstoppable, but white has now weakened the b4 square. Black can exploit this with the following sequence.... } 8... a5 9. Ba3 Bxa3 10. Nxa3 Na6 { [%csl Gb4,Ge4,Gg4][%cal Ga6b4,Gf6e4,Gg7g4,Ge8g8,Gc8d7,Gd7e8] }) 7... O-O 8. b3 (8. Bf4 Bxf4 9. gxf4 Ne4 { Lots of attacking potential for black } { [%cal Gf8f6,Gf6h6,Gb8d7,Gd8e8,Ge8h5] }) 8... Bd7 { [%csl Gh5][%cal Gd7e8,Ge8h5] } 9. Bb2 Be8 10. Qc2 Nbd7 { [%csl Gh5][%cal Ge8h5,Gd8e7,Gf6e4,Gd7f6] } *
+
+

@@ -1,0 +1,33 @@
+{
+ "generated": "2026-08-09T03:44:12+00:00",
+ "n_blunders": 249,
+ "motifs": {
+  "opening": 39,
+  "middlegame": 193,
+  "pin": 63,
+  "hangingPiece": 66,
+  "skewer": 13,
+  "fork": 24,
+  "endgame": 17,
+  "mate": 9
+ },
+ "motifs_when_rushed": {
+  "middlegame": 36,
+  "pin": 11,
+  "hangingPiece": 17,
+  "opening": 10,
+  "endgame": 10,
+  "mate": 4,
+  "fork": 6,
+  "skewer": 2
+ },
+ "themes": [
+  "capturingDefender",
+  "doubleCheck",
+  "fork",
+  "hangingPiece",
+  "pin",
+  "skewer",
+  "xRayAttack"
+ ]
+}

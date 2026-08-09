@@ -1,0 +1,12 @@
+{
+  "name": "chess-page",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@lichess-org/chessground": "10.1.1",
+    "@lichess-org/pgn-viewer": "2.6.2",
+    "chess.js": "1.4.0",
+    "ts-fsrs": "^5.0.0"
+  },
+  "devDependencies": { "esbuild": "^0.25.0" }
+}

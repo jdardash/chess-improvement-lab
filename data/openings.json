@@ -1,0 +1,177 @@
+{
+ "generated": "2026-08-09T03:03:17+00:00",
+ "username": "joshuadardashti",
+ "time_class": "rapid",
+ "explorer_available": false,
+ "positions": [
+  {
+   "side": "white",
+   "line": [],
+   "ply": 0,
+   "my_uci": "e2e4",
+   "n": 34,
+   "my_move": "e4",
+   "my_score": 54.4,
+   "eco": "Pirc Defense 2.d4 Nf6",
+   "fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+   "pool_top": null,
+   "pool_score_for_my_move": null,
+   "pool_share_of_my_move": null,
+   "pool_better": null,
+   "cloud_cp": 18
+  },
+  {
+   "side": "black",
+   "line": [
+    "e2e4"
+   ],
+   "ply": 1,
+   "my_uci": "c7c5",
+   "n": 21,
+   "my_move": "c5",
+   "my_score": 52.4,
+   "eco": "Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...a6 4.Bxc6 bxc6 5.O O",
+   "fen": "rnbqkbnr/pppppppp/8/8/4P3/8/PPPP1PPP/RNBQKBNR b KQkq - 0 1",
+   "pool_top": null,
+   "pool_score_for_my_move": null,
+   "pool_share_of_my_move": null,
+   "pool_better": null,
+   "cloud_cp": -32
+  },
+  {
+   "side": "white",
+   "line": [
+    "e2e4",
+    "e7e5"
+   ],
+   "ply": 2,
+   "my_uci": "g1f3",
+   "n": 13,
+   "my_move": "Nf3",
+   "my_score": 50.0,
+   "eco": "Pirc Defense Modern Defense Geller System 2...Nf6 3.Nc3 e5 4.Bc4",
+   "fen": "rnbqkbnr/pppp1ppp/8/4p3/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+   "pool_top": null,
+   "pool_score_for_my_move": null,
+   "pool_share_of_my_move": null,
+   "pool_better": null,
+   "cloud_cp": 18
+  },
+  {
+   "side": "black",
+   "line": [
+    "d2d4"
+   ],
+   "ply": 1,
+   "my_uci": "d7d5",
+   "n": 9,
+   "my_move": "d5",
+   "my_score": 38.9,
+   "eco": "London System...4.e3 e6 5.Bd3 Bxd3 6.Qxd3",
+   "fen": "rnbqkbnr/pppppppp/8/8/3P4/8/PPP1PPPP/RNBQKBNR b KQkq - 0 1",
+   "pool_top": null,
+   "pool_score_for_my_move": null,
+   "pool_share_of_my_move": null,
+   "pool_better": null,
+   "cloud_cp": -27
+  },
+  {
+   "side": "black",
+   "line": [
+    "e2e4",
+    "c7c5",
+    "g1f3"
+   ],
+   "ply": 3,
+   "my_uci": "b8c6",
+   "n": 10,
+   "my_move": "Nc6",
+   "my_score": 50.0,
+   "eco": "Sicilian Defense Nyezhmetdinov Rossolimo Attack 3...a6 4.Bxc6 bxc6 5.O O",
+   "fen": "rnbqkbnr/pp1ppppp/8/2p5/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 1 2",
+   "pool_top": null,
+   "pool_score_for_my_move": null,
+   "pool_share_of_my_move": null,
+   "pool_better": null,
+   "cloud_cp": -30
+  },
+  {
+   "side": "white",
+   "line": [
+    "e2e4",
+    "e7e5",
+    "g1f3",
+    "b8c6"
+   ],
+   "ply": 4,
+   "my_uci": "f1b5",
+   "n": 5,
+   "my_move": "Bb5",
+   "my_score": 40.0,
+   "eco": "Four Knights Game Spanish Variation 4...Bd6",
+   "fen": "r1bqkbnr/pppp1ppp/2n5/4p3/4P3/5N2/PPPP1PPP/RNBQKB1R w KQkq - 2 3",
+   "pool_top": null,
+   "pool_score_for_my_move": null,
+   "pool_share_of_my_move": null,
+   "pool_better": null,
+   "cloud_cp": 15
+  },
+  {
+   "side": "white",
+   "line": [
+    "e2e4",
+    "e7e6"
+   ],
+   "ply": 2,
+   "my_uci": "d2d4",
+   "n": 3,
+   "my_move": "d4",
+   "my_score": 66.7,
+   "eco": "Alapin Sicilian Defense...3.Nf3 Nc6 4.d4 cxd4 5.cxd4",
+   "fen": "rnbqkbnr/pppp1ppp/4p3/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+   "pool_top": null,
+   "pool_score_for_my_move": null,
+   "pool_share_of_my_move": null,
+   "pool_better": null,
+   "cloud_cp": 29
+  },
+  {
+   "side": "white",
+   "line": [
+    "e2e4",
+    "d7d6"
+   ],
+   "ply": 2,
+   "my_uci": "d2d4",
+   "n": 3,
+   "my_move": "d4",
+   "my_score": 33.3,
+   "eco": "Pirc Defense 2.d4 Nf6",
+   "fen": "rnbqkbnr/ppp1pppp/3p4/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+   "pool_top": null,
+   "pool_score_for_my_move": null,
+   "pool_share_of_my_move": null,
+   "pool_better": null,
+   "cloud_cp": 51
+  },
+  {
+   "side": "white",
+   "line": [
+    "e2e4",
+    "c7c6"
+   ],
+   "ply": 2,
+   "my_uci": "d2d4",
+   "n": 3,
+   "my_move": "d4",
+   "my_score": 66.7,
+   "eco": "Caro Kann Defense Classical Variation",
+   "fen": "rnbqkbnr/pp1ppppp/2p5/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+   "pool_top": null,
+   "pool_score_for_my_move": null,
+   "pool_share_of_my_move": null,
+   "pool_better": null,
+   "cloud_cp": 24
+  }
+ ]
+}

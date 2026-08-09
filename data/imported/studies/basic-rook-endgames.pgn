@@ -1,0 +1,194 @@
+[Event "Lichess Practice: Basic Rook Endgames: Lucena - The Bridge"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Lucena - The Bridge"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/tAcIEIbG"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "6K1/4k1P1/8/8/8/7r/8/5R2 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "01:12:33"]
+
+{ [%csl Gg4,Bg5][%cal Gf1e1,Ge1e4,Ge4g4,Bg8f7,Bf7g6,Bg6f6,Bf6g5] }
+1. Re1+ Kd7 2. Re4 Kd6 3. Kf7 Rf3+ 4. Kg6 Ra3 5. Kg5 Ra8 6. Rf4 Ke7 7. Kh6 Ra6+ 8. Kh7 Ra1 *
+
+
+[Event "Lichess Practice: Basic Rook Endgames: Lucena - Alternative Wins"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Lucena - Alternative Wins"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/hg6wz0gX"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "5K2/3k1P2/8/8/8/8/6r1/4R3 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "01:12:33"]
+
+{ [%cal Ge1h1,Gh1h8,Gh8g8] }
+ *
+
+
+[Event "Lichess Practice: Basic Rook Endgames: Reaching the Lucena I"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Reaching the Lucena I"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/x7ABY4Aj"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/4k3/8/6P1/6K1/8/7r/5R2 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "01:12:33"]
+
+ *
+
+
+[Event "Lichess Practice: Basic Rook Endgames: Reaching the Lucena II"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Reaching the Lucena II"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/ObmMRqmS"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/6R1/8/5K2/1k6/r3P3/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "01:12:33"]
+
+ *
+
+
+[Event "Lichess Practice: Basic Rook Endgames: Philidor Position"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "equalize in 10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Philidor Position"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/CvqYotss"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "1r2k3/R7/8/4PK2/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "01:12:33"]
+
+ *
+
+
+[Event "Lichess Practice: Basic Rook Endgames: Avoiding the Philidor"]
+[Date "2022.07.04"]
+[Result "*"]
+[Termination "promotion with +500cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Avoiding the Philidor"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/cgZzXWz6"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "4k3/7R/8/3KP1r1/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.04"]
+[UTCTime "02:54:35"]
+
+ *
+
+
+[Event "Lichess Practice: Basic Rook Endgames: Don't Place the Cart Before the Horse!"]
+[Date "2022.07.05"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Don't Place the Cart Before the Horse!"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/G4XKY6pN"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "2r3k1/4Rp1p/6p1/8/P7/6P1/5P1P/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.05"]
+[UTCTime "01:50:39"]
+[ChapterMode "gamebook"]
+
+{ We have a passed pawn, but where should the rook be placed? }
+1. Re1 { [%cal Ge1a1] } 1... Ra8 { Bring your rook to a1. } { [%cal Ge1a1] } 2. Ra1 { Rooks are better behind passed pawns than in front of them because they don't obstruct and block the path of the pawn. } *
+
+
+[Event "Lichess Practice: Basic Rook Endgames: Put Your Opponent's Cart Before their Horse"]
+[Date "2022.07.20"]
+[Result "*"]
+[Termination "equalize in 20"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Put Your Opponent's Cart Before their Horse"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/EQtJrAt1"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "2R5/5pk1/8/8/8/7P/p5PK/r7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.20"]
+[UTCTime "13:37:06"]
+
+ *
+
+
+[Event "Lichess Practice: Basic Rook Endgames: Rook vs Pawn: Cutting off the King"]
+[Date "2022.07.03"]
+[Result "*"]
+[Termination "+500cp in 7"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Rook vs Pawn: Cutting off the King"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/KOuAwcZ9"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "6K1/6R1/2k5/1p6/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.03"]
+[UTCTime "18:17:40"]
+
+ *
+
+
+[Event "Lichess Practice: Basic Rook Endgames: Rook vs Pawn Draw"]
+[Date "2022.07.03"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Basic Rook Endgames"]
+[ChapterName "Rook vs Pawn Draw"]
+[ChapterURL "https://lichess.org/study/pqUSUw8Y/DhXGZctw"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/1R6/8/8/8/p2K4/1k6/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.03"]
+[UTCTime "18:19:24"]
+[ChapterMode "gamebook"]
+
+{ In this interesting position, the main idea for black to be able to draw is to not obstruct the pawn on the a-file and be cut off by white's rook. Thus black always needs to put their king on the c-file if white check them with the rook on the b-file. }
+1... Kc1! 2. Ra7 { White is trying to win the pawn. Black can defend it with only one move. } 2... Kb2 3. Rb7+ { White is attempting to drive black's king to the a-file once again. } 3... Kc1 { We keep moving our king on the c1 and b2 squares to keep the pawn. White hasn't made any progress. Now if white goes Ra7 and Rb7+ again, the game would end in a draw due to threefold repetition. } 4. Kc3 { Now obviously Kd1 loses due to Ra7 or Kb3 and the pawn would be lost. } 4... a2 5. Ra7 Kb1 6. Rb7+ { White is still attempting to drive the king to a1. } 6... Kc1 7. Ra7 Kb1 8. Ra3 a1=Q+ (8... a1=R { Also leads to a draw but promote to a queen to complete the exercise. }) 9. Rxa1+ Kxa1 { As you saw, white wasn't able to make any progress. } *
+
+

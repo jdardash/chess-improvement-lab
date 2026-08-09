@@ -1,0 +1,197 @@
+[Event "Lichess Practice: Practical Rook Endings: 3 vs 2 - Same Side"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "equalize in 30"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "3 vs 2 - Same Side"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/VL4BloZf"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "5r1k/1R5p/6p1/8/8/6P1/5P1P/5K2 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "17:50:16"]
+
+{ [%cal Gh7h5] }
+ *
+
+
+[Event "Lichess Practice: Practical Rook Endings: 4 vs 3 - Same Side"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "equalize in 30"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "4 vs 3 - Same Side"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/JTjVTDzq"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/5pkp/4p1p1/8/3r4/4R1P1/5PKP/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "17:50:16"]
+
+{ [%cal Gh2h4] }
+ *
+
+
+[Event "Lichess Practice: Practical Rook Endings: 4 vs 3 - RP Active Rook"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "promotion with +500cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "4 vs 3 - RP Active Rook"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/MTv41MYN"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/5pk1/5rpp/8/P2R3P/6P1/5PK1/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "17:50:16"]
+
+{ [%cal Ga4a5,Gd4a4] }
+ *
+
+
+[Event "Lichess Practice: Practical Rook Endings: 4 vs 3 - RP Passive Rook"]
+[Date "2022.08.10"]
+[Result "*"]
+[Termination "equalize in 20"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "4 vs 3 - RP Passive Rook"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/GXRwlhld"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "R7/P4pk1/6pp/8/5P1P/r7/6PK/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.08.10"]
+[UTCTime "00:36:58"]
+
+ *
+
+
+[Event "Lichess Practice: Practical Rook Endings: 5 vs 4 - RP Passive Rook"]
+[Date "2022.07.23"]
+[Result "*"]
+[Termination "promotion with +500cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "5 vs 4 - RP Passive Rook"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/HmvQuHx6"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "R7/P5k1/3K1p1p/4p1pP/4P1P1/5P2/8/r7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.23"]
+[UTCTime "01:23:33"]
+
+ *
+
+
+[Event "Lichess Practice: Practical Rook Endings: 4 vs 4 - A trick"]
+[Date "2022.07.07"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "4 vs 4 - A trick"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/hrOXELq2"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "6k1/1R3p2/5Ppp/4P3/p7/7P/2r3P1/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.07"]
+[UTCTime "22:08:48"]
+[ChapterMode "gamebook"]
+
+1. Rb8+ Kh7 2. e6 Rc1+ 3. Kh2 (3. Kf2 { This also wins but play Kh2 to continue the exercise. }) 3... fxe6 4. f7 Rf1 { White will promote the pawn and win the game. } *
+
+
+[Event "Lichess Practice: Practical Rook Endings: R2p vs R - Central Pawns"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "promotion with -500cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "R2p vs R - Central Pawns"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/oodwUwS7"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/7r/5k2/4p3/4Kp2/8/8/6R1 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "17:50:16"]
+
+ *
+
+
+[Event "Lichess Practice: Practical Rook Endings: R2p vs R - g & h-pawns"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "promotion with +500cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "R2p vs R - g & h-pawns"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/jyR0zN5b"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/8/r6k/6RP/4K1P1/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "17:50:16"]
+
+ *
+
+
+[Event "Lichess Practice: Practical Rook Endings: R2p vs R - Stalemate Trick"]
+[Date "2022.07.07"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "R2p vs R - Stalemate Trick"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/ceGQbK3C"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/8/8/2r4k/6p1/1R4Kp/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.07"]
+[UTCTime "22:11:09"]
+[ChapterMode "gamebook"]
+
+{ Currently, black isn't threatening anything, so we can play a waiting move. Play Ra3 to continue the exercise. } { [%cal Gb3a3] }
+1. Ra3 Kg5 { [%cal Ga3b3] } 2. Rb3 Rc1 { Black is threatening Rg1+. } 3. Rb5+ Kf6 { Bring the rook to b4 to attack the g4 pawn. } { [%cal Gb5b4] } 4. Rb4 Rg1+ 5. Kh2 Rg2+ 6. Kh1 Rg3 7. Kh2 Rg2+ 8. Kh1 Kg5 { The white king cannot move so if you give the rook the game will end in a stalemate. } 9. Rb5+ (9. Rxg4+ { This doesn't work because black can capture with the Rook and it won't be a stalemate. }) 9... Kh4 10. Rh5+ Kg3 11. Rxh3+ gxh3 *
+
+
+[Event "Lichess Practice: Practical Rook Endings: Kasparian's Draw"]
+[Date "2022.07.07"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Practical Rook Endings"]
+[ChapterName "Kasparian's Draw"]
+[ChapterURL "https://lichess.org/study/wS23j5Tm/Jg3nkOvR"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/6k1/8/8/7p/1R4p1/2r5/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.07"]
+[UTCTime "22:06:54"]
+[ChapterMode "gamebook"]
+
+{ There are some special cases where rook +2 connected passers vs rook is drawn. Here is one of them.
+
+Here, all what black needs to do is bring the king to help the pawns and the rook, but we can't cut off the king right away since h3 would be winning for black. Therefore white needs to create a threat first. }
+1. Rb4 { With this move, we force Black to play Rh2 to defend the pawn. If Black plays h3, we can get an easy draw with Rg4+ followed by Rxg3. } 1... Rh2 { Now we can cut off the king so it can't help the pawns and the rook since h3 wouldn't work due to Rb3. } 2. Rb6 Re2 { Now we need to recreate the same threat. } 3. Rb4 Rh2 4. Rb6 Kf7 5. Rh6 { Black's rook can't move away since black would lose the pawn. } 5... Ke7 6. Rg6 { The idea is to play Rg4 if black moves the rook away. } 6... Kd7 7. Rh6 { We must keep the rook on either the h- or g- file so that the Black rook can't free itself. } 7... Ke7 8. Rg6 Ra2 9. Rg4 { The point: if black plays h3, g3 is hanging. Black can't make any progress. } *
+
+

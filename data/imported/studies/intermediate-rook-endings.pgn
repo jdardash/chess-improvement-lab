@@ -1,0 +1,307 @@
+[Event "Lichess Practice: Intermediate Rook Endings: Vancura Position"]
+[Date "2022.07.06"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Vancura Position"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/YAqTqI8s"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "R7/6k1/P4r2/3K4/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.06"]
+[UTCTime "15:49:17"]
+[ChapterMode "gamebook"]
+
+{ The Vančura position is not a very common ending. It was studied by Josef Vančura and his analysis was published in 1924. The key idea is to keep giving lateral checks to drive White's king away from the queenside until white pushes the pawn to a7, then to play Ra6 to reach another well-known drawn rook ending.
+
+Note that in the Vančura position, we can't try to do checks from the 1st rank because white's king can hide on a7 and then white will be able to promote the pawn with the help of the rook.
+
+In this position, we can start the sequence of checks with Rf5. }
+1... Rf5+ (1... Rb6 { Also leads to a draw, but play Rf5 to continue the exercise. }) (1... Kh7 { Also leads to a draw, but play Rf5 to continue the exercise. }) 2. Kc6 { White's king is getting closer to help the pawn promote, but it doesn't have any shelter on the queenside for the moment so we can just chase it away. } 2... Rf6+ 3. Kb7 Rf7+ 4. Kb6 Rf6+ 5. Kc5 { We can continue with the same idea. } 5... Rf5+ { If white's king gets back to the queenside, we can just continue our checks and white would not make any progress. } (5... Kh7 { Also leads to a draw, but play Rf5 to continue the exercise. }) 6. Kd4 Rf6 (6... Rf4+ { This position is deceptively tricky. While Rf6 in general is where we want the rook in the Vancura, in this position it is actually forced because if Black plays 6...Rf4+ then white will have the amazing resource 7.Ke5 Rf6 8.Rg8+! simplifying into a winning pawn endgame. }) 7. a7 { Now we can bring the rook to a6 since white pushed the pawn to a7. } 7... Ra6 { And we have reached a well-known drawn rook endgame. } *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: Long Side Defense"]
+[Date "2022.07.06"]
+[Result "*"]
+[Termination "equalize in 7"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Long Side Defense"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/eaeeHN6d"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "r7/3RK1k1/4P3/8/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.06"]
+[UTCTime "15:55:40"]
+
+ *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: Frontal Defense"]
+[Date "2022.07.06"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Frontal Defense"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/5lIa27XB"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "2r5/8/4k3/8/1P6/1K1R4/8/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.06"]
+[UTCTime "15:56:50"]
+[ChapterMode "gamebook"]
+
+{ A frontal defense is best used when the pawn has not advanced to the 5th rank. Despite the Black king being two files away from the passed pawn, the game is still salvageable. Black survives by giving a barrage of checks, preventing the white king from making progress.
+
+First, we need to prevent white from playing b5 right away. }
+1... Rb8 2. Ka4 { Now, we can start the sequence of checks and white will not be able to do anything. } 2... Ra8+ 3. Kb5 Rb8+ 4. Kc5 Rc8+ 5. Kb6 Rb8+ { White has no options but to defend the pawn. } 6. Ka5 Ra8+ 7. Kb5 Rb8+ { White can't make any progress. The game will eventually end in a draw. } *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: When the Frontal Defense doesn't work"]
+[Date "2022.07.06"]
+[Result "*"]
+[Termination "promotion with +500cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "When the Frontal Defense doesn't work"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/CQybY5NW"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "2r5/8/5k2/8/2P5/2K5/8/4R3 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.06"]
+[UTCTime "20:26:02"]
+
+{ [%cal Ga1a8] }
+ *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: Back Rank Defense"]
+[Date "2022.07.02"]
+[Result "*"]
+[Termination "equalize in 10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Back Rank Defense"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/MhmGZ37h"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "R7/8/8/6p1/8/7k/1r6/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.02"]
+[UTCTime "06:38:42"]
+
+ *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: When the Back Rank Defense doesn't work"]
+[Date "2022.07.06"]
+[Result "*"]
+[Termination "promotion with -500cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "When the Back Rank Defense doesn't work"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/y8htrXez"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/8/8/8/8/5pk1/1r6/2R3K1 b Q - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.06"]
+[UTCTime "20:27:10"]
+
+ *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: Rook and Rook Pawn versus Rook"]
+[Date "2022.07.04"]
+[Result "*"]
+[Termination "promotion with +500cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Rook and Rook Pawn versus Rook"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/AknfDdxO"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "K7/P4k2/8/8/8/8/4R3/1r6 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.04"]
+[UTCTime "00:32:14"]
+
+ *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: Holding Against a Rook Pawn"]
+[Date "2022.07.04"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Holding Against a Rook Pawn"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/4vQVBOaV"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "K7/P3k3/8/8/8/8/3R4/1r6 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.04"]
+[UTCTime "02:41:04"]
+[ChapterMode "gamebook"]
+
+{ For rook endings with a rook pawn, as long as the king is 3 files away from the enemy pawn the ending is holdable because Black's king can make it in time to the crucial c7 square when white tries to bring the rook to the b-file to make a bridge. It is important to keep white's king obstructing the pawn with our rook on the b-file.
+
+Move the rook to b3 to continue the exercise. } { [%csl Gc7][%cal Gb1b3] }
+1... Rb3 2. Rd1 { White hasn't made any progress, so we can keep moving our rook on the b-file. Play Rb2. } { [%cal Gb3b2] } 2... Rb2 3. Rh1 { Now white is trying to get to the b-file with Rh8-Rb8. Play Kd7 to bring the king to c7 on time. } { [%cal Ge7d7,Bh1h8,Bh8b8] } 3... Kd7 4. Rh8 Kc7 5. Rb8 { White brought the rook to the b-file, but the king is still obstructing the pawn. Exchanging the rooks here is obviously losing because white can recapture while promoting the pawn. Therefore we need to move our rook to any other file (except the a- and c-file). } { [%cal Gb2h2] } 5... Rh2 6. Rb7+ { Now we need to move our king in a way that white's king will not be able to leave the promotion square to the pawn. Note here that white will not be able to move the king if we move to the d6 or c6 square because of checkmate. } { [%cal Gc7d6,Gc7c6,Gc7c8,Rh2h8] } *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: Advanced Philidor"]
+[Date "2022.07.04"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Advanced Philidor"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/WGNZ2n0k"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "4k3/7R/8/3KPr2/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.04"]
+[UTCTime "02:59:49"]
+[ChapterMode "gamebook"]
+
+{ At first, this might look lost, as 1...Rg5 loses immediately to 2.Kd6. However, there is a way to hold this, with the Philidor idea of using the rook from behind. Bring the rook to f2 to continue the exercise. } { [%cal Gf5f2] }
+1... Rf2 { Now we're getting ready to use the rook from behind to stop the pawn. Obviously Rf1 and Rf3 would have worked as well since it's the same idea. } 2. Kd6 { In this position, we can't play Rd2+ since white can go to e6 and it would be hard to stop the pawn.
+Also note that white is preparing Rh8+ followed by e6+ – e7, and the pawn would be unstoppable. Additionally, if after Rh8+ we get back the rook to f8 white can simply trade and play Kd7, which would again make the pawn unstoppable.
+What is the only move that stops white's threat? } 2... Re2 { With this move, Rh8+ followed by e6+ is useless since the rook is now guarding the e6 square. } { [%csl Ge6][%cal Be8f7,Gf7e6,Ge2e6,Yh7h8] } 3. Rh8+ (3. Ke6 Kf8 4. Kf6 Rf2+ 5. Ke6 Re2 6. Rh8+ Kg7 7. Rh1 Kf8) 3... Kf7 4. Rh7+ { [%cal Gf7g6] } 4... Kg6 5. Rh1 { White realizes that the kingside is too short so they try to reroute the rook to a7. } { [%cal Gg6f7] } 5... Kf7 6. Rf1+ { Kg8 loses due to e6. } { [%cal Gf7e8] } 6... Ke8 7. Ra1 { [%cal Ge8f7] } 7... Kf7 8. Ra7+ { [%cal Gf7e8] } 8... Ke8 9. Ke6 { White is threatening checkmate. } { [%cal Ge8d8] } 9... Kd8 10. Ra8+ Kc7 11. Ra5 { Now we need to get back to our important squares before white prevents us from doing so. } { [%csl Bf8,Be8,Bd8] } 11... Kd8 12. Kd6 { [%cal Ge2d2] } 12... Rd2+ 13. Ke6 { [%cal Gd2e2] } 13... Re2 { White hasn't made any progress and the game will eventually end in a draw. } *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: Making Use of the Umbrella"]
+[Date "2022.07.07"]
+[Result "*"]
+[Termination "mate"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Making Use of the Umbrella"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/CU2ErkDp"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "5k2/1R6/5P2/6p1/r5K1/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.07"]
+[UTCTime "22:18:49"]
+
+ *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: A Position From Dvoretsky"]
+[Date "2022.07.03"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "A Position From Dvoretsky"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/L3kh6vbe"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/8/8/3K4/8/p7/7R/1k6 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.03"]
+[UTCTime "18:30:52"]
+[ChapterMode "gamebook"]
+
+{ We covered all the Rook and Pawn vs Rook positions, the next 4 chapters are about a rook vs one or more pawns.
+
+This position comes from Dvoretsky's endgames manual. The idea is to bring the king in a way that black's promotion to a queen doesn't come with a check, so white can checkmate black with the rook. }
+1. Kc4 a2 2. Kb3! a1=Q { White would still be winning even if black would have promoted to a knight with check. } 3. Rh1# *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: Rook versus Two Pawns"]
+[Date "2022.07.04"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Rook versus Two Pawns"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/qvNhB8Io"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "1k6/8/7P/5KP1/8/8/8/7r w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.04"]
+[UTCTime "03:34:41"]
+[ChapterMode "gamebook"]
+
+{ The key idea is to park the king on h7 and advance the g-pawn. If we try to advance the h-pawn we will actually be too slow. }
+1. Kg6 (1. g6 { Doesn't work due to the intermediate move Rh5+. Remember this resource! } { [%cal Rh1h5] }) 1... Kc7 2. Kh7 (2. Kg7 { This doesn't work because black's king will come to f5 just in time. }) 2... Kd7 3. g6 Ke7 4. g7 { One of the two pawns will eventually promote to a queen. } *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: Outflanking"]
+[Date "2022.07.06"]
+[Result "*"]
+[Termination "+500cp in 6"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "Outflanking"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/8eJmetJ0"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/4K3/8/3k4/3p4/8/8/3R4 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.06"]
+[UTCTime "21:30:37"]
+
+{ [%cal Gd7c6,Gd5e4,Bd5c4,Bd7e6,Ge7d7] }
+ *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: A study by Saavedra"]
+[Date "2022.07.06"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "A study by Saavedra"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/n9DF8U7O"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/8/1KP5/3r4/8/8/8/k7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.06"]
+[UTCTime "21:52:17"]
+[ChapterMode "gamebook"]
+
+{ This is a very well-known study named after Fernando Saavedra. Try to solve it! }
+1. c7 Rd6+ 2. Kb5 Rd5+ 3. Kb4 Rd4+ 4. Kc3 Rd1 5. Kc2 Rd4 { Kb3 and Kc3 work here as well here but it would transfer to the same position. } 6. c8=R Ra4 7. Kb3 { White is winning. } *
+
+
+[Event "Lichess Practice: Intermediate Rook Endings: A Tricky Resource"]
+[Date "2022.07.04"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Intermediate Rook Endings"]
+[ChapterName "A Tricky Resource"]
+[ChapterURL "https://lichess.org/study/heQDnvq7/pUZlG36u"]
+[Annotator "https://lichess.org/@/Lichess"]
+[FEN "8/8/2R5/4K1k1/8/pp6/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2022.07.04"]
+[UTCTime "03:07:55"]
+[ChapterMode "gamebook"]
+
+{ At first glance, it looks like White may have lost this game, as Black's pawns have made it all the way to the 6th rank. However, there is one last drawing trick. }
+1. Rc1! { White tries to setup a mating net. } 1... a2 2. Rg1+ Kh4 3. Kf4 Kh3 4. Kf3 (4. Rh1+ { Also draws, but play Kf3 to continue with the same idea of keeping threatening checks. } 4... Kg2 5. Ra1 Kf2 6. Ke4 Ke2 7. Kd4 Kd2 8. Kc4 Kc2 9. Kb4 Kb2 10. Rh1 { and White can sacrifice the rook to win both pawns. }) 4... Kh4 { Black needs to keep moving the king to not be mated. Kh2 wouldn't have worked due to Ra1 and Black would have been in zugzwang. } (4... Kh2? 5. Ra1 { and Black is in zugzwang. }) 5. Kf4 Kh5 { Black needs to keep preventing checkmate on h1, the game will eventually end in a draw. } *
+
+

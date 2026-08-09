@@ -1,0 +1,32 @@
+{
+ "games": [
+  {
+   "url": "https://www.chess.com/game/live/24957649175",
+   "pgn": "[Event \"Live Chess\"]\n[Site \"Chess.com\"]\n[Date \"2021.09.09\"]\n[Round \"-\"]\n[White \"joshuadardashti\"]\n[Black \"Hoss13110\"]\n[Result \"0-1\"]\n[CurrentPosition \"r2q1r2/ppp3kp/3p1p1N/n1bPp1p1/2B1P3/N1P5/PP3PPP/R1B2RK1 w - -\"]\n[Timezone \"UTC\"]\n[ECO \"C50\"]\n[ECOUrl \"https://www.chess.com/openings/Italian-Game\"]\n[UTCDate \"2021.09.09\"]\n[UTCTime \"20:15:38\"]\n[WhiteElo \"929\"]\n[BlackElo \"908\"]\n[TimeControl \"600\"]\n[Termination \"Hoss13110 won - game abandoned\"]\n[StartTime \"20:15:38\"]\n[EndDate \"2021.09.09\"]\n[EndTime \"20:20:43\"]\n[Link \"https://www.chess.com/game/live/24957649175\"]\n\n1. e4 {[%clk 0:09:57.9]} 1... e5 {[%clk 0:09:58.8]} 2. Nf3 {[%clk 0:09:49.7]} 2... Nc6 {[%clk 0:09:55.8]} 3. Bc4 {[%clk 0:09:40.2]} 3... Nh6 {[%clk 0:09:49.7]} 4. d4 {[%clk 0:09:31.8]} 4... f6 {[%clk 0:09:42.6]} 5. d5 {[%clk 0:09:25.1]} 5... Na5 {[%clk 0:09:38.4]} 6. Na3 {[%clk 0:09:02]} 6... Bb4+ {[%clk 0:09:33.5]} 7. c3 {[%clk 0:08:54.2]} 7... Bc5 {[%clk 0:09:30]} 8. O-O {[%clk 0:08:38.8]} 8... Ng4 {[%clk 0:09:20.8]} 9. Nh4 {[%clk 0:08:20.6]} 9... g5 {[%clk 0:09:13.4]} 10. Qxg4 {[%clk 0:08:16.7]} 10... d6 {[%clk 0:09:07.6]} 11. Qf5 {[%clk 0:08:07.2]} 11... Bxf5 {[%clk 0:09:05.5]} 12. Nxf5 {[%clk 0:08:02.1]} 12... O-O {[%clk 0:09:00.5]} 13. Nh6+ {[%clk 0:07:27.9]} 13... Kg7 {[%clk 0:08:45]} 0-1\n",
+   "time_control": "600",
+   "end_time": 1631218843,
+   "rated": true,
+   "tcn": "mC0Kgv5QfA!VlB1TBJQGbq9zkszIegVEvF2MdEZREL6LFL8!LV!2",
+   "uuid": "ab4326ca-11aa-11ec-8423-09ff3c010001",
+   "initial_setup": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+   "fen": "r2q1r2/ppp3kp/3p1p1N/n1bPp1p1/2B1P3/N1P5/PP3PPP/R1B2RK1 w - -",
+   "time_class": "rapid",
+   "rules": "chess",
+   "white": {
+    "rating": 929,
+    "result": "abandoned",
+    "@id": "https://api.chess.com/pub/player/joshuadardashti",
+    "username": "joshuadardashti",
+    "uuid": "a77783a8-a866-11ea-afec-4dbad125e4ac"
+   },
+   "black": {
+    "rating": 908,
+    "result": "win",
+    "@id": "https://api.chess.com/pub/player/hoss13110",
+    "username": "Hoss13110",
+    "uuid": "3f6d4a9e-e41b-11eb-a1d5-6351666470db"
+   },
+   "eco": "https://www.chess.com/openings/Italian-Game"
+  }
+ ]
+}

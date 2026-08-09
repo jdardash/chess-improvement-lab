@@ -1,0 +1,608 @@
+[Event "Rook Endgames You Must Know!: Introduction"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Introduction"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/TIzZvlDP"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/K5k1/P7/8/8/8/8/1r6 w - - 21 11"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+{ Welcome to another instructive study by NoseKnowsAll. This interactive study takes you through the most important rook endgames to master. Since rook endgames occur in 9% of all games, there are truly important concepts to learn here! This study is split into two parts: the first is for intermediate players rated <2000 lichess, and the second is for advanced players >2000 lichess. For those of you at the lower end of this rating range, take your time and try to see why other ideas may not work out. For those at the top, master these positions so you can nail them in blitz games!
+
+Please check out the first four studies in this series before continuing. Importantly, understanding of the king and pawn endgames will be assumed throughout this study.
+
+* Beginner endgames you must know https://lichess.org/study/wukLYIXj
+* Intermediate endgames you must know https://lichess.org/study/UsqmCsgC
+* More endgames you must know https://lichess.org/study/xtDSXkyi
+* Advanced endgames you must know https://lichess.org/study/UO2zqigQ
+
+Throughout this study, I will also provide general endgame tips that these important endgames showcase. Whenever this general advice occurs, I'll write it just like this:
+
+PRO TIP: Always bring your king up in the endgame!
+
+If you find this study useful, please heart it and share it with any friends! }
+ *
+
+
+[Event "Rook Endgames You Must Know!: Fundamental rook endgames"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Fundamental rook endgames"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/BFxUyatg"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "1K1k4/1P6/8/8/8/8/r7/2R5 w - - 1 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+{ First let's explore the most fundamental rook endgames that every chess player should learn as early as possible in their chess career. There will be some overlap between the beginning of this study and my intermediate endgames study https://lichess.org/study/UsqmCsgC, so feel free to skip the next four chapters if you have already mastered those endgames. }
+ *
+
+
+[Event "Rook Endgames You Must Know!: The Philidor position"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "The Philidor position"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/s1leBBJn"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "4k3/1R6/r7/4PK2/8/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ The Philidor position is an important building block in understanding the more complicated rook endgames. I have already covered the important ideas of how to draw this position in a previous study: https://lichess.org/study/UsqmCsgC/TLY9KWwB Please check it out to fully learn about this position!
+
+In this study, let's review what we have already learned... }
+1... Rc6 { Black's king is blockading the passed pawn, and black's rook patrols the 3rd (in this case 6th) rank. Since this is already the perfect setup, black is happy to sit and wait for white to try and make progress. } (1... Kf8!? { An alternative method of sitting and waiting. Black's king must stay near the e8 square. }) 2. Rb8+ Ke7 3. Rb7+ Ke8 { As long as black's king blockades the passed pawn, black is happy to repeat and draw this position. No progress here. } 4. Rh7 Ra6 { If white isn't doing anything, black should just keep waiting with the rook on the 3rd rank. } 5. Rh8+ Ke7 6. Rh7+ Ke8 { There simply is no progress to be made unless white pushes the pawn. } 7. e6 Ra1! { The crucial move! As soon as the pawn reaches the 3rd rank, black needs to immediately switch tactics. Now that the pawn is on the 3rd rank, the white king has no shelter from checks from behind. } (7... Ra4?! { PRO TIP: When giving checks with the rook, we want the rook as far away from the enemy king as possible to avoid the king being able to sidestep the check and attack our rook.
+Here the rook is too close to the king to effectively give checks from behind. } 8. Kf6 Rf4+ 9. Ke5 Rf1 $10 { Thankfully, we can fix our mistake and return to the mainline below. }) 8. Kf6 (8. Rh5 Rf1+ 9. Kg6 Rg1+ 10. Rg5 { If white is going through contortions in order to stop the checks, then the white rook cannot simultaneously remain actively placed. White isn't making progress towards queening the pawn, so black can simply reset the rook's position and wait. } 10... Ra1 11. Kf6 Rf1+ 12. Rf5 Ra1 13. e7 Rg1 $10 { If white wants to push black's king away from the queening square, they will have to allow perpetual check. }) 8... Rf1+ 9. Ke5 Re1+ 10. Kd6 Rd1+ 11. Kc6 Rc1+ 12. Kd6 (12. Kb6 Re1 $10 { Besides giving perpetual check, black can also return to directly attacking the pawn if the white king travels too far. }) 12... Rd1+ $10 { Draw by perpetual check. } *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 1: Reaching the Philidor"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 1: Reaching the Philidor"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/7LSvVgLj"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "4k3/7R/8/3KP3/8/8/r7/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+1... Ra6! { Black takes control of the 3rd rank, and ensures that the white king cannot advance. } (1... Rd2+?? { After Ke6, the white king finds shelter from our checks. Our king will be forced away from its blockade. } 2. Ke6 Kd8 3. Rh8+ Kc7 4. Kf6 $18) 2. e6 Ra1! { Nice! Now that the pawn has pushed, we prepare to perpetually check the white king from behind. } 3. Kd6 Rd1+ 4. Ke5 Re1+ 5. Kf6 Rf1+ 6. Kg6 Rg1+ 7. Kf6 Rf1+ 8. Ke5 Re1+ { White has no choice but accept the draw by perpetual check. } *
+
+
+[Event "Rook Endgames You Must Know!: The Lucena position: Building the \"bridge\""]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "The Lucena position: Building the \"bridge\""]
+[ChapterURL "https://lichess.org/study/bnboDhFM/31bASWi4"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "1K1k4/1P6/8/8/8/8/r7/2R5 w - - 1 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ This is the famous Lucena position in which white will be able to queen this pawn. The crucial factors in the position are: white's king is in front of his own pawn, black's king is cut-off from the pawn by our rook, and white's rook is far away from the black king.
+
+While my other study https://lichess.org/study/UsqmCsgC/j8DhngCd discusses it, this study will explore the variations in detail! }
+1. Rd1+! { First we seek to force the black king further away from our pawn. } 1... Ke7 2. Rd4! { The all-important move. We shall see exactly why the rook belongs on the 5th rank (in this case 4th rank) in a second. } 2... Ke6 { Black cannot stop our king from reaching either c7 or a7 next move, so black waits... } 3. Kc7! { Black cannot allow us to queen next move, so must desperately attempt to find a perpetual check. } 3... Rc2+ 4. Kb6 Rb2+ 5. Kc6 (5. Kc5?? Rxb7 $10 { Don't get hasty walking your king too far up the board and accidentally abandon the pawn! }) 5... Rc2+ (5... Rb1!? { Black sees that we're not threatening to queen the pawn and can try to get creative with a waiting move. } 6. Re4+ { With the king's in opposition, why not force the black king further away before optimally positioning our rook? } 6... Kf7 7. Rc4 $18 { White has stopped any c-file checks and will play Kc7 and b8=Q next. }) 6. Kb5 Rb2+ 7. Rb4! { The bridge is complete, and the mystery behind 2. Rd4 is revealed. Our king is now safe from checks for one move, and the b pawn is queening next. } 7... Rxb4+ 8. Kxb4 Kd7 9. b8=Q $18 { White promotes and wins the game. } *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 2: The crucial Lucena move"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 2: The crucial Lucena move"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/G2IPcfuQ"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "1K6/1P6/4k3/8/8/8/1r6/3R4 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+{ The black king has just been forced two files away from our pawn. But how do we actually promote? }
+1. Rd4! { Excellent, white begins building the bridge. } (1. Ra1 { Yes this move equally wins immediately. But let's work on "building the bridge" in this exercise. }) (1. Kc7?! { It's too early to move our king. There's still no escape from the perpetual rook checks. }) (1. Ka7?! { It's too early to move our king. There's still no escape from the perpetual rook checks. }) 1... Rb1 (1... Ke5?! 2. Ra4 Kd6 3. Ka7 Kc7 4. Rc4+ Kd7 5. b8=Q Rxb8 6. Kxb8 $18) 2. Kc7 (2. Ka7 { This move works equally well. Play Kc7 instead for the solution. }) 2... Rc1+ 3. Kb6 Rb1+ 4. Kc6 (4. Ka6 { This move works equally well. Play Kc6 instead for the solution. }) (4. Ka5?? { Oh no your pawn! } 4... Rxb7 $10) (4. Kc5?? { Oh no your pawn! } 4... Rxb7 $10) 4... Rc1+ 5. Kb5 Rb1+ 6. Rb4 $18 { After walking a tightrope, the white king is now safe from checks, and the pawn promotes next. } *
+
+
+[Event "Rook Endgames You Must Know!: Escorting two connected passed pawns"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Escorting two connected passed pawns"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/K3D7TWQM"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "k7/8/6R1/7P/6P1/8/K7/7r w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ This rook and pawn endgame is often reached in blitz games. Black's rook is behind the passed pawn(s), but is helpless to stop them. Notice how the white rook and pawns all defend each other in this configuration.
+
+The key to promoting these connected pawns is performing what I call the "Slinky" maneuver. }
+1. h6 { First the lead pawn is pushed. } 1... Kb7 2. g5 { Then the base pawn is pushed, defending the lead pawn. } 2... Kc7 3. Rg7+ { Finally the rook lands on the protected square in front of the lead pawn. The "Slinky" has moved forward, making progress towards the queening squares. } 3... Kd6 4. h7 Ke6 5. g6 Kf6 6. Rg8 $18 { Repeating the Slinky maneuver. h8=Q is coming next. } *
+
+
+[Event "Rook Endgames You Must Know!: The rook in front of the pawn"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "The rook in front of the pawn"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/fhx3V0Q2"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/P4k2/8/8/8/8/5K2/r7 b - - 11 6"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ Black's rook is optimally placed behind the passed pawn, whereas white's rook is stuck on a8, defending the pawn from the front. If the roles were reversed, white would be trivially winning, but here black has enough for a draw.
+
+However, as we shall soon see, black's king is in a dangerous location. White to move here would actually win! }
+6... Kg7! { Black's king reaches one of only two safe squares on the board (g7 and h7). Please see the sidelines below to understand why these are the only two available squares. Now that white has no tricky rook moves, the only winning attempt is to bring the king into the action. } (6... Ra3?? { Black's king is too close to the pawn, and so allows a skewer: } 7. Rh8! Rxa7 (7... Kg7 8. a8=Q $18) 8. Rh7+! Ke6 9. Rxa7 $18) (6... Ke6?? { Black cannot avoid the skewer by approaching the pawn with the king either because leaving the 7th rank allows a winning rook check: } 7. Re8+! Kf7 8. a8=Q $18) (6... Ke7?? { The same skewer! } 7. Rh8! Rxa7 8. Rh7+ Kd6 9. Rxa7 $18) 7. Ke3 Kh7 { As long as black stays on g7 and h7, the a8 rook is forced to defend the pawn forever. } 8. Kd4 Kg7 9. Kc5 Kh7 10. Kb6 { With the king defending the pawn, white finally threatens to move the rook and promote next. Black must act now. } 10... Rb1+! { White's king has no shelter from checks unless it leaves the defense of the pawn. } 11. Ka6 Ra1+ 12. Kb7 Rb1+ 13. Kc6 Ra1! { As soon as the king is forced away from the pawn, black's rook again gets behind the pawn. No progress here. } 14. Kb5 { White tries one last strategy - kicking the rook away from the a file. } 14... Kg7 15. Kb4 Kh7 16. Kb3 Kg7 17. Kb2 Ra6! { But black does not budge from the important a file. } 18. Kb3 Kh7 19. Kb4 Kg7 20. Kb5 Ra1! 21. Kb6 Rb1+! $10 { As we have now seen, white cannot make progress. The game will be drawn by the 50 move rule. } *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 3: A huge mis-step"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 3: A huge mis-step"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/8j8AeKf3"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/P4k2/8/8/8/8/r7/7K b - - 42 22"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+22... Ke7?? { Black has trapped your king on the back row, and thinks that they can now rush their king over to capture the a pawn and end the game immediately. Can you prove that this last move was a horrible blunder? } 23. Rh8! (23. Rg8!? $18 { This technically wins as well, but it's good practice to move your rook as far away from your opponent's king as possible. Play Rh8 instead for the solution. }) 23... Rxa7 { You were threatening to promote, so black was forced to take your pawn. What next? } 24. Rh7+ Kd6 25. Rxa7 $18 { Nicely done! Up a full rook, white is now easily winning. } *
+
+
+[Event "London 1922"]
+[Date "August 14, 1922"]
+[Round "11"]
+[White "Henry Atkins"]
+[Black "Jose Raul Capablanca"]
+[Result "0-1"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Push your majority!"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/ICsyfxMP"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "2r5/3k2pp/1pn1p3/p7/P1pP4/4B2P/RP1K1PP1/8 b - - 0 1"]
+[SetUp "1"]
+
+{ As always, we interrupt our theoretical endgame knowledge to consider some practical endgames. Here, we join Capablanca in an endgame where the knight is better than the bishop, and black has a queenside majority while white does not have a kingside majority. }
+1... Kd6 { As always, it's necessary to maximize the king activity before taking decisive action. } 2. Kc3 Kd5 3. Ra1 g6 { Capablanca moves this one pawn off of a dark square so that there will never be a target in his position for the bishop. } 4. f3 Rb8! 5. Ra3 b5! { Push your majority! The pawn must be taken, as b4+ is devastating. } 6. axb5 Rxb5 { The rook is now actively placed on an open file targeting b2. The threat of Rb3+ also ensures that white's rook must remain on a3. Capablanca has pushed his queenside majority and is one step closer to creating a passed pawn. } 7. Bf2 Nb4 8. b3 { White desperately tries to offload the backwards b pawn while he has the chance, a good idea. However, this leaves Capablanca with a passed a pawn, and a plan: push it. } 8... cxb3 9. Kxb3 (9. Rxb3? Na2+ 10. Kc2 Rxb3 11. Kxb3 Nc1+ $19 { A classic good knight vs bad bishop endgame. } { [%cal Gc1e2] }) 9... Nc6+? { A rare Capablanca endgame inaccuracy! } (9... Nd3+! { Attacking the f2 bishop means white's next move is forced. } 10. Ka4 Rb2! 11. Rxd3 Rxf2 12. g4 Ra2+ 13. Kb5 g5 $17 { Capablanca probably avoided this rook and pawn endgame out of fear that pawns would liquidate and this would end in a draw. In reality, black is much better. }) 10. Kc3 Rb1 { Capablanca retains his good knight, active rook, passed a pawn, and winning chances, but the win is not easy. } 11. Ra4?! Rc1+ 12. Kd2? (12. Kd3! { Stopping Rc4 is necessary to keep the a5 pawn under control. } 12... Nb4+ 13. Ke3 Nc2+ 14. Kd3 Ra1 15. Rxa1 Nxa1 16. Kc3 a4 17. Kb4 Nb3 18. Kxa4 Kc4 $17 { With best play, Atkins could have reached this good knight vs bad bishop endgame where his king is completely out of play. It is unclear whether or not black has enough to win. }) 12... Rc4! { a4 is now under Capablanca's control, and the passed a pawn is ready to be pushed. } { [%cal Bc4a4] } 13. Ra1 a4 14. Ra3 Na7! (14... Nxd4 15. Bxd4 Kxd4 $19 { Also winning, but why trade black's best piece for white's worst piece? }) 15. Ra1 Nb5 { Capablanca now takes control over a3 in order to escort the passed pawn further up the board. } { [%cal Bb5a3] } 16. Rb1 Kc6 17. Kd3 Rc3+ 18. Kd2 Rb3 19. Rc1+ (19. Rxb3?! axb3 $19 { The pawn controls the light squares, and the knight controls the dark squares. Black is easily winning after getting his king to a3. }) 19... Kb7 (19... Kb6?? 20. d5+ $16 { Staying on the color opposite your opponent's bishop is good practice. }) 20. Rc2 a3 21. Bg3?! { Atkins keeps giving away the d pawn, recognizing that his bishop will never be in play if it must passively defend the d pawn. } (21. Be3 Ka6 22. Bf2 Ka5 $19 { Even here, black's plan is simple: control a2 and then push the pawn. }) 21... Nxd4 22. Rc7+ Kb6 23. Rc4 { In exchange for the d pawn, Atkins activated his pieces for the first time this game. } 23... Kb5! 24. Rc8 { Well, Atkins probably thought that he had activated his pieces. But both are poorly placed to control the a pawn. } (24. Rxd4?? a2 $19 { a1=Q is unstoppable next. } { [%cal Ga2a1] }) 24... Nc6! { After Nb4, a2 is securely defended. } { [%cal Gc6b4,Bb4a2] } 25. Ra8 Rb2+ 26. Ke3 Rxg2 27. Bf2 Nb4! $19 { White resigned rather than allow a2 or Rxa3?? Nc2+. This passed pawn is completely out of control. } { [%cal Bb4a2] } 28. Rxa3? (28. Rxa3? Nc2+ 29. Ke2 Nxa3 $19) (28. Ke2 a2 $19) 28... Nc2+ 29. Ke2 Nxa3 $19 0-1
+
+
+[Event "Rook Endgames You Must Know!: Advanced rook endgames"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Advanced rook endgames"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/uJBw0bG0"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/P5k1/8/8/8/8/r4P2/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+{ We've now mastered the fundamental rook endgames that every chess player should learn. Be sure to give this study a like if you feel you have improved your endgame knowledge! You can then revisit these endgames later to refresh your memory.
+
+Now it's time to explore more complicated rook endgames. These endgames are rarer (and indeed more subtle), but are only more complicated than the previous positions because they require a complete understanding of the building-block positions we've just explored. This upcoming material will be mostly designed for players with a lichess rating >2000, but anyone who feels comfortable with the previous positions is welcome to explore as well! }
+ *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 4: Black prevents the bridge"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 4: Black prevents the bridge"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/QBbdKFBx"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "1K1k4/1P6/8/8/r7/8/8/2R5 w - - 1 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+{ Let's start with an exercise! We know that in the Lucena position, white's rook belongs on the 4th rank in order to build the bridge. But how to build the bridge if black prevents the rook from reaching the 4th rank? }
+1. Rd1+! Ke7 { Same question: How to build the bridge if black prevents the rook from reaching the 4th rank? } 2. Kc7! Rc4+ { Exactly! With black's rook so close to queening square, the white king can immediately perform the same maneuver we've already seen. No bridge necessary! } 3. Kb6 Rb4+ 4. Kc6 (4. Kc5?? { Oh no your pawn! } 4... Rxb7 $10) (4. Ka5?? { Oh no your pawn! } 4... Rxb7 $10) (4. Ka6 $18 { Equally good. Play Kc6 instead for the solution. }) 4... Rc4+ 5. Kb5 { Now that the king attacks the rook, white gains a crucial tempo, allowing the pawn to promote next.
+PRO TIP: When giving checks with the rook, we want the rook as far away from the enemy king as possible to avoid the king being able to sidestep the check and attack our rook. } 5... Rc2!? { Black has one last trick! } 6. Rb1! $18 { Once the skewer is avoided, black is out of tricks. The b pawn will promote next. } { [%cal Gb7b8] } (6. b8=Q?? { Don't promote too quickly! After Rb2+ you're losing your new queen! } 6... Rb2+ 7. Kc6 Rxb8 $10) (6. Rd4! { Yes, we can revert to the bridge method here too. Play Rb1 instead for the solution. }) (6. Rd8) *
+
+
+[Event "Rook Endgames You Must Know!: The Lucena rook pawn"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "The Lucena rook pawn"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/Z63OnPmR"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "K7/P4k2/8/8/8/8/1r6/4R3 w - - 1 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ As always, rook pawns are the hardest to promote. The default procedure of building a bridge in this position will get white nowhere, since black controls the b file and traps the white king in the corner. In fact, if the black king was closer than the f file, this position would actually be drawn.
+
+However, with the black king cut off by at least 4 files, white can win in the following manner: }
+1. Rc1! { PRO TIP: In rook endgames, cutting the opponent's king off from the remaining pawns with your rook is often a good idea. With their king away from the action, you are essentially playing up a piece in the endgame! } 1... Ke7 2. Rc8! (2. Rc7+?? { A reasonable try, but it does not solve the issue of the trapped king. } 2... Kd6 3. Rb7 Rh2! 4. Rb8 Kc6! $10 { White's king is not actually escaping! }) 2... Kd6! { We will soon see why this king move is far and above the best try for black. } (2... Kd7?! { This alternative king move lets white's king out without any issues. } 3. Rb8! Ra2 4. Kb7! Rb2+ 5. Ka6 Ra2+ 6. Kb6 Rb2+ 7. Kc5 $18 { With no more checks, the pawn is promoting next. }) 3. Rb8! { White needed three moves in order to finally gain control of the b file. Black's king being at least 4 files removed from the action ensured that there was time for this maneuver. } 3... Ra2 4. Kb7 { Finally, the king can escape the corner. } 4... Rb2+ 5. Kc8 Rc2+ 6. Kd8 Rh2! { Now we see why black played Kd6 earlier. If black's king was on any other square in this position, a8=Q immediately wins. However, by now threatening checkmate, black once again prevents white from promoting. } 7. Rb6+! (7. a8=Q?? Rh8#) 7... Kc5! { Yet again black prevents white from promoting due to the skewer on the 8th rank. If only white could queen with check, there would be no threat of a skewer... } 8. Rc6+!! Kxc6 (8... Kd5!? 9. Ra6! $18 { The skewer is avoided, white's king can escape the rook checks, and a8=Q is coming next. }) 9. a8=Q+ { White queens with check and reaches a winning queen vs rook endgame. Under normal circumstances, this endgame is quite tricky to win, but with the rook stranded so far away from the king, the win in this position is quite direct. } 9... Kc5 10. Qc8+ { With a series of checks, white will pick off the undefended rook. } 10... Kd4 11. Qg4+ Kd5 12. Qf5+ Kc6 13. Qd7+ Kc5 14. Qc7+ $18 { Please do not try and memorize these queen checks. Instead, notice that each check forces the black king further away from the rook and/or onto a dark square from which there is an inevitable fork. } { [%cal Rc7c5,Rc7h2] } *
+
+
+[Event "Rook Endgames You Must Know!: Failing to reach the Vancura position"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Failing to reach the Vancura position"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/j35j1C41"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/6k1/P7/8/8/5K2/8/r7 b - - 11 6"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ We have another rook and pawn endgame where the stronger side has unfortunately placed their rook in front of the passed pawn. However, white has played this cleverly by not pushing the pawn to the 7th rank. With the pawn still on a6, there are chances for the white king to reach refuge from black's vertical checks: the a7 square. }
+6... Kh7?? { If black plays this endgame like the previous one, the position is hopeless. } (6... Rf1+! $10 { The correct way forward: See the next chapter for why this move works. }) 7. Ke4 (7. a7?? $10 { Pushing the pawn prematurely leads to a draw that we have already explored! }) 7... Kg7 8. Kd5 Kh7 9. Kc6 Kg7 10. Kb7 Rb1+ 11. Ka7! { White is safe from checks, and can finally move the rook. } 11... Kf7 12. Rb8 Rc1 13. Kb7 { Threatening a7, after which a8=Q is unstoppable. } 13... Rb1+ (13... Ke7?! 14. a7 Rb1+ 15. Kc6 $18 { Transposing to the main line, but with worse defense. }) 14. Ka8 Ra1 15. a7 { a7 is achieved while the white king is not trapped in the corner. White is now clearly winning. } 15... Ke7 16. Kb7 Rb1+ 17. Kc6 Rc1+ 18. Kd5 Rd1+ 19. Kc4 Rc1+ 20. Kd3 Rd1+ 21. Kc2 { No more checks. } 21... Ra1 22. a8=Q Rxa8 23. Rxa8 $18 { PRO TIP: One can always escape a rook's perpetual check attempt by zigzagging with the king towards the rook until the rook is attacked and forced away. } *
+
+
+[Event "Rook Endgames You Must Know!: The Vancura position"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "The Vancura position"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/yACsUxom"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/6k1/P7/8/8/5K2/8/r7 b - - 11 6"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ Now let's explore the correct defense in this position, known as "the Vancura position." }
+6... Rf1+! 7. Ke4 Rf6! { Black must attack the pawn from the side instead of from behind in this key position. Atypical? Yes. But this move still ensures the enemy rook must stay on a8 to defend the pawn. This is known as the Vancura defense. } 8. Kd5 (8. a7?! Ra6 $10 { Black must always be ready to reach the drawn position we've previously explored in case white pushes the pawn to a7. }) 8... Rb6 { As long as black attacks the pawn horizontally, white cannot make further progress. } 9. Kc5 Rf6 { While this move is not strictly forced (Re6 also holds), keeping the rook on a defended square means the white king can never gain a tempo on an undefended rook. } 10. Kb5 { White once again defends the pawn and therefore frees the a8 rook to move again... } (10. Ra7+ Kg8 11. Kb5 Rf5+! $10 { No progress for white here either. }) 10... Rf5+! { Check! Just as we've seen before, white cannot keep the pawn defended and avoid perpetual checks. The key difference is that black must now check from the side instead of from behind. } 11. Kb6 Rf6+ 12. Ka7 Rf7+ 13. Kb8 Rf8+ 14. Kb7 Rf7+ 15. Kc6 Rf6+ 16. Kd7 Rf7+ 17. Ke6 Rf6+ 18. Kd5 Rb6 $10 { White has made no progress and black repeats the position once. No progress can be made here. } *
+
+
+[Event "Rook Endgames You Must Know!: A trick in the Vancura"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "A trick in the Vancura"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/AzuvupGO"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/6k1/P7/8/5K2/8/8/r7 b - - 20 11"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ We are still in the Vancura position, but white's king is more active than before. We know that the rook belongs on f6, but heading there directly loses to an important trick. }
+11... Rc1! { A move to memorize! Black is trying to reach the Vancura position via a different route: Rc1-c6-f6. } (11... Rf1+?? { The direct Vancura maneuver to f6 does not work if white's king can attack the f6 square in the next move. } 12. Ke5! { [%cal Re5f6] } 12... Rf6 { [%cal Re5f6] } 13. Rg8+! { [%cal Re5f6] } 13... Kxg8 { [%cal Re5f6] } 14. Kxf6 $18 { White's pawn will queen next. }) (11... Rb1?? $18 { Superficially looks similar to the main line, but now white will have Rb7, gaining a key tempo on our unprotected rook in some lines. This position will be fully explored in Exercises 9 and 10. }) 12. Rb8 (12. Ke5?! Rc6 13. Kd5 Rf6 $10 { If white does nothing immediately, black directly transposes to the Vancura position proper. Draw. }) (12. Ra7+?! Kg6! 13. Ke5 Rc6 14. Kd5 Rf6 $10 { Again transposing to the Vancura position. }) 12... Ra1! { It's crucial that any time the white rook undefends the pawn, black is able to get behind it immediately. } 13. Ra8 (13. Rb7+?! Kf6 14. a7 Ke6 $10 { Black's rook is firmly behind the passed pawn. White cannot prevent the king from reaching b6 after which the a pawn will fall. } { [%cal Ge6b6,Rb6a7] }) 13... Rc1! 14. Rb8 Ra1! { Black is happy to repeat the position... } 15. Rb6!? { If white does not wish to repeat the position, this is the only way to create trouble. } 15... Ra5!! { Another key move to remember. Black must cut off the king from the bottom half of the board or the pawn will push through: } { [%cal Ba5h5,Ba5a8] } (15... Kf7?? 16. Ke5! Ke7 17. Rb7+! Kd8 18. a7! $18 { Black cannot stop Rb8+ followed by a8=Q. }) 16. Ke4 Kf7 { Both sides rush over to the pawn now. Thankfully black is in time here. } 17. Kd4 (17. Rh6!? Kg7 18. Rb6 Kf7 $10) 17... Ke7 18. Kc4 Kd7 19. Kb4 Ra1 20. Kc5 Kc7 21. Rb7+ Kc8 22. Kb6 { The white king will be able to reach safety from the checks, but black's king is now so active that white will never be able to escape the a file. } 22... Rb1+ 23. Ka7 Ra1 24. Rb6 Kc7! $10 { As long as black's king prevents white's king from leaving the a file, the game is drawn. } *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 5: The issue with memorization"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 5: The issue with memorization"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/un0tfzQw"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "8/5k2/P6R/r7/4K3/8/8/8 b - - 31 17"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+17... Ke7?? { This is the issue with blindly memorizing endgame variations without taking the time to understand them. Black saw this was a Vancura position and remembered that in this variation he could safely walk his king towards the pawn in order to win it. Here, however, the white rook is placed on h6 instead of the usual b6. Why does the usual plan not work in this exact position? } 18. a7! (18. Kd4?? { After Kd7, the position is drawn. } 18... Kd7 $10) 18... Kd7 { Exactly! The usual skewer trick ensures that the pawn cannot be taken. Still, black's king is so close to stopping the pawn for good... } 19. Rh8! { Perfect! The pawn threatens to queen next and so must be taken. } 19... Rxa7 20. Rh7+ Kc6 21. Rxa7 $18 { Memorizing these variations is not good enough. You have to understand WHY the moves are being made if you want to truly learn these endgames! } *
+
+
+[Event "Rook Endgames You Must Know!: Extra g pawn is drawn"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Extra g pawn is drawn"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/zokTMTpU"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/P5k1/8/8/8/8/r5P1/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ If the g pawn in this position is missing, we already know that this position is a draw. Interestingly enough this position is still drawn even though white is now up two pawns. The drawing technique is similar to what we have already seen. }
+1. Kh2 Kh7 2. Kg3 Kg7 3. Kf3 Kh7 4. g4 Kg7 5. g5 Kh7 6. g6+ Kg7! (6... Kxg6?? { Don't get distracted! The king must stay on g7 or h7 as always. } 7. Rg8+ Kf7 8. a8=Q $18) 7. Ke4 Ra1 { Now that the black king has no more safe moves, black must find waiting moves with the rook. Thankfully, there will always be the possibility of Ra1-a2 (or a6 if the white king is near a2) waiting for white to try and make progress. } 8. Kf5 { Defending the g pawn does not disturb black's defensive setup. } 8... Ra2 9. Ke5 Ra1 10. Kd5 Ra2 11. Kc6 Ra1 12. Kb6 Rb1+! { Black still has the crucial rook check whenever the white king defends the a pawn. } 13. Kc7 Ra1 $10 { This exact drawing technique works just as well if white has an extra h pawn instead of an extra g pawn. In that case, black's king remains secure on h7 instead of g7. } *
+
+
+[Event "Rook Endgames You Must Know!: Extra f pawn is winning"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Extra f pawn is winning"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/7j9RImTE"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/P5k1/8/8/8/8/r4P2/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ This position would be drawn without the extra f pawn. However, with an f pawn, black's defensive setup can finally be disturbed. }
+1. Kg2 Kh7 2. Kf3 Kg7 3. Ke3 Kh7 4. f4 Kg7 5. f5 Ra6 (5... Ra1 6. f6+ $18 { Also winning, as in the main line. }) 6. f6+! { While the g or h pawn does not disturb black's setup, here we see that the f pawn is enough to tip the scales in white's favor. White is winning in every variation by either deflecting black's king from g7/h7 or black's rook from the a file. } 6... Kf7!? { The king is deflected from h8. } (6... Kh7!? 7. f7 { The f pawn cannot be stopped. } 7... Kg7 8. f8=Q+ $18) (6... Kxf6!? { The king is deflected off the 7th rank. } 7. Rf8+ Kg7 8. a8=Q $18) (6... Rxf6!? { The rook is deflected off the a file. } 7. Re8 Ra6 8. a8=Q $18 { If white's king was on the f file in this variation, 6...Rxf6 would have been with check ensuring the game was drawn after all. Be sure to watch for these small tricks in your own games! }) 7. Rh8! Rxa7 8. Rh7+! Kxf6 9. Rxa7 $18 { The usual skewer decides the game. } *
+
+
+[Event "Rook Endgames You Must Know!: A tricky stalemate"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "A tricky stalemate"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/G3dYO8bO"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/P5k1/8/8/8/8/r4P2/6K1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ As we just learned, this endgame is winning for white by distracting the black king away from the g7/h7 squares with the use of the f pawn. Regardless, black has one trick to remember: }
+1. Kg2 Kh7 2. Kf3 Kg7 3. Ke4 Kh7 4. f4 Kg7 5. f5 Ra4+ 6. Ke5 Ra5+ 7. Kf4?! { A step in the wrong direction. Zigzagging to b2 to avoid the perpetual would be easier. } (7. Kd4 Ra4+ 8. Kc3 Ra3+ 9. Kb2 Ra6 10. f6+ $18 { Transposing to the previous chapter. }) 7... Kf7!! { A losing move, but nonetheless a good attempt against a human opponent. If white recognizes the skewer pattern we have seen time and time again, they may fall into this trick! } 8. Rh8?? (8. f6! $18 { No stalemate tricks here! }) 8... Rxa7! 9. Rh7+ Kf6! 10. Rxa7 $10 { Stalemate! If you're on the black side of this position, feel free to try to set up this trick if you can tell your opponent knows how to convert from the original position. } *
+
+
+[Event "Rook Endgames You Must Know!: When two connected pawns are enough"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "When two connected pawns are enough"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/iw0KGNIs"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "8/7k/8/6KP/6P1/8/R7/6r1 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ In most circumstances, two connected pawns will be enough to win. The only challenging position is with two wing pawns, as they introduce the possibilities of stalemates and/or drawn rook-pawn endgames. Let's explore one possible way to promote these pawns: }
+1. Ra7+ Kg8 { When you can force the enemy king backwards, you should. } 2. h6 Rb1 (2... Rg2?! 3. Kf5 Rg1 4. g5 Rf1+ 5. Kg6 $18 { Keeping the rook behind the pawns loses quickly. }) 3. Kh5 Rb5+ 4. g5 Kh8 { Black is willing to play cat and mouse. If white wants to make further progress, the black rook needs to be kicked off of the 5th rank. } 5. Re7! { The rook prepares to block horizontal checks on e6/e5. } (5. h7?? Rxg5+ 6. Kxg5 $10 { Stalemate! Do NOT lead with the h pawn or you are likely to introduce stalemates! }) (5. Kg6?! Rb6+ 6. Kf5 Rb5+ { No progress here. }) 5... Ra5 6. Kg6 Ra6+ (6... Ra8!? 7. Kf6! $18 { g6 will be played next under optimal circumstances. }) 7. Kf5 Ra1 (7... Ra5+ 8. Re5 Ra1 9. g6 $18 { A better version of the main line. }) 8. g6 { The pawns push, creating back rank checkmate threats. White is making progress as long as there is no perpetual check.
+PRO TIP: In general you should only commit to creating this pawn duo on the 6th if you are 100% certain you have calculated the path forward. If you do not, it's quite possible this move over-extends the pawns and creates stalemate nets. } 8... Rf1+ (8... Ra8!? 9. Kf6 Rb8 10. Ke6 Rb6+ 11. Kf7 Rb8 12. Re8+ $18 { Transposing to the main line }) 9. Ke6 Re1+ 10. Kd7! { White needs to play Ke8 at a time where Rf6 does not immediately draw the game. } (10. Kf7?! Rf1+ 11. Ke8?? (11. Ke6! { White must repeat moves instead. }) 11... Rf6! $10 { Pushing either pawn drops the other! This is exactly a scenario to avoid. }) 10... Rd1+ 11. Ke8 Rd6 (11... Rd2?! { Black can no longer wait passively. } 12. Rf7! Re2+ 13. Kf8 Rf2! 14. g7+ (14. Rxf2?? $10 { Another stalemate! }) 14... Kh7 15. g8=Q+ Kxh6 16. Rxf2 $18) 12. Kf7! { Notice the difference between playing Kf7 here and Kf7 two moves earlier. } 12... Rd8 13. Re8+ { The back rank threat finally forced black into a rook trade. } 13... Rxe8 14. Kxe8 { An easily won king and pawn endgame you should know. Although there are still stalemate threats... } 14... Kg8 15. g7! (15. h7+ Kg7 16. Ke7 Kh8 17. Kf7?? $10 { Don't let these stalemates happen to you! }) 15... Kh7 16. Kf7 Kxh6 17. g8=Q Kh5 18. Qg3 Kh6 19. Qg6# { This is another endgame that you should not try and memorize. Instead, notice when pushing the pawns is premature, when pushing the pawns makes progress, how to block the rook checks, and how black can attempt to stalemate themselves. If you can internalize these little tricks, you are sure to convert this endgame under pressure! } *
+
+
+[Event "Rook Endgames You Must Know!: When two connected pawns are not enough"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "When two connected pawns are not enough"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/oPRxbd6o"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "8/8/r5kP/6P1/3R1K2/8/8/8 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+
+{ White is up two connected passed pawns, but this position is actually drawn as well. The crucial factors in this position are: Black's king is perfectly placed blockading both pawns from making further progress, black's rook prevents white from checking the king backwards, and the wing pawns mean that white's king cannot enter on the opposite side of black's rook. }
+1... Rb6 { As always, black must be content with waiting with this unbreakable fortress... } 2. Rd8!? { As we shall soon see, there is no other way to make progress. } 2... Rb4+! { The king is first forced away from the defense of the g pawn. } 3. Ke5 (3. Kg3?! Rb7 $10 { Similar to the main line, but now white's king is worse-placed. }) 3... Rb7! { Black now protects the 7th rank (and therefore stops h7). Black is now actually threatening to capture the g pawn. } (3... Kxg5?? 4. h7 $18 { White queens next.
+PRO TIP: When you have a material advantage, sacrificing some material in order to reach a winning endgame is an important tool in your toolbox. }) (3... Rg4?? 4. Rg8+ Kh7 5. Kf5! Rg1 6. Rg7+ Kh8 7. Rf7 $18 { A winning endgame explored further in the previous chapter. }) 4. Rg8+ Kh7 { Gaining a crucial tempo on the g8 rook. } 5. Re8 (5. Rg7+?! Rxg7 6. hxg7 Kxg7 $10 { This king and pawn endgame is not good enough for a win. }) 5... Kg6! { As long as the white king cannot enter, black is happy to repeat the position. The g pawn is again threatened for real. } 6. Kf4 (6. Ke6? Kxg5 $10) (6. Re6+? Kxg5 $10) 6... Rb4+! 7. Re4 Rb6 $10 { Repeating the original position. Black's 6th rank blockade cannot be disturbed in any variation. } *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 6: Reaching the Lucena"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 6: Reaching the Lucena"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/dEWFgitE"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "4K3/1r4k1/3RP3/8/8/8/8/8 b - - 6 4"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+4... Rb8+ { We have almost reached the Lucena position, but black's king and rook are active enough to stop us from reaching the dream piece setup. } 5. Rd8! (5. Ke7?? { This move doesn't threaten anything, so black has time to play Ra8!! and prepare further harassment of your king from a further distance. } 5... Ra8!! $10) 5... Rb1 { Exactly! Trading rooks loses immediately, so black is forced to spend an extra tempo saving their undefended rook. What's next? } 6. e7! Rb7 { Almost there! } 7. Rd1 { Exactly - white has now reached the starting Lucena position. After Rg1+ next, we can soon build the bridge and promote the pawn. } (7. Rd6?! { Your rook is too close to the black king now to prevent Kf7 with Rf6+. }) (7. Rd2! { Equally good. Play Rd1 instead for the solution. }) (7. Rd3! { Equally good. Play Rd1 instead for the solution. }) (7. Rd4! { Equally good. Play Rd1 instead for the solution. }) *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 7: Preventing the Vancura"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 7: Preventing the Vancura"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/Mx3NXEQg"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "8/8/R7/8/6k1/p7/6K1/r7 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+1. Rg6+?? { White is close to reaching the Vancura position, but this check actually loses the game. Knowing the theoretical Vancura defense that white would like to employ, can you refute white's current setup? } (1. Ra4+! Kf5 2. Rc4! $10 { This would have been the correct way forward. }) 1... Kf4! (1... Kf5?? { You just allowed white to transpose to the Vancura with Rg3! } 2. Rg3! $10) 2. Ra6 { Exactly! Keeping control over g3 for just one move ensured that Rg3 would have lost to Rg1+! Can you keep it up? } (2. Rg3?! Rg1+ 3. Kxg1 Kxg3 $19) 2... Ke4 { Time to get your king over to the a file now that white's rook cannot check you horizontally! } (2... Ke5! $19 { Also correct. Play Ke4 instead for the solution. }) (2... Ke3?? { This logical move does not work due to Rh6! and now the desired follow-up of Rb1 loses the a3 pawn to Rh3+. } 3. Rh6! Rb1 4. Rh3+ $10) 3. Ra4+ Kd5! (3... Kd3!? { Technically wins, but the conversion after Rf4 is far from easy. } 4. Rf4 Ra2+ 5. Kf1 Ke3! 6. Ra4 Kd2 $19) (3... Ke3?? { An unfortunate blunder. After Rh4-h3, the position is incredibly still drawn! } 4. Rh4 Kd3 5. Rh3+ $10) 4. Rf4 { Once again, white is one move away from setting up the Vancura defense. What is the issue with the setup now? } 4... Ra2+! (4... Rb1?! $19 { Also technically winning. But after Ra4, Ra1 is the only winning move, repeating. How do you actually make progress? } 5. Ra4 Ra1 $19 { Repeating. } (5... Rb2+?? 6. Kf3 a2 7. Ke3 Kc5 8. Kd3 Kb5 9. Ra8 Kb4 10. Rb8+ $10 { No escape from the checks! })) 5. Kg3 { Trading rooks would have lost the game immediately, so white is forced to move the king. } 5... Rb2! $19 { White's king and rook are horribly misplaced to deal with this passed a pawn. a2 is coming next, with a winning position. } (5... Rc2! $19 { Also winning. Play Rb2 instead for the solution. }) (5... Rd2! $19 { Also winning. Play Rb2 instead for the solution. }) (5... Re2! $19 { Also winning. Play Rb2 instead for the solution. }) *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 8: Actively stopping the Slinky"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 8: Actively stopping the Slinky"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/vSXmDi1t"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "8/8/6PR/3k4/8/6rP/8/K7 b - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+{ Under normal circumstances, it is clear that white is winning by using the Slinky method to promote these two pawns. However, white's king is so out of play, that black has enough here for a draw. Can you find black's hidden resources?
+
+Warning: this is a fantastically complicated position that you are not expected to figure out from the starting position. Take it move by move and see how you fare! }
+1... Kc4!! (1... Rg2?? { An interesting try, but not as precise or as flexible as the main line. Check the Analysis afterwards to see why this does not work. } 2. h4 Kc4 3. Kb1 Kc3 4. h5 Rg1+ 5. Ka2 Rg2+ 6. Ka3 Rg1 7. Ka4 Kc4 8. Ka5 Kc5 9. Ka6 Kc6 10. g7+ $18 { Black is down a tempo from the game! }) 2. Kb2! { Brilliant! You completely abandoned the hopeless task of defending the Slinky and went directly after white's king instead. White saw the mate threats coming, so what's your follow-up now? } (2. h4?? Kb3! $19) 2... Rg2+ 3. Ka3 { The game would continue similarly if Kc1 was played instead. } (3. Kc1 Kc3 4. Kd1 Kd3 5. Ke1 Ke3 6. Kf1 Kf3 7. h4 Ra2 8. Ke1 Ke3 9. Kd1 Kd3 10. Kc1 Kc3 11. Kb1 Rb2+ 12. Ka1 Rg2 $10) 3... Rg3+ 4. Ka4! { White refuses to meekly accept a draw and asks you to prove that you have any real threats against their king. } 4... Rg1! (4... Rg2! $10 { Also correct. Play Rg1 instead for the solution. }) 5. Ka5 Kc5! 6. Ka6 Kc6! 7. Ka7 { White playing g7+ instead transposes to the main line. } (7. g7+ Kd7 8. Rh7 Ke6 $10) 7... Kc7! 8. Rh7+ { Finally, white has made a move they did not want to commit to! By starting the Slinky with the rook first, the head pawn loses its protection. The tail pawn in the Slinky is now too far behind to defend g6 in one move, so we can now revert to trying to win the Slinky instead of checkmating white's king. } 8... Kd6! (8... Kc6?? { How does this attempt to win the Slinky? } 9. g7 Kd6 10. h4 Ke6 11. h5 Kf7 12. h6 Kg8 13. Rh8+ $18) (8... Kd8?? { After Rg7, white has just enough for a win because you just trapped your king on the back row! } 9. Rg7 Ke8 10. h4 Kf8 11. Rf7+ Kg8 12. h5 $18) 9. g7 Ke6! (9... Ke5! $10 { Also correct. Play Ke6 instead for the solution. }) (9... Ke7?? { Oops. Now g8=Q comes with check! } 10. g8=Q+ $18) 10. h4 Kf7! (10... Kf6! { Equally good. Play Kf7 instead for the solution. }) 11. h5 Rxg7 (11... Kg8! $10 { Also correct. Play Rxg7 instead for the solution. }) 12. Rxg7+ Kxg7 $10 { Fantastic job working through this difficult position. Sequences like this are the reason masters joke that "all rook endgames are drawn." King activity sometimes matters more than two pawns! } *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 9: Punishing an inaccuracy in the Vancura"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 9: Punishing an inaccuracy in the Vancura"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/8WMhnFmC"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/6k1/P7/8/5K2/8/8/r7 b - - 21 12"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+12... Rb1?? { If black played Rc1 instead of Rb1??, we would be back in the known Vancura draw. Instead, this move is a blunder that we need to punish. I said earlier "Rb1 superficially looks similar to the main line, but now white will have Rb7, gaining a key tempo on our unprotected rook in some lines."
+Let's see if we can put the pieces together and find the win for white. } 13. Ra7+! Kf8 { We will analyze the critical try with Kf6 in the next exercise. } (13... Kf6 14. Ke4 Ke6 (14... Rb6) 15. Ra8 Rb4+ 16. Kd3 Kd6 17. a7) 14. Rb7! Ra1 { Now we appreciate an important difference between Rb1 and Rc1 in the Vancura! After Rb7, black had to move the rook back to a1 with a loss of time. With the rook on c1, Rb7 could always be met with Rc6 a7, Ra6. } 15. a7 { Nicely done! The pawn is no longer defended from in front, so we now have a lot more flexibility than when our rook is trapped on a8. } 15... Ke8 { Every move is now winning, but let's find the fastest way to promote the a pawn. } 16. Rb8+ Kd7 { Nice! Promotion is unstoppable. } 17. a8=Q Rxa8 18. Rxa8 $18 { Now that we understand why the king cannot go to the back rank after our rook check, let's explore what happens if the black king tries to walk up the board to challenge us next. } *
+
+
+[Event "Rook Endgames You Must Know!: Exercise 10: The critical line after Rb1"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Exercise 10: The critical line after Rb1"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/FtnsZQmf"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/6k1/P7/8/5K2/8/8/r7 b - - 21 12"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+12... Rb1?? { We are repeating the previous exercise, but will now explore what happens after black walks up the board with the king instead. } 13. Ra7+! Kf6! { The winning check is now met with the critical move: Kf6. } 14. Ke4! (14. Rb7?? $10 { After Ra1, a7 our king is still not helping escort the pawn. This contracts with the last exercise when black's king was on f8, and we could immediately queen. }) 14... Ke6 { Black is trying to stop our king from reaching the a7 square. But there is a cost to marching the king so far from the g7/h7 safe squares... } 15. Ra8! (15. Kd4?? { After Kd6, your king is not getting in. } 15... Kd6 $10) 15... Rb4+ 16. Kd3 (16. Ke3 $18 { Equally correct. Play Kd3 instead for the solution. }) (16. Kf3 $18 { Equally correct. Play Kd3 instead for the solution. }) 16... Ra4 17. a7! $18 { Excellent job! Black's king is more than 1 square away from the g7/h7 safe squares, so we transition to the known winning rook and pawn endgame. } *
+
+
+[Event "Rook Endgames You Must Know!: Practical endgame advice"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Practical endgame advice"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/hd0R1DWr"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "8/1kp5/1p6/p5r1/8/3P4/PPP4R/1K6 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+{ I will leave this study with some practical endgame advice about rook endgames. In general, the fewer pawns on the board, the more likely the position will reach a draw. We have seen a few examples in this study where that is exactly the case. Moreover, it is a lot easier to trade pawns when all the pawns are on the same side of the board.
+
+Therefore, as black in this position, we would want to trade off as many pawns as possible in order to reach an eventual Philidor position. One method of doing this is to setup our pawns in their current configuration, the so-called "wave cutter" pawn structure. In order for white to try and make progress by creating a passed pawn, three pawns will have to first be traded, leaving black with the desired Philidor position. Black should avoid trading rooks because the king and pawn endgames may be winning.
+
+In rook endgames, 4 vs 3 are often drawn, 3 vs 2 are usually drawn, and 2 vs 1 or 1 vs 0 are almost always drawn using the techniques we've explored in this study. }
+ *
+
+
+[Event "Rook Endgames You Must Know!: Thanks for enjoying this study!"]
+[Date "2021.10.10"]
+[Result "*"]
+[Variant "From Position"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Rook Endgames You Must Know!"]
+[ChapterName "Thanks for enjoying this study!"]
+[ChapterURL "https://lichess.org/study/bnboDhFM/HfA1qebt"]
+[Annotator "https://lichess.org/@/NoseKnowsAll"]
+[FEN "R7/K5k1/P7/8/8/8/8/1r6 w - - 21 11"]
+[SetUp "1"]
+[UTCDate "2021.10.10"]
+[UTCTime "22:16:38"]
+[ChapterMode "gamebook"]
+
+{ Be sure to like this study and share with your friends if you enjoyed it! Feel free to ask/answer any questions in the chat room if you're stuck on a key idea. You can check out my other instructive studies too if you're working on improving your game.
+-NoseKnowsAll
+
+* Beginner endgames you must know! https://lichess.org/study/wukLYIXj
+* Intermediate endgames you must know! https://lichess.org/study/UsqmCsgC
+* More endgames you must know! https://lichess.org/study/xtDSXkyi
+* Advanced endgames you must know! https://lichess.org/study/UO2zqigQ
+* Rook endgames you must know! https://lichess.org/study/bnboDhFM
+* Knights | How to dominate your opponents! https://lichess.org/study/kI8ikTU4
+* Bishops | Slice through the opposition! https://lichess.org/study/kNn68T8l
+* Rooks | Infiltrate for activity! https://lichess.org/study/U7tTRtdj
+* Always sacrifice the exchange! https://lichess.org/study/h3ccaYFE
+* Beautiful checkmates https://lichess.org/study/YtBYXc3m }
+ *
+
+

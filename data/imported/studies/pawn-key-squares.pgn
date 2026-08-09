@@ -1,0 +1,219 @@
+[Event "Lichess Practice: Key Squares: Pawn on the 2nd rank"]
+[Date "2017.01.21"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Pawn on the 2nd rank"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/o3Hq4RZ0"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "8/8/8/1k6/8/4K3/2P5/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.21"]
+[UTCTime "23:42:21"]
+
+{ [%csl Gb4,Gc4,Gd4] }
+ *
+
+
+[Event "Lichess Practice: Key Squares: Pawn on the 3rd rank"]
+[Date "2017.01.21"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Pawn on the 3rd rank"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/ZtcsDndf"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "4k3/8/8/8/8/1KP5/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.21"]
+[UTCTime "23:47:55"]
+
+{ [%csl Gb5,Gc5,Gd5] }
+ *
+
+
+[Event "Lichess Practice: Key Squares: Pawn on the 4th rank"]
+[Date "2017.01.21"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Pawn on the 4th rank"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/5AR69ul5"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "8/8/k7/4K3/2P5/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.21"]
+[UTCTime "23:46:52"]
+
+{ [%csl Gb6,Gc6,Gd6] }
+ *
+
+
+[Event "Lichess Practice: Key Squares: Pawn on the 5th rank"]
+[Date "2017.01.21"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Pawn on the 5th rank"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/G2OeEr3o"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "3k4/8/8/1KP5/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.21"]
+[UTCTime "23:49:37"]
+
+{ [%csl Gb7,Gb6,Gc6,Gd6,Gd7,Gc7] }
+ *
+
+
+[Event "Lichess Practice: Key Squares: Pawn on the 6th rank"]
+[Date "2017.01.21"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Pawn on the 6th rank"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/0C9Uxfvh"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "2k5/8/1KP5/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.21"]
+[UTCTime "23:50:53"]
+
+{ [%csl Gb7,Gc7,Gd7,Gd8,Gc8,Gb8] }
+ *
+
+
+[Event "Lichess Practice: Key Squares: Knight pawn on the 6th exception #1"]
+[Date "2017.01.22"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Knight pawn on the 6th exception #1"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/iC8DBiW6"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "k7/2K5/8/1P6/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.22"]
+[UTCTime "00:08:51"]
+
+{ [%csl Rc7,Rc8,Gb7,Ga7,Ga8,Gb8][%cal Rb5b6] }
+1. Kc6 Ka7 2. Kc7 Ka8 3. Kb6 Kb8 4. Ka6 Kc7 5. Ka7 Kd6 6. b6 Kc5 7. b7 Kc4 8. b8=Q Kd5 *
+
+
+[Event "Lichess Practice: Key Squares: Knight pawn on the 6th exception #2"]
+[Date "2017.01.22"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Knight pawn on the 6th exception #2"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/NcEt7RJK"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "6k1/8/6K1/6P1/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.22"]
+[UTCTime "02:26:10"]
+
+ *
+
+
+[Event "Lichess Practice: Key Squares: Pawn on the 7th rank"]
+[Date "2017.01.21"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Pawn on the 7th rank"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/JrrEF3jc"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "8/1kP1K3/8/8/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.21"]
+[UTCTime "23:55:29"]
+
+{ [%csl Gb8,Gc8,Gd8,Gd7,Gb7] }
+ *
+
+
+[Event "Lichess Practice: Key Squares: Rook pawn #1"]
+[Date "2017.01.21"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Rook pawn #1"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/9rnbKpVG"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "8/4k3/6K1/7P/8/8/8/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.21"]
+[UTCTime "23:33:21"]
+
+{ [%csl Rh8,Rh7,Rh6,Rf8,Rf7,Gg8,Gg7] }
+ *
+
+
+[Event "Lichess Practice: Key Squares: Rook pawn #2"]
+[Date "2017.01.21"]
+[Result "*"]
+[Termination "Draw in 10"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Rook pawn #2"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/AVrhWm1m"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "8/8/8/8/pk6/8/3K4/8 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.21"]
+[UTCTime "23:37:24"]
+
+{ [%csl Gb1,Gb2,Rc1,Rc2,Ra1,Ra2,Ra3] }
+ *
+
+
+[Event "Lichess Practice: Key Squares: Any key square by any route"]
+[Date "2017.01.22"]
+[Result "*"]
+[Termination "promotion with +100cp"]
+[Variant "Standard"]
+[ECO "?"]
+[Opening "?"]
+[StudyName "Lichess Practice: Key Squares"]
+[ChapterName "Any key square by any route"]
+[ChapterURL "https://lichess.org/study/xebrDvFe/S8rbDQmn"]
+[Annotator "https://lichess.org/@/arex"]
+[FEN "5k2/8/8/8/8/2P5/8/3K4 w - - 0 1"]
+[SetUp "1"]
+[UTCDate "2017.01.22"]
+[UTCTime "00:26:57"]
+
+{ [%csl Gb5,Gc5,Gd5] }
+ *
+
+
