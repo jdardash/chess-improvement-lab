@@ -2,7 +2,7 @@
 
 Derived from 4,708 chess.com games (2020-2026), a Stockfish review of all 83
 rapid games played since 2025, and targeted research on the puzzle-game gap.
-Evidence base for the general method: `Chess Improvement Research.md`.
+Evidence base for the general method: `docs/research-2026-07-chess-improvement.md`.
 
 ## The diagnosis
 
@@ -106,5 +106,5 @@ next month's puzzle theme.
 The realistic read (per the gap research): the current tactical level can
 support ~1300-1400 rapid on blunder-reduction alone — no new knowledge
 required. The 1600 goal likely needs the endgame/positional layer described
-in `Chess Improvement Research.md`, gated at 1400-1500. Measure monthly, not
+in `docs/research-2026-07-chess-improvement.md`, gated at 1400-1500. Measure monthly, not
 per-session; rating is noisy at +/-50.

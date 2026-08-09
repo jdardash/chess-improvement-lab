@@ -27,7 +27,7 @@ checks-captures-threats safety check, and winning positions must be **played
 out to conversion** against Stockfish.
 
 The evidence base behind every design choice is in
-[`Chess Improvement Research.md`](Chess%20Improvement%20Research.md) (adversarially
+[`docs/research-2026-07-chess-improvement.md`](docs/research-2026-07-chess-improvement.md) (adversarially
 verified, 2026-07) and
 [`docs/research-2026-08-what-works.md`](docs/research-2026-08-what-works.md)
 (three deep-research passes: training science, tool survey, elite coaching).
@@ -102,7 +102,8 @@ all offline: [chessground](https://github.com/lichess-org/chessground) (GPL-3.0)
 Stockfish 10 asm.js (GPL-3.0). Puzzle data from the
 [CC0 Lichess puzzle database](https://database.lichess.org/). Game data is my
 own public chess.com archive. Capablanca's *Chess Fundamentals* is public
-domain via Project Gutenberg.
+domain via [Project Gutenberg #33870](https://www.gutenberg.org/ebooks/33870).
 
-Not tracked in git: the Stockfish analysis binary (`tools/stockfish/`,
-re-download from the link above) and `node_modules`.
+Not tracked in git, fetch them yourself: the Stockfish analysis binary
+(`tools/stockfish/`, re-download from the link above), the Capablanca epub
+(Gutenberg link above), and `node_modules`.

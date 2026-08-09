@@ -16,7 +16,7 @@ What you actually lose by not paying: convenience, and the social gravity of
 chess.com's ecosystem (friends, Titled Tuesday, the rating pool you already
 play in). You can keep playing there for free and do all analysis elsewhere.
 
-Second framing, specific to you: per `Personalized Plan.md`, your bottleneck is
+Second framing, specific to you: per `docs/personal-plan.md`, your bottleneck is
 **move-speed discipline and blunder-checking**, not tactical knowledge or
 opening theory. Diamond's headline features (unlimited lessons, unlimited
 puzzles, courses) target the things you are *already good at*. Paying would buy

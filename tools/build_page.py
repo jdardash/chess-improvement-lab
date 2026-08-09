@@ -501,7 +501,7 @@ RESOURCES = [
         "blurb": "Legally free, complete, and downloadable.",
         "items": [
             {"url": "https://www.gutenberg.org/ebooks/33870", "label": "Capablanca — Chess Fundamentals",
-             "note": "Already in this folder as an epub. Endgame-first."},
+             "note": "Free epub from Project Gutenberg. Endgame-first."},
             {"url": "https://archive.org/details/lasker-s-manual-of-chess", "label": "Lasker — Manual of Chess",
              "note": "Public Domain Mark, unrestricted download. Not lending-gated."},
             {"url": "https://www.gutenberg.org/ebooks/5614", "label": "Edward Lasker — Chess Strategy", "note": "Public domain."},
@@ -513,7 +513,7 @@ RESOURCES = [
     },
     {
         "title": "Free tools worth installing",
-        "blurb": "The stack that replaces chess.com Diamond for nothing. See Free Diamond Stack.md for the full argument.",
+        "blurb": "The stack that replaces chess.com Diamond for nothing. See docs/free-tool-stack.md for the full argument.",
         "items": [
             {"url": "https://lichess.org/training", "label": "Lichess puzzles",
              "note": "Unlimited, free, ~6M positions. Replaces the 3-per-day cap outright."},
@@ -550,7 +550,7 @@ DEAD_LINKS = [
 # Consolidated 2026-08-09 from three deep-research passes (training science,
 # tool survey, elite players and coaches) on top of the 2026-07 adversarially
 # verified base. Full reports: docs/research-2026-08-what-works.md and
-# Chess Improvement Research.md. The coverage column is the honest audit of
+# docs/research-2026-07-chess-improvement.md. The coverage column is the honest audit of
 # whether THIS system actually supports each practice.
 
 EVIDENCE = {

@@ -119,7 +119,7 @@ export function renderStudy(root, data) {
   const plan = document.createElement('section');
   plan.className = 'study-section plan-card';
   plan.innerHTML = `<h3>The plan</h3>
-    <p class="sub">One habit, one setting, one ritual. From <code>Personalized Plan.md</code>.</p>`;
+    <p class="sub">One habit, one setting, one ritual. From <code>docs/personal-plan.md</code>.</p>`;
 
   const habit = document.createElement('div');
   habit.className = 'plan-block';

@@ -1,6 +1,9 @@
 # Large binaries — re-download from https://stockfishchess.org/download/
 tools/stockfish/
 
+# Reference ebooks — public domain, fetch from Project Gutenberg
+*.epub
+
 # Dependencies (vendored bundle is tracked; node_modules is not)
 tools/webapp/node_modules/
 

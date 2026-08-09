@@ -1,6 +1,6 @@
 // The Train tab. This is the part of the page that exists to change behaviour
 // rather than to inform: every card is gated behind a think timer and an explicit
-// Real Chess safety check, because the diagnosis in Personalized Plan.md is a
+// Real Chess safety check, because the diagnosis in docs/personal-plan.md is a
 // discipline failure, not a knowledge failure.
 
 import { makeBoard, uciToSan, COLOR } from './board.js';

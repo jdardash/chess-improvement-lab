@@ -1,7 +1,7 @@
 # What Actually Works — deep research, 2026-08-09
 
 Three parallel research passes on top of the adversarially verified 2026-07 base
-(`Chess Improvement Research.md`): (1) the training-science and coaching consensus
+(`docs/research-2026-07-chess-improvement.md`): (1) the training-science and coaching consensus
 for 800-1600 adult improvers, (2) a feature survey of every serious training tool,
 (3) what the world's best players actually did and what elite coaches teach.
 This file is the consolidated record; the page's "What actually works" section in
